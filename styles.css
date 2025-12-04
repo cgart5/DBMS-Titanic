@@ -1,0 +1,261 @@
+/* Webkit Scrollbar: https://www.w3schools.com/howto/howto_css_custom_scrollbar.asp */
+
+body {
+    display: flex;
+    overflow-x: scroll;
+    flex-direction: column;
+    background-image: url("titanic-sinking.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #cccccc;
+    justify-content: center;
+    align-items: center;  
+}
+a {
+    color: white;
+    text-decoration: none;
+
+}
+a:visited {
+    color: white;
+}
+
+a:hover {
+    font-weight: bold;
+    transform: scale(1.8);
+    color: blue;
+    text-shadow: 3px 3px 8px rgba(0, 0, 0, 0.5);
+    transition: transform 0.3s ease, color 0.3s ease, text-shadow 0.3s ease;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(17, 0, 255);
+    text-align: center;
+}
+
+h3 {
+    color:white;
+    text-align: center;
+}
+
+.header {
+    padding: 10px;
+    width: 100%;
+    justify-content: center;
+}
+
+.content {
+    flex-grow: 1;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.content2 {
+    flex-grow: 1;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.content3 {
+    flex-grow: 1;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.content form {
+    background-color: rgb(57, 51, 51);
+    color: white;
+    font-weight:bold;
+    text-align: center;
+    flex-grow: 1;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(139, 132, 132, 0.2);
+    width: 100%;
+    max-width: none;
+}
+
+.content2 form {
+    background-color: rgb(57, 51, 51);
+    color: white;
+    font-weight:bold;
+    text-align: left;
+    flex-grow: 1;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(139, 132, 132, 0.2);
+    width: fit-content;
+    max-width: none;
+}
+
+.content3 form {
+    background-color: rgb(57, 51, 51);
+    color: white;
+    font-weight:bold;
+    text-align: left;
+    flex-grow: 1;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(139, 132, 132, 0.2);
+    width: fit-content;
+    max-width: 500px;
+}
+
+
+.db {
+    overflow-x: auto;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #2C2C2C;
+    color: white;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.db th{
+    padding: 8px;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    white-space: nowrap;
+}
+
+.db td {
+    padding: 8px;
+    text-align: center;
+}
+
+.db thead {
+    background-color: #444;
+    font-weight: bold;
+    text-transform: uppercase;
+    position: sticky;
+    top: 0;
+}
+
+.db tbody tr:hover {
+    background-color: #555;
+    cursor: pointer;
+}
+
+.db caption {
+    caption-side: top;
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    padding: 3px;
+    font-size: 2rem;
+}
+
+body p {
+    color: white;
+    text-align: center;
+    font-size: 8px;
+}
+
+body h5{
+    color: white;
+    text-align: left;
+    font-weight: lighter;
+}
+
+.scroll-container {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scroll-snap-type:proximity;
+    gap: 2rem;
+    padding: 1rem;
+    width: 100%;
+    max-width:fit-content;
+    box-sizing: border-box;
+}
+
+.scroll-container::-webkit-scrollbar {
+    height: 8px;
+}
+  
+.scroll-container::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 4px;
+}
+
+.table-panel {
+    flex: 0 0 auto;
+    width: auto;
+    background-color: transparent;
+    border-radius: 12px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    height: 700px;
+    overflow-y: auto; 
+    overflow-x: hidden;
+    width: fit-content;
+    box-sizing: border-box;
+    scroll-snap-type: y mandatory;
+}
+
+.table-panel::-webkit-scrollbar {
+    width: 8px;
+}
+
+.table-panel::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 4px;
+}
+
+.upload-form {
+    background-color: transparent;
+    padding: 0;
+    box-shadow: none;
+}
+  
+.upload-button {
+    background-color: #2C2C2C;
+    color: white; 
+    border: none; 
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+  
+.upload-button:hover {
+    background-color: blue
+}
+
+img {
+    margin-top: 50px;
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+}
+
+input[type='submit'] {
+    background-color: white;
+    color: black;
+    padding: 20x;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 15px;
+    transition: background-color 0.3s ease;
+}
+
+input[type='submit']:hover {
+    background-color: blue;
+}

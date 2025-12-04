@@ -1,0 +1,892 @@
+Passenger_ID,Survive,Honorific,First Name,Last Name,Unmarried Name,Gender,Age,Siblings/Spouses On Board,Parents/Kids On Board,Boarding_ID,Class,Ticket Number,Fare,Cabins,Embarked From
+21964,False,Mr,Owen,Braund,NULL,male,22.0,1,0,16223,3,521171,7.25,NULL,Southampton
+21965,True,Mrs,John,Cumings,Florence Briggs Thayer,female,38.0,1,0,16224,1,17599,71.28,C85,Cherbourg
+21966,True,Miss,Laina,Heikkinen,NULL,female,26.0,0,0,16225,3,23101282,7.92,NULL,Southampton
+21967,True,Mrs,Jacques,Futrelle,Lily May Peel,female,35.0,1,0,16226,1,113803,53.1,C123,Southampton
+21968,False,Mr,William,Allen,NULL,male,35.0,0,0,16227,3,373450,8.05,NULL,Southampton
+21969,False,Mr,James,Moran,NULL,male,NULL,0,0,16228,3,330877,8.46,NULL,Queenstown
+21970,False,Mr,Timothy,McCarthy,NULL,male,54.0,0,0,16229,1,17463,51.86,E46,Southampton
+21971,False,Master,Gosta,Palsson,NULL,male,2.0,3,1,16230,3,349909,21.08,NULL,Southampton
+21972,True,Mrs,Oscar,Johnson,Elisabeth Vilhelmina Berg,female,27.0,0,2,16231,3,347742,11.13,NULL,Southampton
+21973,True,Mrs,Nicholas,Nasser,Adele Achem,female,14.0,1,0,16232,2,237736,30.07,NULL,Cherbourg
+21974,True,Miss,Marguerite,Sandstrom,NULL,female,4.0,1,1,16233,3,9549,16.7,G6,Southampton
+21975,True,Miss,Elizabeth,Bonnell,NULL,female,58.0,0,0,16234,1,113783,26.55,C103,Southampton
+21976,False,Mr,William,Saundercock,NULL,male,20.0,0,0,16235,3,52151,8.05,NULL,Southampton
+21977,False,Mr,Anders,Andersson,NULL,male,39.0,1,5,16236,3,347082,31.28,NULL,Southampton
+21978,False,Miss,Hulda,Vestrom,NULL,female,14.0,0,0,16237,3,350406,7.85,NULL,Southampton
+21979,True,Mrs,Mary,Hewlett,Mary D Kingcome,female,55.0,0,0,16238,2,248706,16.0,NULL,Southampton
+21980,False,Master,Eugene,Rice,NULL,male,2.0,4,1,16239,3,382652,29.12,NULL,Queenstown
+21981,True,Mr,Charles,Williams,NULL,male,NULL,0,0,16240,2,244373,13.0,NULL,Southampton
+21982,False,Mrs,Julius,Vander Planke,Emelia Maria Vandemoortele,female,31.0,1,0,16241,3,345763,18.0,NULL,Southampton
+21983,True,Mrs,Fatima,Masselmani,NULL,female,NULL,0,0,16242,3,2649,7.22,NULL,Cherbourg
+21984,False,Mr,Joseph,Fynney,NULL,male,35.0,0,0,16243,2,239865,26.0,NULL,Southampton
+21985,True,Mr,Lawrence,Beesley,NULL,male,34.0,0,0,16244,2,248698,13.0,D56,Southampton
+21986,True,Miss,Anna,McGowan,NULL,female,15.0,0,0,16245,3,330923,8.03,NULL,Queenstown
+21987,True,Mr,William,Sloper,NULL,male,28.0,0,0,16246,1,113788,35.5,A6,Southampton
+21988,False,Miss,Torborg,Palsson,NULL,female,8.0,3,1,16230,3,349909,21.08,NULL,Southampton
+21989,True,Mrs,Carl,Asplund,Selma Augusta Emilia Johansson,female,38.0,1,5,16247,3,347077,31.39,NULL,Southampton
+21990,False,Mr,Farred,Emir,NULL,male,NULL,0,0,16248,3,2631,7.22,NULL,Cherbourg
+21991,False,Mr,Charles,Fortune,NULL,male,19.0,3,2,16249,1,19950,263.0,C23 C25 C27,Southampton
+21992,True,Miss,Ellen,O'Dwyer,NULL,female,NULL,0,0,16250,3,330959,7.88,NULL,Queenstown
+21993,False,Mr,Lalio,Todoroff,NULL,male,NULL,0,0,16251,3,349216,7.9,NULL,Southampton
+21994,False,Don,Manuel,Uruchurtu,NULL,male,40.0,0,0,16252,1,17601,27.72,NULL,Cherbourg
+21995,True,Mrs,William,Spencer,Marie Eugenie,female,NULL,1,0,16253,1,17569,146.52,B78,Cherbourg
+21996,True,Miss,Mary,Glynn,NULL,female,NULL,0,0,16254,3,335677,7.75,NULL,Queenstown
+21997,False,Mr,Edward,Wheadon,NULL,male,66.0,0,0,16255,2,24579,10.5,NULL,Southampton
+21998,False,Mr,Edgar,Meyer,NULL,male,28.0,1,0,16256,1,17604,82.17,NULL,Cherbourg
+21999,False,Mr,Alexander,Holverson,NULL,male,42.0,1,0,16257,1,113789,52.0,NULL,Southampton
+22000,True,Mr,Hanna,Mamee,NULL,male,NULL,0,0,16258,3,2677,7.23,NULL,Cherbourg
+22001,False,Mr,Ernest,Cann,NULL,male,21.0,0,0,16259,3,52152,8.05,NULL,Southampton
+22002,False,Miss,Augusta,Vander Planke,NULL,female,18.0,2,0,16260,3,345764,18.0,NULL,Southampton
+22003,True,Miss,Jamila,Nicola-Yarred,NULL,female,14.0,1,0,16261,3,2651,11.24,NULL,Cherbourg
+22004,False,Mrs,Johan,Ahlin,Johanna Persdotter Larsson,female,40.0,1,0,16262,3,7546,9.48,NULL,Southampton
+22005,False,Mrs,William,Turpin,Dorothy Ann Wonnacott,female,27.0,1,0,16263,2,11668,21.0,NULL,Southampton
+22006,False,Mr,Theodor,Kraeff,NULL,male,NULL,0,0,16264,3,349253,7.9,NULL,Cherbourg
+22007,True,Miss,Simonne,Laroche,NULL,female,3.0,1,2,16265,2,2123,41.58,NULL,Cherbourg
+22008,True,Miss,Margaret,Devaney,NULL,female,19.0,0,0,16266,3,330958,7.88,NULL,Queenstown
+22009,False,Mr,William,Rogers,NULL,male,NULL,0,0,16267,3,423567,8.05,NULL,Southampton
+22010,False,Mr,Denis,Lennon,NULL,male,NULL,1,0,16268,3,370371,15.5,NULL,Queenstown
+22011,True,Miss,Bridget,O'Driscoll,NULL,female,NULL,0,0,16269,3,14311,7.75,NULL,Queenstown
+22012,False,Mr,Youssef,Samaan,NULL,male,NULL,2,0,16270,3,2662,21.68,NULL,Cherbourg
+22013,False,Mrs,Josef,Arnold-Franchi,Josefine Franchi,female,18.0,1,0,16271,3,349237,17.8,NULL,Southampton
+22014,False,Master,Juha,Panula,NULL,male,7.0,4,1,16272,3,3101295,39.69,NULL,Southampton
+22015,False,Mr,Richard,Nosworthy,NULL,male,21.0,0,0,16273,3,439886,7.8,NULL,Southampton
+22016,True,Mrs,Henry,Harper,Myna Haxtun,female,49.0,1,0,16274,1,17572,76.73,D33,Cherbourg
+22017,True,Mrs,Lizzie,Faunthorpe,Elizabeth Anne Wilkinson,female,29.0,1,0,16275,2,2926,26.0,NULL,Southampton
+22018,False,Mr,Engelhart,Ostby,NULL,male,65.0,0,1,16276,1,113509,61.98,B30,Cherbourg
+22019,True,Mr,Hugh,Woolner,NULL,male,NULL,0,0,16277,1,19947,35.5,C52,Southampton
+22020,True,Miss,Emily,Rugg,NULL,female,21.0,0,0,16278,2,31026,10.5,NULL,Southampton
+22021,False,Mr,Mansouer,Novel,NULL,male,28.5,0,0,16279,3,2697,7.23,NULL,Cherbourg
+22022,True,Miss,Constance,West,NULL,female,5.0,1,2,16280,2,34651,27.75,NULL,Southampton
+22023,False,Master,William,Goodwin,NULL,male,11.0,5,2,16281,3,2144,46.9,NULL,Southampton
+22024,False,Mr,Orsen,Sirayanian,NULL,male,22.0,0,0,16282,3,2669,7.23,NULL,Cherbourg
+22025,True,Miss,Amelie,Icard,NULL,female,38.0,0,0,16283,1,113572,80.0,B28,NULL
+22026,False,Mr,Henry,Harris,NULL,male,45.0,1,0,16284,1,36973,83.48,C83,Southampton
+22027,False,Master,Harald,Skoog,NULL,male,4.0,3,2,16285,3,347088,27.9,NULL,Southampton
+22028,False,Mr,Albert,Stewart,NULL,male,NULL,0,0,16286,1,17605,27.72,NULL,Cherbourg
+22029,True,Master,Gerios,Moubarek,NULL,male,NULL,1,1,16287,3,2661,15.25,NULL,Cherbourg
+22030,True,Mrs,Elizabeth,Nye,Elizabeth Ramell,female,29.0,0,0,16288,2,29395,10.5,F33,Southampton
+22031,False,Mr,Ernest,Crease,NULL,male,19.0,0,0,16289,3,3464,8.16,NULL,Southampton
+22032,True,Miss,Erna,Andersson,NULL,female,17.0,4,2,16290,3,3101281,7.92,NULL,Southampton
+22033,False,Mr,Vincenz,Kink,NULL,male,26.0,2,0,16291,3,315151,8.66,NULL,Southampton
+22034,False,Mr,Stephen,Jenkin,NULL,male,32.0,0,0,16292,2,33111,10.5,NULL,Southampton
+22035,False,Miss,Lillian,Goodwin,NULL,female,16.0,5,2,16281,3,2144,46.9,NULL,Southampton
+22036,False,Mr,Ambrose,Hood,NULL,male,21.0,0,0,16293,2,14879,73.5,NULL,Southampton
+22037,False,Mr,Apostolos,Chronopoulos,NULL,male,26.0,1,0,16294,3,2680,14.45,NULL,Cherbourg
+22038,True,Mr,Lee,Bing,NULL,male,32.0,0,0,16295,3,1601,56.5,NULL,Southampton
+22039,False,Mr,Sigurd,Moen,NULL,male,25.0,0,0,16296,3,348123,7.65,F G73,Southampton
+22040,False,Mr,Ivan,Staneff,NULL,male,NULL,0,0,16297,3,349208,7.9,NULL,Southampton
+22041,False,Mr,Rahamin,Moutal,NULL,male,NULL,0,0,16298,3,374746,8.05,NULL,Southampton
+22042,True,Master,Alden,Caldwell,NULL,male,0.83,0,2,16299,2,248738,29.0,NULL,Southampton
+22043,True,Miss,Elizabeth,Dowdell,NULL,female,30.0,0,0,16300,3,364516,12.48,NULL,Southampton
+22044,False,Mr,Achille,Waelens,NULL,male,22.0,0,0,16301,3,345767,9.0,NULL,Southampton
+22045,True,Mr,Jan,Sheerlinck,NULL,male,29.0,0,0,16302,3,345779,9.5,NULL,Southampton
+22046,True,Miss,Brigdet,McDermott,NULL,female,NULL,0,0,16303,3,330932,7.79,NULL,Queenstown
+22047,False,Mr,Francisco,Carrau,NULL,male,28.0,0,0,16304,1,113059,47.1,NULL,Southampton
+22048,True,Miss,Bertha,Ilett,NULL,female,17.0,0,0,16305,2,14885,10.5,NULL,Southampton
+22049,True,Mrs,Karl,Backstrom,Maria Mathilda Gustafsson,female,33.0,3,0,16306,3,3101278,15.85,NULL,Southampton
+22050,False,Mr,William,Ford,NULL,male,16.0,1,3,16307,3,6608,34.38,NULL,Southampton
+22051,False,Mr,Selman,Slocovski,NULL,male,NULL,0,0,16308,3,392086,8.05,NULL,Southampton
+22052,True,Miss,Mabel,Fortune,NULL,female,23.0,3,2,16249,1,19950,263.0,C23 C25 C27,Southampton
+22053,False,Mr,Francesco,Celotti,NULL,male,24.0,0,0,16309,3,343275,8.05,NULL,Southampton
+22054,False,Mr,Emil,Christmann,NULL,male,29.0,0,0,16310,3,343276,8.05,NULL,Southampton
+22055,False,Mr,Paul,Andreasson,NULL,male,20.0,0,0,16311,3,347466,7.85,NULL,Southampton
+22056,False,Mr,Herbert,Chaffee,NULL,male,46.0,1,0,16312,1,5734,61.18,E31,Southampton
+22057,False,Mr,Bertram,Dean,NULL,male,26.0,1,2,16313,3,2315,20.58,NULL,Southampton
+22058,False,Mr,Daniel,Coxon,NULL,male,59.0,0,0,16314,3,364500,7.25,NULL,Southampton
+22059,False,Mr,Charles,Shorney,NULL,male,NULL,0,0,16315,3,374910,8.05,NULL,Southampton
+22060,False,Mr,George,Goldschmidt,NULL,male,71.0,0,0,16316,1,17754,34.65,A5,Cherbourg
+22061,True,Mr,William,Greenfield,NULL,male,23.0,0,1,16317,1,17759,63.36,D10 D12,Cherbourg
+22062,True,Mrs,John,Doling,Ada Julia Bone,female,34.0,0,1,16318,2,231919,23.0,NULL,Southampton
+22063,False,Mr,Sinai,Kantor,NULL,male,34.0,1,0,16319,2,244367,26.0,NULL,Southampton
+22064,False,Miss,Matilda,Petranec,NULL,female,28.0,0,0,16320,3,349245,7.9,NULL,Southampton
+22065,False,Mr,Pastcho,Petroff,Pentcho,male,NULL,0,0,16321,3,349215,7.9,NULL,Southampton
+22066,False,Mr,Richard,White,NULL,male,21.0,0,1,16322,1,35281,77.29,D26,Southampton
+22067,False,Mr,Gustaf,Johansson,NULL,male,33.0,0,0,16323,3,7540,8.65,NULL,Southampton
+22068,False,Mr,Anders,Gustafsson,NULL,male,37.0,2,0,16324,3,3101276,7.92,NULL,Southampton
+22069,False,Mr,Stoytcho,Mionoff,NULL,male,28.0,0,0,16325,3,349207,7.9,NULL,Southampton
+22070,True,Miss,Anna,Salkjelsvik,NULL,female,21.0,0,0,16326,3,343120,7.65,NULL,Southampton
+22071,True,Mr,Albert,Moss,NULL,male,NULL,0,0,16327,3,312991,7.78,NULL,Southampton
+22072,False,Mr,Tido,Rekic,NULL,male,38.0,0,0,16328,3,349249,7.9,NULL,Southampton
+22073,True,Miss,Bertha,Moran,NULL,female,NULL,1,0,16329,3,371110,24.15,NULL,Queenstown
+22074,False,Mr,Walter,Porter,NULL,male,47.0,0,0,16330,1,110465,52.0,C110,Southampton
+22075,False,Miss,Hileni,Zabour,NULL,female,14.5,1,0,16331,3,2665,14.45,NULL,Cherbourg
+22076,False,Mr,David,Barton,NULL,male,22.0,0,0,16332,3,324669,8.05,NULL,Southampton
+22077,False,Miss,Katriina,Jussila,NULL,female,20.0,1,0,16333,3,4136,9.82,NULL,Southampton
+22078,False,Miss,Malake,Attalah,NULL,female,17.0,0,0,16334,3,2627,14.46,NULL,Cherbourg
+22079,False,Mr,Edvard,Pekoniemi,NULL,male,21.0,0,0,16335,3,23101294,7.92,NULL,Southampton
+22080,False,Mr,Patrick,Connors,NULL,male,70.5,0,0,16336,3,370369,7.75,NULL,Queenstown
+22081,False,Mr,William,Turpin,NULL,male,29.0,1,0,16263,2,11668,21.0,NULL,Southampton
+22082,False,Mr,Quigg,Baxter,NULL,male,24.0,0,1,16337,1,17558,247.52,B58 B60,Cherbourg
+22083,False,Miss,Ellis,Andersson,NULL,female,2.0,4,2,16236,3,347082,31.28,NULL,Southampton
+22084,False,Mr,Stanley,Hickman,NULL,male,21.0,2,0,16293,2,14879,73.5,NULL,Southampton
+22085,False,Mr,Leonard,Moore,NULL,male,NULL,0,0,16338,3,454510,8.05,NULL,Southampton
+22086,False,Mr,Nicholas,Nasser,NULL,male,32.5,1,0,16232,2,237736,30.07,NULL,Cherbourg
+22087,True,Miss,Susan,Webber,NULL,female,32.5,0,0,16339,2,27267,13.0,E101,Southampton
+22088,False,Mr,Percival,White,NULL,male,54.0,0,1,16322,1,35281,77.29,D26,Southampton
+22089,True,Master,Elias,Nicola-Yarred,NULL,male,12.0,1,0,16261,3,2651,11.24,NULL,Cherbourg
+22090,False,Mr,Martin,McMahon,NULL,male,NULL,0,0,16340,3,370372,7.75,NULL,Queenstown
+22091,True,Mr,Fridtjof,Madsen,NULL,male,24.0,0,0,16341,3,17369,7.14,NULL,Southampton
+22092,True,Miss,Anna,Peter,NULL,female,NULL,1,1,16342,3,2668,22.36,E69 F,Cherbourg
+22093,False,Mr,Johan,Ekstrom,NULL,male,45.0,0,0,16343,3,347061,6.98,NULL,Southampton
+22094,False,Mr,Jozef,Drazenoic,NULL,male,33.0,0,0,16344,3,349241,7.9,NULL,Cherbourg
+22095,False,Mr,Domingos,Coelho,NULL,male,20.0,0,0,16345,3,3101307,7.05,NULL,Southampton
+22096,False,Mrs,Alexander,Robins,Grace Charity Laury,female,47.0,1,0,16346,3,53337,14.5,NULL,Southampton
+22097,True,Mrs,Leopold,Weisz,Mathilde Francoise Pede,female,29.0,1,0,16347,2,228414,26.0,NULL,Southampton
+22098,False,Mr,Samuel,Sobey,NULL,male,25.0,0,0,16348,2,29178,13.0,NULL,Southampton
+22099,False,Mr,Emile,Richard,NULL,male,23.0,0,0,16349,2,2133,15.05,NULL,Cherbourg
+22100,True,Miss,Helen,Newsom,NULL,female,19.0,0,2,16350,1,11752,26.28,D47,Southampton
+22101,False,Mr,Jacques,Futrelle,NULL,male,37.0,1,0,16226,1,113803,53.1,C123,Southampton
+22102,False,Mr,Olaf,Osen,NULL,male,16.0,0,0,16351,3,7534,9.22,NULL,Southampton
+22103,False,Mr,Victor,Giglio,NULL,male,24.0,0,0,16352,1,17593,79.2,B86,Cherbourg
+22104,False,Mrs,Joseph,Boulos,Sultana,female,NULL,0,2,16353,3,2678,15.25,NULL,Cherbourg
+22105,True,Miss,Anna,Nysten,NULL,female,22.0,0,0,16354,3,347081,7.75,NULL,Southampton
+22106,True,Mrs,Pekka,Hakkarainen,Elin Matilda Dolck,female,24.0,1,0,16355,3,23101279,15.85,NULL,Southampton
+22107,False,Mr,Jeremiah,Burke,NULL,male,19.0,0,0,16356,3,365222,6.75,NULL,Queenstown
+22108,False,Mr,Edgardo,Andrew,NULL,male,18.0,0,0,16357,2,231945,11.5,NULL,Southampton
+22109,False,Mr,Joseph,Nicholls,NULL,male,19.0,1,1,16358,2,33112,36.75,NULL,Southampton
+22110,True,Mr,August,Andersson,Wennerstrom,male,27.0,0,0,16359,3,350043,7.8,NULL,Southampton
+22111,False,Miss,Robina,Ford,NULL,female,9.0,2,2,16307,3,6608,34.38,NULL,Southampton
+22112,False,Mr,Michel,Navratil,Louis M Hoffman,male,36.5,0,2,16360,2,230080,26.0,F2,Southampton
+22113,False,Rev,Thomas,Byles,NULL,male,42.0,0,0,16361,2,244310,13.0,NULL,Southampton
+22114,False,Rev,Robert,Bateman,NULL,male,51.0,0,0,16362,2,1166,12.52,NULL,Southampton
+22115,True,Mrs,Thomas,Pears,Edith Wearne,female,22.0,1,0,16363,1,113776,66.6,C2,Southampton
+22116,False,Mr,Alfonzo,Meo,NULL,male,55.5,0,0,16364,3,511206,8.05,NULL,Southampton
+22117,False,Mr,Austin,van Billiard,NULL,male,40.5,0,2,16365,3,5851,14.5,NULL,Southampton
+22118,False,Mr,Ole,Olsen,NULL,male,NULL,0,0,16366,3,265302,7.31,NULL,Southampton
+22119,False,Mr,Charles,Williams,NULL,male,51.0,0,1,16367,1,17597,61.38,NULL,Cherbourg
+22120,True,Miss,Katherine,Gilnagh,NULL,female,16.0,0,0,16368,3,35851,7.73,NULL,Queenstown
+22121,False,Mr,Harry,Corn,NULL,male,30.0,0,0,16369,3,392090,8.05,NULL,Southampton
+22122,False,Mr,Mile,Smiljanic,NULL,male,NULL,0,0,16370,3,315037,8.66,NULL,Southampton
+22123,False,Master,Thomas,Sage,NULL,male,NULL,8,2,16371,3,2343,69.55,NULL,Southampton
+22124,False,Mr,John,Cribb,NULL,male,44.0,0,1,16372,3,371362,16.1,NULL,Southampton
+22125,True,Mrs,James,Watt,Elizabeth Bessie Inglis Milne,female,40.0,0,0,16373,2,33595,15.75,NULL,Southampton
+22126,False,Mr,John,Bengtsson,NULL,male,26.0,0,0,16374,3,347068,7.78,NULL,Southampton
+22127,False,Mr,Jovo,Calic,NULL,male,17.0,0,0,16375,3,315093,8.66,NULL,Southampton
+22128,False,Master,Eino,Panula,NULL,male,1.0,4,1,16272,3,3101295,39.69,NULL,Southampton
+22129,True,Master,Frank,Goldsmith,NULL,male,9.0,0,2,16376,3,363291,20.52,NULL,Southampton
+22130,True,Mrs,Edith,Chibnall,Edith Martha Bowerman,female,NULL,0,1,16377,1,113505,55.0,E33,Southampton
+22131,False,Mrs,William,Skoog,Anna Bernhardina Karlsson,female,45.0,1,4,16285,3,347088,27.9,NULL,Southampton
+22132,False,Mr,John,Baumann,NULL,male,NULL,0,0,16378,1,17318,25.92,NULL,Southampton
+22133,False,Mr,Lee,Ling,NULL,male,28.0,0,0,16295,3,1601,56.5,NULL,Southampton
+22134,False,Mr,Wyckoff,Van der hoef,NULL,male,61.0,0,0,16379,1,111240,33.5,B19,Southampton
+22135,False,Master,Arthur,Rice,NULL,male,4.0,4,1,16239,3,382652,29.12,NULL,Queenstown
+22136,True,Miss,Eleanor,Johnson,NULL,female,1.0,1,1,16231,3,347742,11.13,NULL,Southampton
+22137,False,Mr,Antti,Sivola,NULL,male,21.0,0,0,16380,3,23101280,7.92,NULL,Southampton
+22138,False,Mr,James,Smith,NULL,male,56.0,0,0,16381,1,17764,30.7,A7,Cherbourg
+22139,False,Mr,Klas,Klasen,NULL,male,18.0,1,1,16382,3,350404,7.85,NULL,Southampton
+22140,False,Master,Henry,Lefebre,NULL,male,NULL,3,1,16383,3,4133,25.47,NULL,Southampton
+22141,False,Miss,Ann,Isham,NULL,female,50.0,0,0,16384,1,17595,28.71,C49,Cherbourg
+22142,False,Mr,Reginald,Hale,NULL,male,30.0,0,0,16385,2,250653,13.0,NULL,Southampton
+22143,False,Mr,Lionel,Leonard,NULL,male,36.0,0,0,16386,3,NULL,0.0,NULL,Southampton
+22144,False,Miss,Constance,Sage,NULL,female,NULL,8,2,16371,3,2343,69.55,NULL,Southampton
+22145,False,Mr,Rene,Pernot,NULL,male,NULL,0,0,16387,2,2131,15.05,NULL,Cherbourg
+22146,False,Master,Clarence,Asplund,NULL,male,9.0,4,2,16247,3,347077,31.39,NULL,Southampton
+22147,True,Master,Richard,Becker,NULL,male,1.0,2,1,16388,2,230136,39.0,F4,Southampton
+22148,True,Miss,Luise,Kink-Heilmann,NULL,female,4.0,0,2,16389,3,315153,22.02,NULL,Southampton
+22149,False,Mr,Hugh,Rood,NULL,male,NULL,0,0,16390,1,113767,50.0,A32,Southampton
+22150,True,Mrs,Thomas,O'Brien,Johanna Hannah Godfrey,female,NULL,1,0,16391,3,370365,15.5,NULL,Queenstown
+22151,True,Mr,Charles,Romaine,Mr C Rolmane,male,45.0,0,0,16392,1,111428,26.55,NULL,Southampton
+22152,False,Mr,John,Bourke,NULL,male,40.0,1,1,16393,3,364849,15.5,NULL,Queenstown
+22153,False,Mr,Stjepan,Turcin,NULL,male,36.0,0,0,16394,3,349247,7.9,NULL,Southampton
+22154,True,Mrs,Rosa,Pinsky,Rosa,female,32.0,0,0,16395,2,234604,13.0,NULL,Southampton
+22155,False,Mr,William,Carbines,NULL,male,19.0,0,0,16396,2,28424,13.0,NULL,Southampton
+22156,True,Miss,Carla,Andersen-Jensen,NULL,female,19.0,1,0,16397,3,350046,7.85,NULL,Southampton
+22157,True,Master,Michel,Navratil,NULL,male,3.0,1,1,16360,2,230080,26.0,F2,Southampton
+22158,True,Mrs,James,Brown,Margaret Tobin,female,44.0,0,0,16398,1,17610,27.72,B4,Cherbourg
+22159,True,Miss,Elise,Lurette,NULL,female,58.0,0,0,16253,1,17569,146.52,B80,Cherbourg
+22160,False,Mr,Robert,Mernagh,NULL,male,NULL,0,0,16399,3,368703,7.75,NULL,Queenstown
+22161,False,Mr,Karl,Olsen,NULL,male,42.0,0,1,16400,3,4579,8.4,NULL,Southampton
+22162,True,Miss,Margaret,Madigan,NULL,female,NULL,0,0,16401,3,370370,7.75,NULL,Queenstown
+22163,False,Miss,Henriette,Yrois,Mrs Harbeck,female,24.0,0,0,16402,2,248747,13.0,NULL,Southampton
+22164,False,Mr,Nestor,Vande Walle,NULL,male,28.0,0,0,16403,3,345770,9.5,NULL,Southampton
+22165,False,Mr,Frederick,Sage,NULL,male,NULL,8,2,16371,3,2343,69.55,NULL,Southampton
+22166,False,Mr,Jakob,Johanson,NULL,male,34.0,0,0,16404,3,3101264,6.5,NULL,Southampton
+22167,False,Mr,Gerious,Youseff,NULL,male,45.5,0,0,16405,3,2628,7.22,NULL,Cherbourg
+22168,True,Mr,Gurshon,Cohen,NULL,male,18.0,0,0,16406,3,53540,8.05,NULL,Southampton
+22169,False,Miss,Telma,Strom,NULL,female,2.0,0,1,16407,3,347054,10.46,G6,Southampton
+22170,False,Mr,Karl,Backstrom,NULL,male,32.0,1,0,16306,3,3101278,15.85,NULL,Southampton
+22171,True,Mr,Nassef,Albimona,NULL,male,26.0,0,0,16408,3,2699,18.79,NULL,Cherbourg
+22172,True,Miss,Helen,Carr,NULL,female,16.0,0,0,16409,3,367231,7.75,NULL,Queenstown
+22173,True,Mr,Henry,Blank,NULL,male,40.0,0,0,16410,1,112277,31.0,A31,Cherbourg
+22174,False,Mr,Ahmed,Ali,NULL,male,24.0,0,0,16411,3,3101311,7.05,NULL,Southampton
+22175,True,Miss,Clear,Cameron,NULL,female,35.0,0,0,16412,2,13528,21.0,NULL,Southampton
+22176,False,Mr,John,Perkin,NULL,male,22.0,0,0,16413,3,521174,7.25,NULL,Southampton
+22177,False,Mr,Hans,Givard,NULL,male,30.0,0,0,16414,2,250646,13.0,NULL,Southampton
+22178,False,Mr,Philip,Kiernan,NULL,male,NULL,1,0,16415,3,367229,7.75,NULL,Queenstown
+22179,True,Miss,Madeleine,Newell,NULL,female,31.0,1,0,16416,1,35273,113.28,D36,Cherbourg
+22180,True,Miss,Eliina,Honkanen,NULL,female,27.0,0,0,16417,3,23101283,7.92,NULL,Southampton
+22181,False,Mr,Sidney,Jacobsohn,NULL,male,42.0,1,0,16418,2,243847,27.0,NULL,Southampton
+22182,True,Miss,Albina,Bazzani,NULL,female,32.0,0,0,16419,1,11813,76.29,D15,Cherbourg
+22183,False,Mr,Walter,Harris,NULL,male,30.0,0,0,16420,2,14208,10.5,NULL,Southampton
+22184,True,Mr,Victor,Sunderland,NULL,male,16.0,0,0,16421,3,392089,8.05,NULL,Southampton
+22185,False,Mr,James,Bracken,NULL,male,27.0,0,0,16422,2,220367,13.0,NULL,Southampton
+22186,False,Mr,George,Green,NULL,male,51.0,0,0,16423,3,21440,8.05,NULL,Southampton
+22187,False,Mr,Christo,Nenkoff,NULL,male,NULL,0,0,16424,3,349234,7.9,NULL,Southampton
+22188,True,Mr,Frederick,Hoyt,NULL,male,38.0,1,0,16425,1,19943,90.0,C93,Southampton
+22189,False,Mr,Karl,Berglund,NULL,male,22.0,0,0,16426,3,4348,9.35,NULL,Southampton
+22190,True,Mr,William,Mellors,NULL,male,19.0,0,0,16427,2,751,10.5,NULL,Southampton
+22191,False,Mr,John,Lovell,Henry,male,20.5,0,0,16428,3,521173,7.25,NULL,Southampton
+22192,False,Mr,Arne,Fahlstrom,NULL,male,18.0,0,0,16429,2,236171,13.0,NULL,Southampton
+22193,False,Miss,Mathilde,Lefebre,NULL,female,NULL,3,1,16383,3,4133,25.47,NULL,Southampton
+22194,True,Mrs,Henry,Harris,Irene Wallach,female,35.0,1,0,16284,1,36973,83.48,C83,Southampton
+22195,False,Mr,Bengt,Larsson,NULL,male,29.0,0,0,16430,3,347067,7.78,NULL,Southampton
+22196,False,Mr,Ernst,Sjostedt,NULL,male,59.0,0,0,16431,2,237442,13.5,NULL,Southampton
+22197,True,Miss,Lillian,Asplund,NULL,female,5.0,4,2,16247,3,347077,31.39,NULL,Southampton
+22198,False,Mr,Robert,Leyson,NULL,male,24.0,0,0,16432,2,29566,10.5,NULL,Southampton
+22199,False,Miss,Alice,Harknett,NULL,female,NULL,0,0,16433,3,6609,7.55,NULL,Southampton
+22200,False,Mr,Stephen,Hold,NULL,male,44.0,1,0,16434,2,26707,26.0,NULL,Southampton
+22201,True,Miss,Marjorie,Collyer,NULL,female,8.0,0,2,16435,2,31921,26.25,NULL,Southampton
+22202,False,Mr,Frederick,Pengelly,NULL,male,19.0,0,0,16436,2,28665,10.5,NULL,Southampton
+22203,False,Mr,George,Hunt,NULL,male,33.0,0,0,16437,2,1585,12.28,NULL,Southampton
+22204,False,Miss,Thamine,Zabour,NULL,female,NULL,1,0,16331,3,2665,14.45,NULL,Cherbourg
+22205,True,Miss,Katherine,Murphy,NULL,female,NULL,1,0,16438,3,367230,15.5,NULL,Queenstown
+22206,False,Mr,Reginald,Coleridge,NULL,male,29.0,0,0,16439,2,14263,10.5,NULL,Southampton
+22207,False,Mr,Matti,Maenpaa,NULL,male,22.0,0,0,16440,3,23101275,7.12,NULL,Southampton
+22208,False,Mr,Sleiman,Attalah,NULL,male,30.0,0,0,16441,3,2694,7.22,NULL,Cherbourg
+22209,False,Dr,William,Minahan,NULL,male,44.0,2,0,16442,1,19928,90.0,C78,Queenstown
+22210,False,Miss,Agda,Lindahl,NULL,female,25.0,0,0,16443,3,347071,7.78,NULL,Southampton
+22211,True,Mrs,William,Hamalainen,Anna,female,24.0,0,2,16444,2,250649,14.5,NULL,Southampton
+22212,True,Mr,Richard,Beckwith,NULL,male,37.0,1,1,16445,1,11751,52.55,D35,Southampton
+22213,False,Rev,Ernest,Carter,NULL,male,54.0,1,0,16446,2,244252,26.0,NULL,Southampton
+22214,False,Mr,James,Reed,NULL,male,NULL,0,0,16447,3,362316,7.25,NULL,Southampton
+22215,False,Mrs,Wilhelm,Strom,Elna Matilda Persson,female,29.0,1,1,16407,3,347054,10.46,G6,Southampton
+22216,False,Mr,William,Stead,NULL,male,62.0,0,0,16448,1,113514,26.55,C87,Southampton
+22217,False,Mr,William,Lobb,NULL,male,30.0,1,0,16449,3,53336,16.1,NULL,Southampton
+22218,False,Mrs,Viktor,Rosblom,Helena Wilhelmina,female,41.0,0,2,16450,3,370129,20.21,NULL,Southampton
+22219,True,Mrs,Darwis,Touma,Hanne Youssef Razi,female,29.0,0,2,16451,3,2650,15.25,NULL,Cherbourg
+22220,True,Mrs,Gertrude,Thorne,NULL,female,NULL,0,0,16452,1,17585,79.2,NULL,Cherbourg
+22221,True,Miss,Gladys,Cherry,NULL,female,30.0,0,0,16453,1,110152,86.5,B77,Southampton
+22222,True,Miss,Anna,Ward,NULL,female,35.0,0,0,16454,1,17755,512.33,NULL,Cherbourg
+22223,True,Mrs,Lutie,Parrish,Lutie Davis,female,50.0,0,1,16455,2,230433,26.0,NULL,Southampton
+22224,False,Mr,Thomas,Smith,NULL,male,NULL,0,0,16456,3,384461,7.75,NULL,Queenstown
+22225,True,Master,Edvin,Asplund,NULL,male,3.0,4,2,16247,3,347077,31.39,NULL,Southampton
+22226,False,Mr,Emil,Taussig,NULL,male,52.0,1,1,16457,1,110413,79.65,E67,Southampton
+22227,False,Mr,William,Harrison,NULL,male,40.0,0,0,16458,1,112059,0.0,B94,Southampton
+22228,False,Miss,Delia,Henry,NULL,female,NULL,0,0,16459,3,382649,7.75,NULL,Queenstown
+22229,False,Mr,David,Reeves,NULL,male,36.0,0,0,16460,2,17248,10.5,NULL,Southampton
+22230,False,Mr,Ernesti,Panula,NULL,male,16.0,4,1,16272,3,3101295,39.69,NULL,Southampton
+22231,True,Mr,Ernst,Persson,NULL,male,25.0,1,0,16461,3,347083,7.78,NULL,Southampton
+22232,True,Mrs,William,Graham,Edith Junkins,female,58.0,0,1,16462,1,17582,153.46,C125,Southampton
+22233,True,Miss,Amelia,Bissette,NULL,female,35.0,0,0,16463,1,17760,135.63,C99,Southampton
+22234,False,Mr,Alexander,Cairns,NULL,male,NULL,0,0,16464,1,113798,31.0,NULL,Southampton
+22235,True,Mr,William,Tornquist,NULL,male,25.0,0,0,16386,3,NULL,0.0,NULL,Southampton
+22236,True,Mrs,Elizabeth,Mellinger,Elizabeth Anne Maidment,female,41.0,0,1,16465,2,250644,19.5,NULL,Southampton
+22237,False,Mr,Charles,Natsch,NULL,male,37.0,0,1,16466,1,17596,29.7,C118,Cherbourg
+22238,True,Miss,Hanora,Healy,NULL,female,NULL,0,0,16467,3,370375,7.75,NULL,Queenstown
+22239,True,Miss,Kornelia,Andrews,NULL,female,63.0,1,0,16468,1,13502,77.96,D7,Southampton
+22240,False,Miss,Augusta,Lindblom,NULL,female,45.0,0,0,16469,3,347073,7.75,NULL,Southampton
+22241,False,Mr,Francis,Parkes,NULL,male,NULL,0,0,16470,2,239853,0.0,NULL,Southampton
+22242,False,Master,Eric,Rice,NULL,male,7.0,4,1,16239,3,382652,29.12,NULL,Queenstown
+22243,True,Mrs,Stanton,Abbott,Rosa Hunt,female,35.0,1,1,16471,3,2673,20.25,NULL,Southampton
+22244,False,Mr,Frank,Duane,NULL,male,65.0,0,0,16472,3,336439,7.75,NULL,Queenstown
+22245,False,Mr,Nils,Olsson,NULL,male,28.0,0,0,16473,3,347464,7.85,NULL,Southampton
+22246,False,Mr,Alfons,de Pelsmaeker,NULL,male,16.0,0,0,16474,3,345778,9.5,NULL,Southampton
+22247,True,Mr,Edward,Dorking,NULL,male,19.0,0,0,16475,3,510482,8.05,NULL,Southampton
+22248,False,Mr,Richard,Smith,NULL,male,NULL,0,0,16476,1,113056,26.0,A19,Southampton
+22249,False,Mr,Ivan,Stankovic,NULL,male,33.0,0,0,16477,3,349239,8.66,NULL,Cherbourg
+22250,True,Mr,Theodore,de Mulder,NULL,male,30.0,0,0,16478,3,345774,9.5,NULL,Southampton
+22251,False,Mr,Penko,Naidenoff,NULL,male,22.0,0,0,16479,3,349206,7.9,NULL,Southampton
+22252,True,Mr,Masabumi,Hosono,NULL,male,42.0,0,0,16480,2,237798,13.0,NULL,Southampton
+22253,True,Miss,Kate,Connolly,NULL,female,22.0,0,0,16481,3,370373,7.75,NULL,Queenstown
+22254,True,Miss,Ellen,Barber,NULL,female,26.0,0,0,16482,1,19877,78.85,NULL,Southampton
+22255,True,Mrs,Dickinson,Bishop,Helen Walton,female,19.0,1,0,16483,1,11967,91.08,B49,Cherbourg
+22256,False,Mr,Rene,Levy,NULL,male,36.0,0,0,16484,2,2163,12.88,D,Cherbourg
+22257,False,Miss,Aloisia,Haas,NULL,female,24.0,0,0,16485,3,349236,8.85,NULL,Southampton
+22258,False,Mr,Ivan,Mineff,NULL,male,24.0,0,0,16486,3,349233,7.9,NULL,Southampton
+22259,False,Mr,Ervin,Lewy,NULL,male,NULL,0,0,16487,1,17612,27.72,NULL,Cherbourg
+22260,False,Mr,Mansour,Hanna,NULL,male,23.5,0,0,16488,3,2693,7.23,NULL,Cherbourg
+22261,False,Miss,Helen,Allison,NULL,female,2.0,1,2,16489,1,113781,151.55,C22 C26,Southampton
+22262,True,Mr,Adolphe,Saalfeld,NULL,male,NULL,0,0,16490,1,19988,30.5,C106,Southampton
+22263,True,Mrs,James,Baxter,Helene DeLaudeniere Chaput,female,50.0,0,1,16337,1,17558,247.52,B58 B60,Cherbourg
+22264,True,Miss,Anna,Kelly,NULL,female,NULL,0,0,16491,3,9234,7.75,NULL,Queenstown
+22265,True,Mr,Bernard,McCoy,NULL,male,NULL,2,0,16492,3,367226,23.25,NULL,Queenstown
+22266,False,Mr,William,Johnson,NULL,male,19.0,0,0,16386,3,NULL,0.0,NULL,Southampton
+22267,True,Miss,Nora,Keane,NULL,female,NULL,0,0,16493,2,226593,12.35,E101,Queenstown
+22268,False,Mr,Howard,Williams,NULL,male,NULL,0,0,16494,3,52466,8.05,NULL,Southampton
+22269,True,Master,Hudson,Allison,NULL,male,0.92,1,2,16489,1,113781,151.55,C22 C26,Southampton
+22270,True,Miss,Margaret,Fleming,NULL,female,NULL,0,0,16495,1,17421,110.88,NULL,Cherbourg
+22271,True,Mrs,Victor,Penasco y Castellana,Maria Josefa Perez de Soto y Vallejo,female,17.0,1,0,16496,1,17758,108.9,C65,Cherbourg
+22272,False,Mr,Samuel,Abelson,NULL,male,30.0,1,0,16497,2,3381,24.0,NULL,Cherbourg
+22273,True,Miss,Laura,Francatelli,NULL,female,30.0,0,0,16498,1,17485,56.93,E36,Cherbourg
+22274,True,Miss,Margaret,Hays,NULL,female,24.0,0,0,16499,1,11767,83.16,C54,Cherbourg
+22275,True,Miss,Emily,Ryerson,NULL,female,18.0,2,2,16500,1,17608,262.38,B57 B59 B63 B66,Cherbourg
+22276,False,Mrs,William,Lahtinen,Anna Sylfven,female,26.0,1,1,16501,2,250651,26.0,NULL,Southampton
+22277,False,Mr,Ignjac,Hendekovic,NULL,male,28.0,0,0,16502,3,349243,7.9,NULL,Southampton
+22278,False,Mr,Benjamin,Hart,NULL,male,43.0,1,1,16503,2,13529,26.25,NULL,Southampton
+22279,True,Miss,Helmina,Nilsson,NULL,female,26.0,0,0,16504,3,347470,7.85,NULL,Southampton
+22280,True,Mrs,Sinai,Kantor,Miriam Sternin,female,24.0,1,0,16319,2,244367,26.0,NULL,Southampton
+22281,False,Dr,Ernest,Moraweck,NULL,male,54.0,0,0,16505,2,29011,14.0,NULL,Southampton
+22282,True,Miss,Mary,Wick,NULL,female,31.0,0,2,16506,1,36928,164.87,C7,Southampton
+22283,True,Mrs,Frederic,Spedden,Margaretta Corning Stone,female,40.0,1,1,16507,1,16966,134.5,E34,Cherbourg
+22284,False,Mr,Samuel,Dennis,NULL,male,22.0,0,0,16508,3,521172,7.25,NULL,Southampton
+22285,False,Mr,Yoto,Danoff,NULL,male,27.0,0,0,16509,3,349219,7.9,NULL,Southampton
+22286,True,Miss,Hilda,Slayter,NULL,female,30.0,0,0,16510,2,234818,12.35,NULL,Queenstown
+22287,True,Mrs,Albert,Caldwell,Sylvia Mae Harbaugh,female,22.0,1,1,16299,2,248738,29.0,NULL,Southampton
+22288,False,Mr,George,Sage,NULL,male,NULL,8,2,16371,3,2343,69.55,NULL,Southampton
+22289,True,Miss,Marie,Young,NULL,female,36.0,0,0,16511,1,17760,135.63,C32,Cherbourg
+22290,False,Mr,Johan,Nysveen,NULL,male,61.0,0,0,16512,3,345364,6.24,NULL,Southampton
+22291,True,Mrs,Ada,Ball,Ada E Hall,female,36.0,0,0,16513,2,28551,13.0,D,Southampton
+22292,True,Mrs,Frank,Goldsmith,Emily Alice Brown,female,31.0,1,1,16376,3,363291,20.52,NULL,Southampton
+22293,True,Miss,Jean,Hippach,NULL,female,16.0,0,1,16514,1,111361,57.98,B18,Cherbourg
+22294,True,Miss,Agnes,McCoy,NULL,female,NULL,2,0,16492,3,367226,23.25,NULL,Queenstown
+22295,False,Mr,Austen,Partner,NULL,male,45.5,0,0,16515,1,113043,28.5,C124,Southampton
+22296,False,Mr,George,Graham,NULL,male,38.0,0,1,16462,1,17582,153.46,C91,Southampton
+22297,False,Mr,Leo,Vander Planke,NULL,male,16.0,2,0,16260,3,345764,18.0,NULL,Southampton
+22298,True,Mrs,Henry,Frauenthal,Clara Heinsheimer,female,NULL,1,0,16516,1,17611,133.65,NULL,Southampton
+22299,False,Mr,Mitto,Denkoff,NULL,male,NULL,0,0,16517,3,349225,7.9,NULL,Southampton
+22300,False,Mr,Thomas,Pears,NULL,male,29.0,1,0,16363,1,113776,66.6,C2,Southampton
+22301,True,Miss,Elizabeth,Burns,NULL,female,41.0,0,0,16507,1,16966,134.5,E40,Cherbourg
+22302,True,Mr,Karl,Dahl,NULL,male,45.0,0,0,16518,3,7598,8.05,NULL,Southampton
+22303,False,Mr,Stephen,Blackwell,NULL,male,45.0,0,0,16519,1,113784,35.5,T,Southampton
+22304,True,Master,Edmond,Navratil,NULL,male,2.0,1,1,16360,2,230080,26.0,F2,Southampton
+22305,True,Miss,Alice,Fortune,NULL,female,24.0,3,2,16249,1,19950,263.0,C23 C25 C27,Southampton
+22306,False,Mr,Erik,Collander,NULL,male,28.0,0,0,16520,2,248740,13.0,NULL,Southampton
+22307,False,Mr,Charles,Sedgwick,NULL,male,25.0,0,0,16521,2,244361,13.0,NULL,Southampton
+22308,False,Mr,Stanley,Fox,NULL,male,36.0,0,0,16522,2,229236,13.0,NULL,Southampton
+22309,True,Miss,Amelia,Brown,NULL,female,24.0,0,0,16523,2,248733,13.0,F33,Southampton
+22310,True,Miss,Marion,Smith,NULL,female,40.0,0,0,16524,2,31418,13.0,NULL,Southampton
+22311,True,Mrs,Thomas,Davison,Mary E Finck,female,NULL,1,0,16525,3,386525,16.1,NULL,Southampton
+22312,True,Master,William,Coutts,NULL,male,3.0,1,1,16526,3,37671,15.9,NULL,Southampton
+22313,False,Mr,Jovan,Dimic,NULL,male,42.0,0,0,16527,3,315088,8.66,NULL,Southampton
+22314,False,Mr,Nils,Odahl,NULL,male,23.0,0,0,16528,3,7267,9.22,NULL,Southampton
+22315,False,Mr,Fletcher,Williams-Lambert,NULL,male,NULL,0,0,16529,1,113510,35.0,C128,Southampton
+22316,False,Mr,Tannous,Elias,NULL,male,15.0,1,1,16530,3,2695,7.23,NULL,Cherbourg
+22317,False,Mr,Josef,Arnold-Franchi,NULL,male,25.0,1,0,16271,3,349237,17.8,NULL,Southampton
+22318,False,Mr,Wazli,Yousif,NULL,male,NULL,0,0,16531,3,2647,7.22,NULL,Cherbourg
+22319,False,Mr,Leo,Vanden Steen,NULL,male,28.0,0,0,16532,3,345783,9.5,NULL,Southampton
+22320,True,Miss,Elsie,Bowerman,NULL,female,22.0,0,1,16377,1,113505,55.0,E33,Southampton
+22321,False,Miss,Annie,Funk,NULL,female,38.0,0,0,16533,2,237671,13.0,NULL,Southampton
+22322,True,Miss,Mary,McGovern,NULL,female,NULL,0,0,16534,3,330931,7.88,NULL,Queenstown
+22323,True,Miss,Helen,Mockler,NULL,female,NULL,0,0,16535,3,330980,7.88,NULL,Queenstown
+22324,False,Mr,Wilhelm,Skoog,NULL,male,40.0,1,4,16285,3,347088,27.9,NULL,Southampton
+22325,False,Mr,Sebastiano,del Carlo,NULL,male,29.0,1,0,16536,2,2167,27.72,NULL,Cherbourg
+22326,False,Mrs,Catherine,Barbara,Catherine David,female,45.0,0,1,16537,3,2691,14.45,NULL,Cherbourg
+22327,False,Mr,Adola,Asim,NULL,male,35.0,0,0,16538,3,3101310,7.05,NULL,Southampton
+22328,False,Mr,Thomas,O'Brien,NULL,male,NULL,1,0,16391,3,370365,15.5,NULL,Queenstown
+22329,False,Mr,Mauritz,Adahl,NULL,male,30.0,0,0,16539,3,7076,7.25,NULL,Southampton
+22330,True,Mrs,Frank,Warren,Anna Sophia Atkinson,female,60.0,1,0,16540,1,110813,75.25,D37,Cherbourg
+22331,True,Mrs,Mantoura,Moussa,Mantoura Boulos,female,NULL,0,0,16541,3,2626,7.23,NULL,Cherbourg
+22332,True,Miss,Annie,Jermyn,NULL,female,NULL,0,0,16542,3,14313,7.75,NULL,Queenstown
+22333,True,Mme,Leontine,Aubart,NULL,female,24.0,0,0,16543,1,17477,69.3,B35,Cherbourg
+22334,True,Mr,George,Harder,NULL,male,25.0,1,0,16544,1,11765,55.44,E50,Cherbourg
+22335,False,Mr,Jakob,Wiklund,NULL,male,18.0,1,0,16545,3,3101267,6.5,NULL,Southampton
+22336,False,Mr,William,Beavan,NULL,male,19.0,0,0,16546,3,323951,8.05,NULL,Southampton
+22337,False,Mr,Sante,Ringhini,NULL,male,22.0,0,0,16511,1,17760,135.63,NULL,Cherbourg
+22338,False,Miss,Stina,Palsson,NULL,female,3.0,3,1,16230,3,349909,21.08,NULL,Southampton
+22339,True,Mrs,Edgar,Meyer,Leila Saks,female,NULL,1,0,16256,1,17604,82.17,NULL,Cherbourg
+22340,True,Miss,Aurora,Landergren,NULL,female,22.0,0,0,16547,3,7077,7.25,NULL,Southampton
+22341,False,Mr,Harry,Widener,NULL,male,27.0,0,2,16548,1,113503,211.5,C82,Cherbourg
+22342,False,Mr,Tannous,Betros,NULL,male,20.0,0,0,16549,3,2648,4.01,NULL,Cherbourg
+22343,False,Mr,Karl,Gustafsson,NULL,male,19.0,0,0,16550,3,347069,7.78,NULL,Southampton
+22344,True,Miss,Rosalie,Bidois,NULL,female,42.0,0,0,16551,1,17757,227.52,NULL,Cherbourg
+22345,True,Miss,Maria,Nakid,Mary,female,1.0,0,2,16552,3,2653,15.74,NULL,Cherbourg
+22346,False,Mr,Juho,Tikkanen,NULL,male,32.0,0,0,16553,3,23101293,7.92,NULL,Southampton
+22347,True,Mrs,Alexander,Holverson,Mary Aline Towner,female,35.0,1,0,16257,1,113789,52.0,NULL,Southampton
+22348,False,Mr,Vasil,Plotcharsky,NULL,male,NULL,0,0,16554,3,349227,7.9,NULL,Southampton
+22349,False,Mr,Charles,Davies,NULL,male,18.0,0,0,16293,2,14879,73.5,NULL,Southampton
+22350,False,Master,Sidney,Goodwin,NULL,male,1.0,5,2,16281,3,2144,46.9,NULL,Southampton
+22351,True,Miss,Kate,Buss,NULL,female,36.0,0,0,16555,2,27849,13.0,NULL,Southampton
+22352,False,Mr,Matthew,Sadlier,NULL,male,NULL,0,0,16556,3,367655,7.73,NULL,Queenstown
+22353,True,Miss,Bertha,Lehmann,NULL,female,17.0,0,0,16557,2,1748,12.0,NULL,Cherbourg
+22354,True,Mr,William,Carter,NULL,male,36.0,1,2,16558,1,113760,120.0,B96 B98,Southampton
+22355,True,Mr,Carl,Jansson,NULL,male,21.0,0,0,16559,3,350034,7.8,NULL,Southampton
+22356,False,Mr,Johan,Gustafsson,NULL,male,28.0,2,0,16560,3,3101277,7.92,NULL,Southampton
+22357,True,Miss,Marjorie,Newell,NULL,female,23.0,1,0,16416,1,35273,113.28,D36,Cherbourg
+22358,True,Mrs,Hjalmar,Sandstrom,Agnes Charlotta Bengtsson,female,24.0,0,2,16233,3,9549,16.7,G6,Southampton
+22359,False,Mr,Erik,Johansson,NULL,male,22.0,0,0,16561,3,350052,7.8,NULL,Southampton
+22360,False,Miss,Elina,Olsson,NULL,female,31.0,0,0,16562,3,350407,7.85,NULL,Southampton
+22361,False,Mr,Peter,McKane,NULL,male,46.0,0,0,16563,2,28403,26.0,NULL,Southampton
+22362,False,Dr,Alfred,Pain,NULL,male,23.0,0,0,16564,2,244278,10.5,NULL,Southampton
+22363,True,Mrs,William,Trout,Jessie L,female,28.0,0,0,16565,2,240929,12.65,NULL,Southampton
+22364,True,Mr,Juha,Niskanen,NULL,male,39.0,0,0,16566,3,23101289,7.92,NULL,Southampton
+22365,False,Mr,John,Adams,NULL,male,26.0,0,0,16567,3,341826,8.05,NULL,Southampton
+22366,False,Miss,Mari,Jussila,NULL,female,21.0,1,0,16568,3,4137,9.82,NULL,Southampton
+22367,False,Mr,Pekka,Hakkarainen,NULL,male,28.0,1,0,16355,3,23101279,15.85,NULL,Southampton
+22368,False,Miss,Marija,Oreskovic,NULL,female,20.0,0,0,16569,3,315096,8.66,NULL,Southampton
+22369,False,Mr,Shadrach,Gale,NULL,male,34.0,1,0,16570,2,28664,21.0,NULL,Southampton
+22370,False,Mr,Carl/Charles,Widegren,NULL,male,51.0,0,0,16571,3,347064,7.75,NULL,Southampton
+22371,True,Master,William,Richards,NULL,male,3.0,1,1,16572,2,29106,18.75,NULL,Southampton
+22372,False,Mr,Hans,Birkeland,NULL,male,21.0,0,0,16573,3,312992,7.78,NULL,Southampton
+22373,False,Miss,Ida,Lefebre,NULL,female,NULL,3,1,16383,3,4133,25.47,NULL,Southampton
+22374,False,Mr,Todor,Sdycoff,NULL,male,NULL,0,0,16574,3,349222,7.9,NULL,Southampton
+22375,False,Mr,Henry,Hart,NULL,male,NULL,0,0,16575,3,394140,6.86,NULL,Queenstown
+22376,True,Miss,Daisy,Minahan,NULL,female,33.0,1,0,16442,1,19928,90.0,C78,Queenstown
+22377,False,Mr,Alfred,Cunningham,NULL,male,NULL,0,0,16470,2,239853,0.0,NULL,Southampton
+22378,True,Mr,Johan,Sundman,NULL,male,44.0,0,0,16576,3,23101269,7.92,NULL,Southampton
+22379,False,Mrs,Thomas,Meek,Annie Louise Rowley,female,NULL,0,0,16577,3,343095,8.05,NULL,Southampton
+22380,True,Mrs,James,Drew,Lulu Thorne Christian,female,34.0,1,1,16578,2,28220,32.5,NULL,Southampton
+22381,True,Miss,Lyyli,Silven,NULL,female,18.0,0,2,16579,2,250652,13.0,NULL,Southampton
+22382,False,Mr,William,Matthews,NULL,male,30.0,0,0,16580,2,28228,13.0,NULL,Southampton
+22383,False,Miss,Catharina,Van Impe,NULL,female,10.0,0,2,16581,3,345773,24.15,NULL,Southampton
+22384,False,Mr,Stanio,Gheorgheff,NULL,male,NULL,0,0,16582,3,349254,7.9,NULL,Cherbourg
+22385,False,Mr,David,Charters,NULL,male,21.0,0,0,16583,3,513032,7.73,NULL,Queenstown
+22386,False,Mr,Leo,Zimmerman,NULL,male,29.0,0,0,16584,3,315082,7.88,NULL,Southampton
+22387,False,Mrs,Ernst,Danbom,Anna Sigrid Maria Brogren,female,28.0,1,1,16585,3,347080,14.4,NULL,Southampton
+22388,False,Mr,Viktor,Rosblom,NULL,male,18.0,1,1,16450,3,370129,20.21,NULL,Southampton
+22389,False,Mr,Phillippe,Wiseman,NULL,male,NULL,0,0,16586,3,434244,7.25,NULL,Southampton
+22390,True,Mrs,Charles,Clarke,Ada Maria Winfield,female,28.0,1,0,16587,2,2003,26.0,NULL,Southampton
+22391,True,Miss,Kate,Phillips,Mrs Kate Louise Phillips Marshall,female,19.0,0,0,16588,2,250655,26.0,NULL,Southampton
+22392,False,Mr,James,Flynn,NULL,male,NULL,0,0,16589,3,364851,7.75,NULL,Queenstown
+22393,True,Mr,Berk,Pickard,Berk Trembisky,male,32.0,0,0,16590,3,392078,8.05,E10,Southampton
+22394,True,Mr,Mauritz,Bjornstrom-Steffansson,NULL,male,28.0,0,0,16591,1,110564,26.55,C52,Southampton
+22395,True,Mrs,Percival,Thorneycroft,Florence Kate White,female,NULL,1,0,16592,3,376564,16.1,NULL,Southampton
+22396,True,Mrs,Charles,Louch,Alice Adelaide Slow,female,42.0,1,0,16593,2,3085,26.0,NULL,Southampton
+22397,False,Mr,Nikolai,Kallio,NULL,male,17.0,0,0,16594,3,23101274,7.12,NULL,Southampton
+22398,False,Mr,William,Silvey,NULL,male,50.0,1,0,16595,1,13507,55.9,E44,Southampton
+22399,True,Miss,Lucile,Carter,NULL,female,14.0,1,2,16558,1,113760,120.0,B96 B98,Southampton
+22400,False,Miss,Doolina,Ford,NULL,female,21.0,2,2,16307,3,6608,34.38,NULL,Southampton
+22401,True,Mrs,Sidney,Richards,Emily Hocking,female,24.0,2,3,16572,2,29106,18.75,NULL,Southampton
+22402,False,Mr,Mark,Fortune,NULL,male,64.0,1,4,16249,1,19950,263.0,C23 C25 C27,Southampton
+22403,False,Mr,Johan,Kvillner,NULL,male,31.0,0,0,16596,2,18723,10.5,NULL,Southampton
+22404,True,Mrs,Benjamin,Hart,Esther Ada Bloomfield,female,45.0,1,1,16503,2,13529,26.25,NULL,Southampton
+22405,False,Mr,Leon,Hampe,NULL,male,20.0,0,0,16597,3,345769,9.5,NULL,Southampton
+22406,False,Mr,Johan,Petterson,NULL,male,25.0,1,0,16598,3,347076,7.78,NULL,Southampton
+22407,True,Ms,Encarnacion,Reynaldo,NULL,female,28.0,0,0,16599,2,230434,13.0,NULL,Southampton
+22408,True,Mr,Bernt,Johannesen-Bratthammer,NULL,male,NULL,0,0,16600,3,65306,8.11,NULL,Southampton
+22409,True,Master,Washington,Dodge,NULL,male,4.0,0,2,16601,1,33638,81.86,A34,Southampton
+22410,True,Miss,Madeleine,Mellinger,NULL,female,13.0,0,1,16465,2,250644,19.5,NULL,Southampton
+22411,True,Mr,Frederic,Seward,NULL,male,34.0,0,0,16602,1,113794,26.55,NULL,Southampton
+22412,True,Miss,Marie,Baclini,NULL,female,5.0,2,1,16603,3,2666,19.26,NULL,Cherbourg
+22413,True,Major,Arthur,Peuchen,NULL,male,52.0,0,0,16604,1,113786,30.5,C104,Southampton
+22414,False,Mr,Edwy,West,NULL,male,36.0,1,2,16280,2,34651,27.75,NULL,Southampton
+22415,False,Mr,Ingvald,Hagland,NULL,male,NULL,1,0,16605,3,65303,19.97,NULL,Southampton
+22416,False,Mr,Benjamin,Foreman,NULL,male,30.0,0,0,16606,1,113051,27.75,C111,Cherbourg
+22417,True,Mr,Samuel,Goldenberg,NULL,male,49.0,1,0,16607,1,17453,89.1,C92,Cherbourg
+22418,False,Mr,Joseph,Peduzzi,NULL,male,NULL,0,0,16608,3,52817,8.05,NULL,Southampton
+22419,True,Mr,Ivan,Jalsevac,NULL,male,29.0,0,0,16609,3,349240,7.9,NULL,Cherbourg
+22420,False,Mr,Francis,Millet,NULL,male,65.0,0,0,16610,1,13509,26.55,E38,Southampton
+22421,True,Mrs,Frederick,Kenyon,Marion,female,NULL,1,0,16611,1,17464,51.86,D21,Southampton
+22422,True,Miss,Ellen,Toomey,NULL,female,50.0,0,0,16612,2,13531,10.5,NULL,Southampton
+22423,False,Mr,Maurice,O'Connor,NULL,male,NULL,0,0,16613,3,371060,7.75,NULL,Queenstown
+22424,True,Mr,Harry,Anderson,NULL,male,48.0,0,0,16614,1,19952,26.55,E12,Southampton
+22425,False,Mr,William,Morley,NULL,male,34.0,0,0,16615,3,364506,8.05,NULL,Southampton
+22426,False,Mr,Arthur,Gee,NULL,male,47.0,0,0,16616,1,111320,38.5,E63,Southampton
+22427,False,Mr,Jacob,Milling,NULL,male,48.0,0,0,16617,2,234360,13.0,NULL,Southampton
+22428,False,Mr,Simon,Maisner,NULL,male,NULL,0,0,16618,3,2816,8.05,NULL,Southampton
+22429,False,Mr,Manuel,Goncalves,NULL,male,38.0,0,0,16619,3,3101306,7.05,NULL,Southampton
+22430,False,Mr,William,Campbell,NULL,male,NULL,0,0,16470,2,239853,0.0,NULL,Southampton
+22431,False,Mr,John,Smart,NULL,male,56.0,0,0,16620,1,113792,26.55,NULL,Southampton
+22432,False,Mr,James,Scanlan,NULL,male,NULL,0,0,16621,3,36209,7.72,NULL,Queenstown
+22433,True,Miss,Helene,Baclini,NULL,female,0.75,2,1,16603,3,2666,19.26,NULL,Cherbourg
+22434,False,Mr,Arthur,Keefe,NULL,male,NULL,0,0,16622,3,323592,7.25,NULL,Southampton
+22435,False,Mr,Luka,Cacic,NULL,male,38.0,0,0,16623,3,315089,8.66,NULL,Southampton
+22436,True,Mrs,Edwy,West,Ada Mary Worth,female,33.0,1,2,16280,2,34651,27.75,NULL,Southampton
+22437,True,Mrs,Amin,Jerwan,Marie Marthe Thuillard,female,23.0,0,0,16624,2,541,13.79,D,Cherbourg
+22438,False,Miss,Ida,Strandberg,NULL,female,22.0,0,0,16625,3,7553,9.84,NULL,Southampton
+22439,False,Mr,George,Clifford,NULL,male,NULL,0,0,16330,1,110465,52.0,A14,Southampton
+22440,False,Mr,Peter,Renouf,NULL,male,34.0,1,0,16626,2,31027,21.0,NULL,Southampton
+22441,False,Mr,Lewis,Braund,NULL,male,29.0,1,0,16627,3,3460,7.05,NULL,Southampton
+22442,False,Mr,Nils,Karlsson,NULL,male,22.0,0,0,16628,3,350060,7.52,NULL,Southampton
+22443,True,Miss,Hildur,Hirvonen,NULL,female,2.0,0,1,16629,3,3101298,12.29,NULL,Southampton
+22444,False,Master,Harold,Goodwin,NULL,male,9.0,5,2,16281,3,2144,46.9,NULL,Southampton
+22445,False,Mr,Anthony,Frost,NULL,male,NULL,0,0,16630,2,239854,0.0,NULL,Southampton
+22446,False,Mr,Richard,Rouse,NULL,male,50.0,0,0,16631,3,53594,8.05,NULL,Southampton
+22447,True,Mrs,Hedwig,Turkula,Hedwig,female,63.0,0,0,16632,3,4134,9.59,NULL,Southampton
+22448,True,Mr,Dickinson,Bishop,NULL,male,25.0,1,0,16483,1,11967,91.08,B49,Cherbourg
+22449,False,Miss,Jeannie,Lefebre,NULL,female,NULL,3,1,16383,3,4133,25.47,NULL,Southampton
+22450,True,Mrs,Frederick,Hoyt,Jane Anne Forby,female,35.0,1,0,16425,1,19943,90.0,C93,Southampton
+22451,False,Mr,Edward,Kent,NULL,male,58.0,0,0,16633,1,11771,29.7,B37,Cherbourg
+22452,False,Mr,Francis,Somerton,NULL,male,30.0,0,0,16634,3,518509,8.05,NULL,Southampton
+22453,True,Master,Eden,Coutts,NULL,male,9.0,1,1,16526,3,37671,15.9,NULL,Southampton
+22454,False,Mr,Konrad,Hagland,NULL,male,NULL,1,0,16635,3,65304,19.97,NULL,Southampton
+22455,False,Mr,Einar,Windelov,NULL,male,21.0,0,0,16636,3,3101317,7.25,NULL,Southampton
+22456,False,Mr,Harry,Molson,NULL,male,55.0,0,0,16637,1,113787,30.5,C30,Southampton
+22457,False,Mr,Ramon,Artagaveytia,NULL,male,71.0,0,0,16638,1,17609,49.5,NULL,Cherbourg
+22458,False,Mr,Edward,Stanley,NULL,male,21.0,0,0,16639,3,445380,8.05,NULL,Southampton
+22459,False,Mr,Gerious,Yousseff,NULL,male,NULL,0,0,16334,3,2627,14.46,NULL,Cherbourg
+22460,True,Miss,Elizabeth,Eustis,NULL,female,54.0,1,0,16640,1,36947,78.27,D20,Cherbourg
+22461,False,Mr,Frederick,Shellard,NULL,male,NULL,0,0,16641,3,6212,15.1,NULL,Southampton
+22462,False,Mrs,Hudson,Allison,Bessie Waldo Daniels,female,25.0,1,2,16489,1,113781,151.55,C22 C26,Southampton
+22463,False,Mr,Olof,Svensson,NULL,male,24.0,0,0,16642,3,350035,7.8,NULL,Southampton
+22464,False,Mr,Petar,Calic,NULL,male,17.0,0,0,16643,3,315086,8.66,NULL,Southampton
+22465,False,Miss,Mary,Canavan,NULL,female,21.0,0,0,16644,3,364846,7.75,NULL,Queenstown
+22466,False,Miss,Bridget,O'Sullivan,NULL,female,NULL,0,0,16645,3,330909,7.63,NULL,Queenstown
+22467,False,Miss,Kristina,Laitinen,NULL,female,37.0,0,0,16646,3,4135,9.59,NULL,Southampton
+22468,True,Miss,Roberta,Maioni,NULL,female,16.0,0,0,16453,1,110152,86.5,B79,Southampton
+22469,False,Mr,Victor,Penasco y Castellana,NULL,male,18.0,1,0,16496,1,17758,108.9,C65,Cherbourg
+22470,True,Mrs,Frederick,Quick,Jane Richards,female,33.0,0,2,16647,2,26360,26.0,NULL,Southampton
+22471,True,Mr,George,Bradley,George Arthur Brayton,male,NULL,0,0,16648,1,111427,26.55,NULL,Southampton
+22472,False,Mr,Henry,Olsen,NULL,male,28.0,0,0,16649,3,4001,22.52,NULL,Southampton
+22473,True,Mr,Fang,Lang,NULL,male,26.0,0,0,16295,3,1601,56.5,NULL,Southampton
+22474,True,Mr,Eugene,Daly,NULL,male,29.0,0,0,16650,3,382651,7.75,NULL,Queenstown
+22475,False,Mr,James,Webber,NULL,male,NULL,0,0,16651,3,3101316,8.05,NULL,Southampton
+22476,True,Mr,James,McGough,NULL,male,36.0,0,0,16652,1,17473,26.29,E25,Southampton
+22477,True,Mrs,Martin,Rothschild,Elizabeth L. Barrett,female,54.0,1,0,16653,1,17603,59.4,NULL,Cherbourg
+22478,False,Mr,Satio,Coleff,NULL,male,24.0,0,0,16654,3,349209,7.5,NULL,Southampton
+22479,False,Mr,William,Walker,NULL,male,47.0,0,0,16655,1,36967,34.02,D46,Southampton
+22480,True,Mrs,Amelia,Lemore,Amelia Milley,female,34.0,0,0,16656,2,34260,10.5,F33,Southampton
+22481,False,Mr,Patrick,Ryan,NULL,male,NULL,0,0,16329,3,371110,24.15,NULL,Queenstown
+22482,True,Mrs,William,Angle,Florence Mary Agnes Hughes,female,36.0,1,0,16657,2,226875,26.0,NULL,Southampton
+22483,False,Mr,Stefo,Pavlovic,NULL,male,32.0,0,0,16658,3,349242,7.9,NULL,Southampton
+22484,True,Miss,Anne,Perreault,NULL,female,30.0,0,0,16659,1,12749,93.5,B73,Southampton
+22485,False,Mr,Janko,Vovk,NULL,male,22.0,0,0,16660,3,349252,7.9,NULL,Southampton
+22486,False,Mr,Sarkis,Lahoud,NULL,male,NULL,0,0,16661,3,2624,7.22,NULL,Cherbourg
+22487,True,Mrs,Louis,Hippach,Ida Sophia Fischer,female,44.0,0,1,16514,1,111361,57.98,B18,Cherbourg
+22488,False,Mr,Fared,Kassem,NULL,male,NULL,0,0,16662,3,2700,7.23,NULL,Cherbourg
+22489,False,Mr,James,Farrell,NULL,male,40.5,0,0,16663,3,367232,7.75,NULL,Queenstown
+22490,True,Miss,Lucy,Ridsdale,NULL,female,50.0,0,0,16664,2,14258,10.5,NULL,Southampton
+22491,False,Mr,John,Farthing,NULL,male,NULL,0,0,16665,1,17483,221.78,C95,Southampton
+22492,False,Mr,Johan,Salonen,NULL,male,39.0,0,0,16666,3,3101296,7.92,NULL,Southampton
+22493,False,Mr,Richard,Hocking,NULL,male,23.0,2,1,16667,2,29104,11.5,NULL,Southampton
+22494,True,Miss,Phyllis,Quick,NULL,female,2.0,1,1,16647,2,26360,26.0,NULL,Southampton
+22495,False,Mr,Nakli,Toufik,NULL,male,NULL,0,0,16668,3,2641,7.23,NULL,Cherbourg
+22496,False,Mr,Joseph,Elias,NULL,male,17.0,1,1,16669,3,2690,7.23,NULL,Cherbourg
+22497,True,Mrs,Catherine,Peter,Catherine Rizk,female,NULL,0,2,16342,3,2668,22.36,NULL,Cherbourg
+22498,False,Miss,Marija,Cacic,NULL,female,30.0,0,0,16670,3,315084,8.66,NULL,Southampton
+22499,True,Miss,Eva,Hart,NULL,female,7.0,0,2,16503,2,13529,26.25,NULL,Southampton
+22500,False,Major,Archibald,Butt,NULL,male,45.0,0,0,16671,1,113050,26.55,B38,Southampton
+22501,True,Miss,Bertha,LeRoy,NULL,female,30.0,0,0,16672,1,17761,106.42,NULL,Cherbourg
+22502,False,Mr,Samuel,Risien,NULL,male,NULL,0,0,16673,3,364498,14.5,NULL,Southampton
+22503,True,Miss,Hedwig,Frolicher,NULL,female,22.0,0,2,16674,1,13568,49.5,B39,Cherbourg
+22504,True,Miss,Harriet,Crosby,NULL,female,36.0,0,2,16675,1,5735,71.0,B22,Southampton
+22505,False,Miss,Ingeborg,Andersson,NULL,female,9.0,4,2,16236,3,347082,31.28,NULL,Southampton
+22506,False,Miss,Sigrid,Andersson,NULL,female,11.0,4,2,16236,3,347082,31.28,NULL,Southampton
+22507,True,Mr,Edward,Beane,NULL,male,32.0,1,0,16676,2,2908,26.0,NULL,Southampton
+22508,False,Mr,Walter,Douglas,NULL,male,50.0,1,0,16672,1,17761,106.42,C86,Cherbourg
+22509,False,Mr,Arthur,Nicholson,NULL,male,64.0,0,0,16677,1,693,26.0,NULL,Southampton
+22510,True,Mrs,Edward,Beane,Ethel Clarke,female,19.0,1,0,16676,2,2908,26.0,NULL,Southampton
+22511,True,Mr,Julian,Padro y Manent,NULL,male,NULL,0,0,16678,2,2146,13.86,NULL,Cherbourg
+22512,False,Mr,Frank,Goldsmith,NULL,male,33.0,1,1,16376,3,363291,20.52,NULL,Southampton
+22513,True,Master,John,Davies,NULL,male,8.0,1,1,16358,2,33112,36.75,NULL,Southampton
+22514,True,Mr,John,Thayer,NULL,male,17.0,0,2,16495,1,17421,110.88,C70,Cherbourg
+22515,False,Mr,Percival,Sharp,NULL,male,27.0,0,0,16679,2,244358,26.0,NULL,Southampton
+22516,False,Mr,Timothy,O'Brien,NULL,male,NULL,0,0,16680,3,330979,7.83,NULL,Queenstown
+22517,True,Mr,Fahim,Leeni,Philip Zenni,male,22.0,0,0,16681,3,2620,7.22,NULL,Cherbourg
+22518,True,Miss,Velin,Ohman,NULL,female,22.0,0,0,16682,3,347085,7.78,NULL,Southampton
+22519,False,Mr,George,Wright,NULL,male,62.0,0,0,16683,1,113807,26.55,NULL,Southampton
+22520,True,Lady,Lucille,Duff Gordon,Lucille Christiana Sutherland,female,48.0,1,0,16684,1,11755,39.6,A16,Cherbourg
+22521,False,Mr,Victor,Robbins,NULL,male,NULL,0,0,16551,1,17757,227.52,NULL,Cherbourg
+22522,True,Mrs,Emil,Taussig,Tillie Mandelbaum,female,39.0,1,1,16457,1,110413,79.65,E67,Southampton
+22523,True,Mrs,Guillaume,de Messemaeker,Emma,female,36.0,1,0,16685,3,345572,17.4,NULL,Southampton
+22524,False,Mr,Thomas,Morrow,NULL,male,NULL,0,0,16686,3,372622,7.75,NULL,Queenstown
+22525,False,Mr,Husein,Sivic,NULL,male,40.0,0,0,16687,3,349251,7.9,NULL,Southampton
+22526,False,Mr,Robert,Norman,NULL,male,28.0,0,0,16688,2,218629,13.5,NULL,Southampton
+22527,False,Mr,John,Simmons,NULL,male,NULL,0,0,16689,3,392082,8.05,NULL,Southampton
+22528,False,Miss,Marion,Meanwell,Marion Ogden,female,NULL,0,0,16690,3,392087,8.05,NULL,Southampton
+22529,False,Mr,Alfred,Davies,NULL,male,24.0,2,0,16691,3,448871,24.15,NULL,Southampton
+22530,False,Mr,Ilia,Stoytcheff,NULL,male,19.0,0,0,16692,3,349205,7.9,NULL,Southampton
+22531,False,Mrs,Nils,Palsson,Alma Cornelia Berglund,female,29.0,0,4,16230,3,349909,21.08,NULL,Southampton
+22532,False,Mr,Tannous,Doharr,NULL,male,NULL,0,0,16693,3,2686,7.23,NULL,Cherbourg
+22533,True,Mr,Carl,Jonsson,NULL,male,32.0,0,0,16694,3,350417,7.85,NULL,Southampton
+22534,True,Mr,George,Harris,NULL,male,62.0,0,0,16695,2,752,10.5,NULL,Southampton
+22535,True,Mrs,Edward,Appleton,Charlotte Lamson,female,53.0,2,0,16696,1,11769,51.48,C101,Southampton
+22536,True,Mr,John,Flynn,Irving,male,36.0,0,0,16697,1,17474,26.39,E25,Southampton
+22537,True,Miss,Mary,Kelly,NULL,female,NULL,0,0,16698,3,14312,7.75,NULL,Queenstown
+22538,False,Mr,Alfred,Rush,NULL,male,16.0,0,0,16699,3,420589,8.05,NULL,Southampton
+22539,False,Mr,George,Patchett,NULL,male,19.0,0,0,16700,3,358585,14.5,NULL,Southampton
+22540,True,Miss,Ethel,Garside,NULL,female,34.0,0,0,16701,2,243880,13.0,NULL,Southampton
+22541,True,Mrs,William,Silvey,Alice Munger,female,39.0,1,0,16595,1,13507,55.9,E44,Southampton
+22542,False,Mrs,Joseph,Caram,Maria Elias,female,NULL,1,0,16702,3,2689,14.46,NULL,Cherbourg
+22543,True,Mr,Eiriik,Jussila,NULL,male,32.0,0,0,16703,3,23101286,7.92,NULL,Southampton
+22544,True,Miss,Julie,Christy,NULL,female,25.0,1,1,16704,2,237789,30.0,NULL,Southampton
+22545,True,Mrs,John,Thayer,Marian Longstreth Morris,female,39.0,1,1,16495,1,17421,110.88,C68,Cherbourg
+22546,False,Mr,William,Downton,NULL,male,54.0,0,0,16563,2,28403,26.0,NULL,Southampton
+22547,False,Mr,John,Ross,NULL,male,36.0,0,0,16705,1,13049,40.12,A10,Cherbourg
+22548,False,Mr,Uscher,Paulner,NULL,male,NULL,0,0,16706,3,3411,8.71,NULL,Cherbourg
+22549,True,Miss,Ruth,Taussig,NULL,female,18.0,0,2,16457,1,110413,79.65,E68,Southampton
+22550,False,Mr,John,Jarvis,NULL,male,47.0,0,0,16707,2,237565,15.0,NULL,Southampton
+22551,True,Mr,Maxmillian,Frolicher-Stehli,NULL,male,60.0,1,1,16708,1,13567,79.2,B41,Cherbourg
+22552,False,Mr,Eliezer,Gilinski,NULL,male,22.0,0,0,16709,3,14973,8.05,NULL,Southampton
+22553,False,Mr,Joseph,Murdlin,NULL,male,NULL,0,0,16710,3,53235,8.05,NULL,Southampton
+22554,False,Mr,Matti,Rintamaki,NULL,male,35.0,0,0,16711,3,23101273,7.12,NULL,Southampton
+22555,True,Mrs,Walter,Stephenson,Martha Eustis,female,52.0,1,0,16640,1,36947,78.27,D20,Cherbourg
+22556,False,Mr,William,Elsbury,NULL,male,47.0,0,0,16712,3,53902,7.25,NULL,Southampton
+22557,False,Miss,Mary,Bourke,NULL,female,NULL,0,2,16713,3,364848,7.75,NULL,Queenstown
+22558,False,Mr,John,Chapman,NULL,male,37.0,1,0,16714,2,29037,26.0,NULL,Southampton
+22559,False,Mr,Jean,Van Impe,NULL,male,36.0,1,1,16581,3,345773,24.15,NULL,Southampton
+22560,True,Miss,Jessie,Leitch,NULL,female,NULL,0,0,16715,2,248727,33.0,NULL,Southampton
+22561,False,Mr,Alfred,Johnson,NULL,male,49.0,0,0,16386,3,NULL,0.0,NULL,Southampton
+22562,False,Mr,Hanna,Boulos,NULL,male,NULL,0,0,16716,3,2664,7.22,NULL,Cherbourg
+22563,True,Sir,Cosmo,Duff Gordon,Mr Morgan,male,49.0,1,0,16498,1,17485,56.93,A20,Cherbourg
+22564,True,Mrs,Sidney,Jacobsohn,Amy Frances Christy,female,24.0,2,1,16418,2,243847,27.0,NULL,Southampton
+22565,False,Mr,Petco,Slabenoff,NULL,male,NULL,0,0,16717,3,349214,7.9,NULL,Southampton
+22566,False,Mr,Charles,Harrington,NULL,male,NULL,0,0,16718,1,113796,42.4,NULL,Southampton
+22567,False,Mr,Ernst,Torber,NULL,male,44.0,0,0,16719,3,364511,8.05,NULL,Southampton
+22568,True,Mr,Harry,Homer,Mr E Haven,male,35.0,0,0,16720,1,111426,26.55,NULL,Cherbourg
+22569,False,Mr,Edvard,Lindell,NULL,male,36.0,1,0,16721,3,349910,15.55,NULL,Southampton
+22570,False,Mr,Milan,Karaic,NULL,male,30.0,0,0,16722,3,349246,7.9,NULL,Southampton
+22571,True,Mr,Robert,Daniel,NULL,male,27.0,0,0,16723,1,113804,30.5,NULL,Southampton
+22572,True,Mrs,Joseph,Laroche,Juliette Marie Louise Lafargue,female,22.0,1,2,16265,2,2123,41.58,NULL,Cherbourg
+22573,True,Miss,Elizabeth,Shutes,NULL,female,40.0,0,0,16462,1,17582,153.46,C125,Southampton
+22574,False,Mrs,Anders,Andersson,Alfrida Konstantia Brogren,female,39.0,1,5,16236,3,347082,31.28,NULL,Southampton
+22575,False,Mr,Jose,Jardin,NULL,male,NULL,0,0,16724,3,3101305,7.05,NULL,Southampton
+22576,True,Miss,Margaret,Murphy,NULL,female,NULL,1,0,16438,3,367230,15.5,NULL,Queenstown
+22577,False,Mr,John,Horgan,NULL,male,NULL,0,0,16725,3,370377,7.75,NULL,Queenstown
+22578,False,Mr,William,Brocklebank,NULL,male,35.0,0,0,16726,3,364512,8.05,NULL,Southampton
+22579,True,Miss,Alice,Herman,NULL,female,24.0,1,2,16727,2,220845,65.0,NULL,Southampton
+22580,False,Mr,Ernst,Danbom,NULL,male,34.0,1,1,16585,3,347080,14.4,NULL,Southampton
+22581,False,Mrs,William,Lobb,Cordelia K Stanlick,female,26.0,1,0,16449,3,53336,16.1,NULL,Southampton
+22582,True,Miss,Marion,Becker,NULL,female,4.0,2,1,16388,2,230136,39.0,F4,Southampton
+22583,False,Mr,Lawrence,Gavey,NULL,male,26.0,0,0,16728,2,31028,10.5,NULL,Southampton
+22584,False,Mr,Antoni,Yasbeck,NULL,male,27.0,1,0,16729,3,2659,14.45,NULL,Cherbourg
+22585,True,Mr,Edwin,Kimball,NULL,male,42.0,1,0,16730,1,11753,52.55,D19,Southampton
+22586,True,Mr,Sahid,Nakid,NULL,male,20.0,1,1,16552,3,2653,15.74,NULL,Cherbourg
+22587,False,Mr,Henry,Hansen,NULL,male,21.0,0,0,16731,3,350029,7.85,NULL,Southampton
+22588,False,Mr,David,Bowen,NULL,male,21.0,0,0,16732,3,54636,16.1,NULL,Southampton
+22589,False,Mr,Frederick,Sutton,NULL,male,61.0,0,0,16733,1,36963,32.32,D50,Southampton
+22590,False,Rev,Charles,Kirkland,NULL,male,57.0,0,0,16734,2,219533,12.35,NULL,Queenstown
+22591,True,Miss,Gretchen,Longley,NULL,female,21.0,0,0,16468,1,13502,77.96,D9,Southampton
+22592,False,Mr,Guentcho,Bostandyeff,NULL,male,26.0,0,0,16735,3,349224,7.9,NULL,Southampton
+22593,False,Mr,Patrick,O'Connell,NULL,male,NULL,0,0,16736,3,334912,7.73,NULL,Queenstown
+22594,True,Mr,Algernon,Barkworth,NULL,male,80.0,0,0,16737,1,27042,30.0,A23,Southampton
+22595,False,Mr,Johan,Lundahl,NULL,male,51.0,0,0,16738,3,347743,7.05,NULL,Southampton
+22596,True,Dr,Max,Stahelin-Maeglin,NULL,male,32.0,0,0,16739,1,13214,30.5,B50,Cherbourg
+22597,False,Mr,William,Parr,NULL,male,NULL,0,0,16740,1,112052,0.0,NULL,Southampton
+22598,False,Miss,Mabel,Skoog,NULL,female,9.0,3,2,16285,3,347088,27.9,NULL,Southampton
+22599,True,Miss,Mary,Davis,NULL,female,28.0,0,0,16741,2,237668,13.0,NULL,Southampton
+22600,False,Mr,Antti,Leinonen,NULL,male,32.0,0,0,16742,3,23101292,7.92,NULL,Southampton
+22601,False,Mr,Harvey,Collyer,NULL,male,31.0,1,1,16435,2,31921,26.25,NULL,Southampton
+22602,False,Mrs,Juha,Panula,Maria Emilia Ojala,female,41.0,0,5,16272,3,3101295,39.69,NULL,Southampton
+22603,False,Mr,Percival,Thorneycroft,NULL,male,NULL,1,0,16592,3,376564,16.1,NULL,Southampton
+22604,False,Mr,Hans,Jensen,NULL,male,20.0,0,0,16743,3,350050,7.85,NULL,Southampton
+22605,True,Mlle,Emma,Sagesser,NULL,female,24.0,0,0,16543,1,17477,69.3,B35,Cherbourg
+22606,False,Miss,Margit,Skoog,NULL,female,2.0,3,2,16285,3,347088,27.9,NULL,Southampton
+22607,True,Mr,Choong,Foo,NULL,male,NULL,0,0,16295,3,1601,56.5,NULL,Southampton
+22608,True,Miss,Eugenie,Baclini,NULL,female,0.75,2,1,16603,3,2666,19.26,NULL,Cherbourg
+22609,True,Mr,Henry,Harper,NULL,male,48.0,1,0,16274,1,17572,76.73,D33,Cherbourg
+22610,False,Mr,Liudevit,Cor,NULL,male,19.0,0,0,16744,3,349231,7.9,NULL,Southampton
+22611,True,Col,Oberst,Simonius-Blumer,NULL,male,56.0,0,0,16745,1,13213,35.5,A26,Cherbourg
+22612,False,Mr,Edward,Willey,NULL,male,NULL,0,0,16746,3,751,7.55,NULL,Southampton
+22613,True,Miss,Amy,Stanley,NULL,female,23.0,0,0,16747,3,2314,7.55,NULL,Southampton
+22614,False,Mr,Mito,Mitkoff,NULL,male,NULL,0,0,16748,3,349221,7.9,NULL,Southampton
+22615,True,Miss,Elsie,Doling,NULL,female,18.0,0,1,16318,2,231919,23.0,NULL,Southampton
+22616,False,Mr,Johannes,Kalvik,NULL,male,21.0,0,0,16749,3,8475,8.43,NULL,Southampton
+22617,True,Miss,Hanora,O'Leary,NULL,female,NULL,0,0,16750,3,330919,7.83,NULL,Queenstown
+22618,False,Miss,Hanora,Hegarty,NULL,female,18.0,0,0,16751,3,365226,6.75,NULL,Queenstown
+22619,False,Mr,Leonard,Hickman,NULL,male,24.0,2,0,16293,2,14879,73.5,NULL,Southampton
+22620,False,Mr,Alexander,Radeff,NULL,male,NULL,0,0,16752,3,349223,7.9,NULL,Southampton
+22621,False,Mrs,John,Bourke,Catherine,female,32.0,1,1,16393,3,364849,15.5,NULL,Queenstown
+22622,False,Mr,George,Eitemiller,NULL,male,23.0,0,0,16753,2,29751,13.0,NULL,Southampton
+22623,False,Mr,Arthur,Newell,NULL,male,58.0,0,2,16416,1,35273,113.28,D48,Cherbourg
+22624,True,Dr,Henry,Frauenthal,NULL,male,50.0,2,0,16516,1,17611,133.65,NULL,Southampton
+22625,False,Mr,Mohamed,Badt,NULL,male,40.0,0,0,16754,3,2623,7.22,NULL,Cherbourg
+22626,False,Mr,Edward,Colley,NULL,male,47.0,0,0,16755,1,5727,25.59,E58,Southampton
+22627,False,Mr,Peju,Coleff,NULL,male,36.0,0,0,16756,3,349210,7.5,NULL,Southampton
+22628,True,Mr,Eino,Lindqvist,NULL,male,20.0,1,0,16757,3,23101285,7.92,NULL,Southampton
+22629,False,Mr,Lewis,Hickman,NULL,male,32.0,2,0,16293,2,14879,73.5,NULL,Southampton
+22630,False,Mr,Reginald,Butler,NULL,male,25.0,0,0,16758,2,234686,13.0,NULL,Southampton
+22631,False,Mr,Knud,Rommetvedt,NULL,male,NULL,0,0,16759,3,312993,7.78,NULL,Southampton
+22632,False,Mr,Jacob,Cook,NULL,male,43.0,0,0,16760,3,53536,8.05,NULL,Southampton
+22633,True,Mrs,Elmer,Taylor,Juliet Cummins Wright,female,NULL,1,0,16761,1,19996,52.0,C126,Southampton
+22634,True,Mrs,Thomas,Brown,Elizabeth Catherine Ford,female,40.0,1,1,16762,2,29750,39.0,NULL,Southampton
+22635,False,Mr,Thornton,Davidson,NULL,male,31.0,1,0,16763,1,12750,52.0,B71,Southampton
+22636,False,Mr,Henry,Mitchell,NULL,male,70.0,0,0,16764,2,24580,10.5,NULL,Southampton
+22637,True,Mr,Charles,Wilhelms,NULL,male,31.0,0,0,16765,2,244270,13.0,NULL,Southampton
+22638,False,Mr,Ennis,Watson,NULL,male,NULL,0,0,16766,2,239856,0.0,NULL,Southampton
+22639,False,Mr,Gustaf,Edvardsson,NULL,male,18.0,0,0,16767,3,349912,7.78,NULL,Southampton
+22640,False,Mr,Frederick,Sawyer,NULL,male,24.5,0,0,16768,3,342826,8.05,NULL,Southampton
+22641,True,Miss,Anna,Turja,NULL,female,18.0,0,0,16769,3,4138,9.84,NULL,Southampton
+22642,False,Mrs,Frederick,Goodwin,Augusta Tyler,female,43.0,1,6,16281,3,2144,46.9,NULL,Southampton
+22643,True,Mr,Thomas,Cardeza,NULL,male,36.0,0,1,16454,1,17755,512.33,B51 B53 B55,Cherbourg
+22644,False,Miss,Katie,Peters,NULL,female,NULL,0,0,16770,3,330935,8.14,NULL,Queenstown
+22645,True,Mr,Hammad,Hassab,NULL,male,27.0,0,0,16274,1,17572,76.73,D49,Cherbourg
+22646,False,Mr,Thor,Olsvigen,NULL,male,20.0,0,0,16771,3,6563,9.22,NULL,Southampton
+22647,False,Mr,Charles,Goodwin,NULL,male,14.0,5,2,16281,3,2144,46.9,NULL,Southampton
+22648,False,Mr,Thomas,Brown,NULL,male,60.0,1,1,16762,2,29750,39.0,NULL,Southampton
+22649,False,Mr,Joseph,Laroche,NULL,male,25.0,1,2,16265,2,2123,41.58,NULL,Cherbourg
+22650,False,Mr,Jaako,Panula,NULL,male,14.0,4,1,16272,3,3101295,39.69,NULL,Southampton
+22651,False,Mr,Branko,Dakic,NULL,male,19.0,0,0,16772,3,349228,10.17,NULL,Southampton
+22652,False,Mr,Eberhard,Fischer,NULL,male,18.0,0,0,16773,3,350036,7.8,NULL,Southampton
+22653,True,Miss,Georgette,Madill,NULL,female,15.0,0,1,16774,1,24160,211.34,B5,Southampton
+22654,True,Mr,Albert,Dick,NULL,male,31.0,1,0,16775,1,17474,57.0,B20,Southampton
+22655,True,Miss,Manca,Karun,NULL,female,4.0,0,1,16776,3,349256,13.42,NULL,Cherbourg
+22656,True,Mr,Ali,Lam,NULL,male,NULL,0,0,16295,3,1601,56.5,NULL,Southampton
+22657,False,Mr,Khalil,Saad,NULL,male,25.0,0,0,16777,3,2672,7.22,NULL,Cherbourg
+22658,False,Col,John,Weir,NULL,male,60.0,0,0,16778,1,113800,26.55,NULL,Southampton
+22659,False,Mr,Charles,Chapman,NULL,male,52.0,0,0,16779,2,248731,13.5,NULL,Southampton
+22660,False,Mr,James,Kelly,NULL,male,44.0,0,0,16780,3,363592,8.05,NULL,Southampton
+22661,True,Miss,Katherine,Mullens,NULL,female,NULL,0,0,16781,3,35852,7.73,NULL,Queenstown
+22662,False,Mr,John,Thayer,NULL,male,49.0,1,1,16495,1,17421,110.88,C68,Cherbourg
+22663,False,Mr,Adolf,Humblen,NULL,male,42.0,0,0,16782,3,348121,7.65,F G63,Southampton
+22664,True,Mrs,John,Astor,Madeleine Talmadge Force,female,18.0,1,0,16551,1,17757,227.52,C62 C64,Cherbourg
+22665,True,Mr,Spencer,Silverthorne,NULL,male,35.0,0,0,16783,1,17475,26.29,E24,Southampton
+22666,False,Miss,Saiide,Barbara,NULL,female,18.0,0,1,16537,3,2691,14.45,NULL,Cherbourg
+22667,False,Mr,Martin,Gallagher,NULL,male,25.0,0,0,16784,3,36864,7.74,NULL,Queenstown
+22668,False,Mr,Henrik,Hansen,NULL,male,26.0,1,0,16785,3,350025,7.85,NULL,Southampton
+22669,False,Mr,Henry,Morley,Mr Henry Marshall,male,39.0,0,0,16588,2,250655,26.0,NULL,Southampton
+22670,True,Mrs,Florence,Kelly,NULL,female,45.0,0,0,16786,2,223596,13.5,NULL,Southampton
+22671,True,Mr,Edward,Calderhead,NULL,male,42.0,0,0,16787,1,17476,26.29,E24,Southampton
+22672,True,Miss,Alice,Cleaver,NULL,female,22.0,0,0,16489,1,113781,151.55,NULL,Southampton
+22673,True,Master,Halim,Moubarek,William George,male,NULL,1,1,16287,3,2661,15.25,NULL,Cherbourg
+22674,True,Mlle,Berthe,Mayne,Mrs de Villiers,female,24.0,0,0,16788,1,17482,49.5,C90,Cherbourg
+22675,False,Mr,Herman,Klaber,NULL,male,NULL,0,0,16789,1,113028,26.55,C124,Southampton
+22676,True,Mr,Elmer,Taylor,NULL,male,48.0,1,0,16761,1,19996,52.0,C126,Southampton
+22677,False,Mr,August,Larsson,NULL,male,29.0,0,0,16790,3,7545,9.48,NULL,Southampton
+22678,False,Mr,Samuel,Greenberg,NULL,male,52.0,0,0,16791,2,250647,13.0,NULL,Southampton
+22679,False,Mr,Peter,Soholt,NULL,male,19.0,0,0,16792,3,348124,7.65,F G73,Southampton
+22680,True,Miss,Caroline,Endres,NULL,female,38.0,0,0,16551,1,17757,227.52,C45,Cherbourg
+22681,True,Miss,Edwina,Troutt,NULL,female,27.0,0,0,16793,2,34218,10.5,E101,Southampton
+22682,False,Mr,Michael,McEvoy,NULL,male,NULL,0,0,16794,3,36568,15.5,NULL,Queenstown
+22683,False,Mr,Malkolm,Johnson,NULL,male,33.0,0,0,16795,3,347062,7.78,NULL,Southampton
+22684,True,Miss,Annie,Harper,NULL,female,6.0,0,1,16715,2,248727,33.0,NULL,Southampton
+22685,False,Mr,Svend,Jensen,NULL,male,17.0,1,0,16796,3,350048,7.05,NULL,Southampton
+22686,False,Mr,William,Gillespie,NULL,male,34.0,0,0,16797,2,12233,13.0,NULL,Southampton
+22687,False,Mr,Henry,Hodges,NULL,male,50.0,0,0,16798,2,250643,13.0,NULL,Southampton
+22688,True,Mr,Norman,Chambers,NULL,male,27.0,1,0,16799,1,113806,53.1,E8,Southampton
+22689,False,Mr,Luka,Oreskovic,NULL,male,20.0,0,0,16800,3,315094,8.66,NULL,Southampton
+22690,True,Mrs,Peter,Renouf,Lillian Jefferys,female,30.0,3,0,16626,2,31027,21.0,NULL,Southampton
+22691,True,Miss,Margareth,Mannion,NULL,female,NULL,0,0,16801,3,36866,7.74,NULL,Queenstown
+22692,False,Mr,Kurt,Bryhl,NULL,male,25.0,1,0,16802,2,236853,26.0,NULL,Southampton
+22693,False,Miss,Pieta,Ilmakangas,NULL,female,25.0,1,0,16803,3,23101271,7.92,NULL,Southampton
+22694,True,Miss,Elisabeth,Allen,NULL,female,29.0,0,0,16774,1,24160,211.34,B5,Southampton
+22695,False,Mr,Houssein,Hassan,NULL,male,11.0,0,0,16408,3,2699,18.79,NULL,Cherbourg
+22696,False,Mr,Robert,Knight,NULL,male,NULL,0,0,16804,2,239855,0.0,NULL,Southampton
+22697,False,Mr,William,Berriman,NULL,male,23.0,0,0,16805,2,28425,13.0,NULL,Southampton
+22698,False,Mr,Moses,Troupiansky,NULL,male,23.0,0,0,16806,2,233639,13.0,NULL,Southampton
+22699,False,Mr,Leslie,Williams,NULL,male,28.5,0,0,16732,3,54636,16.1,NULL,Southampton
+22700,False,Mrs,Edward,Ford,Margaret Ann Watson,female,48.0,1,3,16307,3,6608,34.38,NULL,Southampton
+22701,True,Mr,Gustave,Lesurer,NULL,male,35.0,0,0,16454,1,17755,512.33,B101,Cherbourg
+22702,False,Mr,Kanio,Ivanoff,NULL,male,NULL,0,0,16807,3,349201,7.9,NULL,Southampton
+22703,False,Mr,Minko,Nankoff,NULL,male,NULL,0,0,16808,3,349218,7.9,NULL,Southampton
+22704,True,Mr,Walter,Hawksford,NULL,male,NULL,0,0,16809,1,16988,30.0,D45,Southampton
+22705,False,Mr,Tyrell,Cavendish,NULL,male,36.0,1,0,16482,1,19877,78.85,C46,Southampton
+22706,True,Miss,Susan,Ryerson,NULL,female,21.0,2,2,16500,1,17608,262.38,B57 B59 B63 B66,Cherbourg
+22707,False,Mr,Neal,McNamee,NULL,male,24.0,1,0,16810,3,376566,16.1,NULL,Southampton
+22708,True,Mr,Juho,Stranden,NULL,male,31.0,0,0,16811,3,23101288,7.92,NULL,Southampton
+22709,False,Capt,Edward,Crosby,NULL,male,70.0,1,1,16675,1,5735,71.0,B22,Southampton
+22710,False,Mr,Rossmore,Abbott,NULL,male,16.0,1,1,16471,3,2673,20.25,NULL,Southampton
+22711,True,Miss,Anna,Sinkkonen,NULL,female,30.0,0,0,16812,2,250648,13.0,NULL,Southampton
+22712,False,Mr,Daniel,Marvin,NULL,male,19.0,1,0,16813,1,113773,53.1,D30,Southampton
+22713,False,Mr,Michael,Connaghton,NULL,male,31.0,0,0,16814,3,335097,7.75,NULL,Queenstown
+22714,True,Miss,Joan,Wells,NULL,female,4.0,1,1,16815,2,29103,23.0,NULL,Southampton
+22715,True,Master,Meier,Moor,NULL,male,6.0,0,1,16816,3,392096,12.48,E121,Southampton
+22716,False,Mr,Johannes,Vande Velde,NULL,male,33.0,0,0,16817,3,345780,9.5,NULL,Southampton
+22717,False,Mr,Lalio,Jonkoff,NULL,male,23.0,0,0,16818,3,349204,7.9,NULL,Southampton
+22718,True,Mrs,Samuel,Herman,Jane Laver,female,48.0,1,2,16727,2,220845,65.0,NULL,Southampton
+22719,True,Master,Viljo,Hamalainen,NULL,male,0.67,1,1,16444,2,250649,14.5,NULL,Southampton
+22720,False,Mr,August,Carlsson,NULL,male,28.0,0,0,16819,3,350042,7.8,NULL,Southampton
+22721,False,Mr,Percy,Bailey,NULL,male,18.0,0,0,16820,2,29108,11.5,NULL,Southampton
+22722,False,Mr,Thomas,Theobald,NULL,male,34.0,0,0,16821,3,363294,8.05,NULL,Southampton
+22723,True,Countess,NULL,Rothes,Lucy Noel Martha Dyer-Edwards,female,33.0,0,0,16453,1,110152,86.5,B77,Southampton
+22724,False,Mr,John,Garfirth,NULL,male,NULL,0,0,16700,3,358585,14.5,NULL,Southampton
+22725,False,Mr,Iisakki,Nirva,NULL,male,41.0,0,0,16822,3,23101272,7.12,NULL,Southampton
+22726,True,Mr,Hanna,Barah,NULL,male,20.0,0,0,16823,3,2663,7.23,NULL,Cherbourg
+22727,True,Mrs,William,Carter,Lucile Polk,female,36.0,1,2,16558,1,113760,120.0,B96 B98,Southampton
+22728,False,Mr,Hans,Eklund,NULL,male,16.0,0,0,16824,3,347074,7.78,NULL,Southampton
+22729,True,Mrs,John,Hogeboom,Anna Andrews,female,51.0,1,0,16468,1,13502,77.96,D11,Southampton
+22730,False,Dr,Arthur,Brewe,NULL,male,NULL,0,0,16825,1,112379,39.6,NULL,Cherbourg
+22731,False,Miss,Mary,Mangan,NULL,female,30.5,0,0,16826,3,364850,7.75,NULL,Queenstown
+22732,False,Mr,Daniel,Moran,NULL,male,NULL,1,0,16329,3,371110,24.15,NULL,Queenstown
+22733,False,Mr,Daniel,Gronnestad,NULL,male,32.0,0,0,16827,3,8471,8.36,NULL,Southampton
+22734,False,Mr,Rene,Lievens,NULL,male,24.0,0,0,16828,3,345781,9.5,NULL,Southampton
+22735,False,Mr,Niels,Jensen,NULL,male,48.0,0,0,16829,3,350047,7.85,NULL,Southampton
+22736,False,Mrs,Mary,Mack,Mary,female,57.0,0,0,16830,2,3,10.5,E77,Southampton
+22737,False,Mr,Dibo,Elias,NULL,male,NULL,0,0,16831,3,2674,7.22,NULL,Cherbourg
+22738,True,Mrs,Elizabeth,Hocking,Eliza Needs,female,54.0,1,3,16832,2,29105,23.0,NULL,Southampton
+22739,False,Mr,Pehr,Myhrman,NULL,male,18.0,0,0,16833,3,347078,7.75,NULL,Southampton
+22740,False,Mr,Roger,Tobin,NULL,male,NULL,0,0,16834,3,383121,7.75,F38,Queenstown
+22741,True,Miss,Virginia,Emanuel,NULL,female,5.0,0,0,16300,3,364516,12.48,NULL,Southampton
+22742,False,Mr,Thomas,Kilgannon,NULL,male,NULL,0,0,16835,3,36865,7.74,NULL,Queenstown
+22743,True,Mrs,Edward,Robert,Elisabeth Walton McMillan,female,43.0,0,1,16774,1,24160,211.34,B3,Southampton
+22744,True,Miss,Banoura,Ayoub,NULL,female,13.0,0,0,16836,3,2687,7.23,NULL,Cherbourg
+22745,True,Mrs,Albert,Dick,Vera Gillespie,female,17.0,1,0,16775,1,17474,57.0,B20,Southampton
+22746,False,Mr,Milton,Long,NULL,male,29.0,0,0,16837,1,113501,30.0,D6,Southampton
+22747,False,Mr,Andrew,Johnston,NULL,male,NULL,1,2,16838,3,6607,23.45,NULL,Southampton
+22748,False,Mr,William,Ali,NULL,male,25.0,0,0,16839,3,3101312,7.05,NULL,Southampton
+22749,False,Mr,Abraham,Harmer,David Lishin,male,25.0,0,0,16840,3,374887,7.25,NULL,Southampton
+22750,True,Miss,Anna,Sjoblom,NULL,female,18.0,0,0,16841,3,3101265,7.5,NULL,Southampton
+22751,False,Master,George,Rice,NULL,male,8.0,4,1,16239,3,382652,29.12,NULL,Queenstown
+22752,True,Master,Bertram,Dean,NULL,male,1.0,1,2,16313,3,2315,20.58,NULL,Southampton
+22753,False,Mr,Benjamin,Guggenheim,NULL,male,46.0,0,0,16352,1,17593,79.2,B82 B84,Cherbourg
+22754,False,Mr,Andrew,Keane,NULL,male,NULL,0,0,16842,3,12460,7.75,NULL,Queenstown
+22755,False,Mr,Alfred,Gaskell,NULL,male,16.0,0,0,16243,2,239865,26.0,NULL,Southampton
+22756,False,Miss,Stella,Sage,NULL,female,NULL,8,2,16371,3,2343,69.55,NULL,Southampton
+22757,False,Mr,William,Hoyt,NULL,male,NULL,0,0,16843,1,17600,30.7,NULL,Cherbourg
+22758,False,Mr,Ristiu,Dantcheff,NULL,male,25.0,0,0,16844,3,349203,7.9,NULL,Southampton
+22759,False,Mr,Richard,Otter,NULL,male,39.0,0,0,16845,2,28213,13.0,NULL,Southampton
+22760,True,Dr,Alice,Leader,Farnham,female,49.0,0,0,16846,1,17465,25.93,D17,Southampton
+22761,True,Mrs,Mara,Osman,NULL,female,31.0,0,0,16847,3,349244,8.68,NULL,Southampton
+22762,False,Mr,Yousseff,Ibrahim Shawah,NULL,male,30.0,0,0,16848,3,2685,7.23,NULL,Cherbourg
+22763,False,Mrs,Jean,Van Impe,Rosalie Paula Govaert,female,30.0,1,1,16581,3,345773,24.15,NULL,Southampton
+22764,False,Mr,Martin,Ponesell,NULL,male,34.0,0,0,16791,2,250647,13.0,NULL,Southampton
+22765,True,Mrs,Harvey,Collyer,Charlotte Annie Tate,female,31.0,1,1,16435,2,31921,26.25,NULL,Southampton
+22766,True,Master,William,Carter,NULL,male,11.0,1,2,16558,1,113760,120.0,B96 B98,Southampton
+22767,True,Master,Assad,Thomas,NULL,male,0.42,0,1,16849,3,2625,8.52,NULL,Cherbourg
+22768,True,Mr,Oskar,Hedman,NULL,male,27.0,0,0,16850,3,347089,6.98,NULL,Southampton
+22769,False,Mr,Karl,Johansson,NULL,male,31.0,0,0,16851,3,347063,7.78,NULL,Southampton
+22770,False,Mr,Thomas,Andrews,NULL,male,39.0,0,0,16852,1,112050,0.0,A36,Southampton
+22771,False,Miss,Ellen,Pettersson,NULL,female,18.0,0,0,16853,3,347087,7.78,NULL,Southampton
+22772,False,Mr,August,Meyer,NULL,male,39.0,0,0,16854,2,248723,13.0,NULL,Southampton
+22773,True,Mrs,Norman,Chambers,Bertha Griggs,female,33.0,1,0,16799,1,113806,53.1,E8,Southampton
+22774,False,Mr,William,Alexander,NULL,male,26.0,0,0,16855,3,3474,7.89,NULL,Southampton
+22775,False,Mr,James,Lester,NULL,male,39.0,0,0,16691,3,448871,24.15,NULL,Southampton
+22776,False,Mr,Richard,Slemen,NULL,male,35.0,0,0,16856,2,28206,10.5,NULL,Southampton
+22777,False,Miss,Ebba,Andersson,NULL,female,6.0,4,2,16236,3,347082,31.28,NULL,Southampton
+22778,False,Mr,Ernest,Tomlin,NULL,male,30.5,0,0,16857,3,364499,8.05,NULL,Southampton
+22779,False,Mr,Richard,Fry,NULL,male,NULL,0,0,16858,1,112058,0.0,B102,Southampton
+22780,False,Miss,Wendla,Heininen,NULL,female,23.0,0,0,16859,3,23101290,7.92,NULL,Southampton
+22781,False,Mr,Albert,Mallet,NULL,male,31.0,1,1,16860,2,2079,37.0,NULL,Cherbourg
+22782,False,Mr,John,Holm,NULL,male,43.0,0,0,16861,3,7075,6.45,NULL,Southampton
+22783,False,Master,Karl,Skoog,NULL,male,10.0,3,2,16285,3,347088,27.9,NULL,Southampton
+22784,True,Mrs,Charles,Hays,Clara Jennings Gregg,female,52.0,1,1,16659,1,12749,93.5,B69,Southampton
+22785,True,Mr,Nikola,Lulic,NULL,male,27.0,0,0,16862,3,315098,8.66,NULL,Southampton
+22786,False,Jonkheer,John,Reuchlin,NULL,male,38.0,0,0,16863,1,19972,0.0,NULL,Southampton
+22787,True,Mrs,Beila,Moor,Beila,female,27.0,0,1,16816,3,392096,12.48,E121,Southampton
+22788,False,Master,Urho,Panula,NULL,male,2.0,4,1,16272,3,3101295,39.69,NULL,Southampton
+22789,False,Mr,John,Flynn,NULL,male,NULL,0,0,16864,3,368323,6.95,NULL,Queenstown
+22790,False,Mr,Len,Lam,NULL,male,NULL,0,0,16295,3,1601,56.5,NULL,Southampton
+22791,True,Master,Andre,Mallet,NULL,male,1.0,0,2,16860,2,2079,37.0,NULL,Cherbourg
+22792,True,Mr,Thomas,McCormack,NULL,male,NULL,0,0,16865,3,367228,7.75,NULL,Queenstown
+22793,True,Mrs,George,Stone,Martha Evelyn,female,62.0,0,0,16283,1,113572,80.0,B28,NULL
+22794,True,Mrs,Antoni,Yasbeck,Selini Alexander,female,15.0,1,0,16729,3,2659,14.45,NULL,Cherbourg
+22795,True,Master,George,Richards,NULL,male,0.83,1,1,16572,2,29106,18.75,NULL,Southampton
+22796,False,Mr,Amin,Saad,NULL,male,NULL,0,0,16866,3,2671,7.23,NULL,Cherbourg
+22797,False,Mr,Albert,Augustsson,NULL,male,23.0,0,0,16867,3,347468,7.85,NULL,Southampton
+22798,False,Mr,Owen,Allum,NULL,male,18.0,0,0,16868,3,2223,8.3,NULL,Southampton
+22799,True,Miss,Sara,Compton,NULL,female,39.0,1,1,16869,1,17756,83.16,E49,Cherbourg
+22800,False,Mr,Jakob,Pasic,NULL,male,21.0,0,0,16870,3,315097,8.66,NULL,Southampton
+22801,False,Mr,Maurice,Sirota,NULL,male,NULL,0,0,16871,3,392092,8.05,NULL,Southampton
+22802,True,Mr,Chang,Chip,NULL,male,32.0,0,0,16295,3,1601,56.5,NULL,Southampton
+22803,True,Mr,Pierre,Marechal,NULL,male,NULL,0,0,16872,1,11774,29.7,C47,Cherbourg
+22804,False,Mr,Ilmari,Alhomaki,NULL,male,20.0,0,0,16873,3,23101287,7.92,NULL,Southampton
+22805,False,Mr,Thomas,Mudd,NULL,male,16.0,0,0,16830,2,3,10.5,NULL,Southampton
+22806,True,Miss,Augusta,Serepeca,NULL,female,30.0,0,0,16874,1,113798,31.0,NULL,Cherbourg
+22807,False,Mr,Peter,Lemberopolous,NULL,male,34.5,0,0,16875,3,2683,6.44,NULL,Cherbourg
+22808,False,Mr,Jeso,Culumovic,NULL,male,17.0,0,0,16876,3,315090,8.66,NULL,Southampton
+22809,False,Mr,Anthony,Abbing,NULL,male,42.0,0,0,16877,3,5547,7.55,NULL,Southampton
+22810,False,Mr,Douglas,Sage,NULL,male,NULL,8,2,16371,3,2343,69.55,NULL,Southampton
+22811,False,Mr,Marin,Markoff,NULL,male,35.0,0,0,16878,3,349213,7.9,NULL,Cherbourg
+22812,False,Rev,John,Harper,NULL,male,28.0,0,1,16715,2,248727,33.0,NULL,Southampton
+22813,True,Mrs,Samuel,Goldenberg,Edwiga Grabowska,female,NULL,1,0,16607,1,17453,89.1,C92,Cherbourg
+22814,False,Master,Sigvard,Andersson,NULL,male,4.0,4,2,16236,3,347082,31.28,NULL,Southampton
+22815,False,Mr,Johan,Svensson,NULL,male,74.0,0,0,16879,3,347060,7.78,NULL,Southampton
+22816,False,Miss,Nourelain,Boulos,NULL,female,9.0,1,1,16353,3,2678,15.25,NULL,Cherbourg
+22817,True,Miss,Mary,Lines,NULL,female,16.0,0,1,16880,1,17592,39.4,D28,Southampton
+22818,False,Mrs,Ernest,Carter,Lilian Hughes,female,44.0,1,0,16446,2,244252,26.0,NULL,Southampton
+22819,True,Mrs,Sam,Aks,Leah Rosen,female,18.0,0,1,16881,3,392091,9.35,NULL,Southampton
+22820,True,Mrs,George,Wick,Mary Hitchcock,female,45.0,1,1,16506,1,36928,164.87,NULL,Southampton
+22821,True,Mr,Peter,Daly,NULL,male,51.0,0,0,16882,1,113055,26.55,E17,Southampton
+22822,True,Mrs,Solomon,Baclini,Latifa Qurban,female,24.0,0,3,16603,3,2666,19.26,NULL,Cherbourg
+22823,False,Mr,Raihed,Razi,NULL,male,NULL,0,0,16883,3,2629,7.23,NULL,Cherbourg
+22824,False,Mr,Claus,Hansen,NULL,male,41.0,2,0,16884,3,350026,14.11,NULL,Southampton
+22825,False,Mr,Frederick,Giles,NULL,male,21.0,1,0,16885,2,28134,11.5,NULL,Southampton
+22826,True,Mrs,Frederick,Swift,Margaret Welles Barron,female,48.0,0,0,16886,1,17466,25.93,D17,Southampton
+22827,False,Miss,Dorothy,Sage,NULL,female,NULL,8,2,16371,3,2343,69.55,NULL,Southampton
+22828,False,Mr,John,Gill,NULL,male,24.0,0,0,16887,2,233866,13.0,NULL,Southampton
+22829,True,Mrs,Karolina,Bystrom,Karolina,female,42.0,0,0,16888,2,236852,13.0,NULL,Southampton
+22830,True,Miss,Asuncion,Duran y More,NULL,female,27.0,1,0,16889,2,2149,13.86,NULL,Cherbourg
+22831,False,Mr,Washington,Roebling,NULL,male,31.0,0,0,16890,1,17590,50.5,A24,Southampton
+22832,False,Mr,Philemon,van Melkebeke,NULL,male,NULL,0,0,16891,3,345777,9.5,NULL,Southampton
+22833,True,Master,Harold,Johnson,NULL,male,4.0,1,1,16231,3,347742,11.13,NULL,Southampton
+22834,False,Mr,Cerin,Balkic,NULL,male,26.0,0,0,16892,3,349248,7.9,NULL,Southampton
+22835,True,Mrs,Richard,Beckwith,Sallie Monypeny,female,47.0,1,1,16445,1,11751,52.55,D35,Southampton
+22836,False,Mr,Frans,Carlsson,NULL,male,33.0,0,0,16893,1,695,5.0,B51 B53 B55,Southampton
+22837,False,Mr,Victor,Vander Cruyssen,NULL,male,47.0,0,0,16894,3,345765,9.0,NULL,Southampton
+22838,True,Mrs,Samuel,Abelson,Hannah Wizosky,female,28.0,1,0,16497,2,3381,24.0,NULL,Cherbourg
+22839,True,Miss,Adele,Najib,NULL,female,15.0,0,0,16895,3,2667,7.22,NULL,Cherbourg
+22840,False,Mr,Alfred,Gustafsson,NULL,male,20.0,0,0,16896,3,7534,9.85,NULL,Southampton
+22841,False,Mr,Nedelio,Petroff,NULL,male,19.0,0,0,16897,3,349212,7.9,NULL,Southampton
+22842,False,Mr,Kristo,Laleff,NULL,male,NULL,0,0,16898,3,349217,7.9,NULL,Southampton
+22843,True,Mrs,Thomas,Potter,Lily Alexenia Wilson,female,56.0,0,1,16499,1,11767,83.16,C50,Cherbourg
+22844,True,Mrs,William,Shelley,Imanita Parrish Hall,female,25.0,0,1,16455,2,230433,26.0,NULL,Southampton
+22845,False,Mr,Johann,Markun,NULL,male,33.0,0,0,16899,3,349257,7.9,NULL,Southampton
+22846,False,Miss,Gerda,Dahlberg,NULL,female,22.0,0,0,16900,3,7552,10.52,NULL,Southampton
+22847,False,Mr,Frederick,Banfield,NULL,male,28.0,0,0,16901,2,34068,10.5,NULL,Southampton
+22848,False,Mr,Henry,Sutehall,NULL,male,25.0,0,0,16902,3,392076,7.05,NULL,Southampton
+22849,False,Mrs,William,Rice,Margaret Norton,female,39.0,0,5,16239,3,382652,29.12,NULL,Queenstown
+22850,False,Rev,Juozas,Montvila,NULL,male,27.0,0,0,16903,2,211536,13.0,NULL,Southampton
+22851,True,Miss,Margaret,Graham,NULL,female,19.0,0,0,16904,1,112053,30.0,B42,Southampton
+22852,False,Miss,Catherine,Johnston,NULL,female,NULL,1,2,16838,3,6607,23.45,NULL,Southampton
+22853,True,Mr,Karl,Behr,NULL,male,26.0,0,0,16905,1,111369,30.0,C148,Cherbourg
+22854,False,Mr,Patrick,Dooley,NULL,male,32.0,0,0,16906,3,370376,7.75,NULL,Queenstown

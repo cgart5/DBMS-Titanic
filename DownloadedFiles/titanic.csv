@@ -1,0 +1,892 @@
+Survive|Class|Honorific|First Name|Last Name|Unmarried Name|Gender|Age|Siblings/Spouses On Board|Parents/Kids On Board|Ticket Number|Fare|Cabins|Embarked From
+False|3|Mr|Owen|Braund||male|22|1|0|521171|7.25||Southampton
+True|1|Mrs|John|Cumings|Florence Briggs Thayer|female|38|1|0|17599|71.28|C85|Cherbourg
+True|3|Miss|Laina|Heikkinen||female|26|0|0|23101282|7.92||Southampton
+True|1|Mrs|Jacques|Futrelle|Lily May Peel|female|35|1|0|113803|53.1|C123|Southampton
+False|3|Mr|William|Allen||male|35|0|0|373450|8.05||Southampton
+False|3|Mr|James|Moran||male||0|0|330877|8.46||Queenstown
+False|1|Mr|Timothy|McCarthy||male|54|0|0|17463|51.86|E46|Southampton
+False|3|Master|Gosta|Palsson||male|2|3|1|349909|21.08||Southampton
+True|3|Mrs|Oscar|Johnson|Elisabeth Vilhelmina Berg|female|27|0|2|347742|11.13||Southampton
+True|2|Mrs|Nicholas|Nasser|Adele Achem|female|14|1|0|237736|30.07||Cherbourg
+True|3|Miss|Marguerite|Sandstrom||female|4|1|1|9549|16.7|G6|Southampton
+True|1|Miss|Elizabeth|Bonnell||female|58|0|0|113783|26.55|C103|Southampton
+False|3|Mr|William|Saundercock||male|20|0|0|52151|8.05||Southampton
+False|3|Mr|Anders|Andersson||male|39|1|5|347082|31.28||Southampton
+False|3|Miss|Hulda|Vestrom||female|14|0|0|350406|7.85||Southampton
+True|2|Mrs|Mary|Hewlett|Mary D Kingcome|female|55|0|0|248706|16||Southampton
+False|3|Master|Eugene|Rice||male|2|4|1|382652|29.12||Queenstown
+True|2|Mr|Charles|Williams||male||0|0|244373|13||Southampton
+False|3|Mrs|Julius|Vander Planke|Emelia Maria Vandemoortele|female|31|1|0|345763|18||Southampton
+True|3|Mrs|Fatima|Masselmani||female||0|0|2649|7.22||Cherbourg
+False|2|Mr|Joseph|Fynney||male|35|0|0|239865|26||Southampton
+True|2|Mr|Lawrence|Beesley||male|34|0|0|248698|13|D56|Southampton
+True|3|Miss|Anna|McGowan||female|15|0|0|330923|8.03||Queenstown
+True|1|Mr|William|Sloper||male|28|0|0|113788|35.5|A6|Southampton
+False|3|Miss|Torborg|Palsson||female|8|3|1|349909|21.08||Southampton
+True|3|Mrs|Carl|Asplund|Selma Augusta Emilia Johansson|female|38|1|5|347077|31.39||Southampton
+False|3|Mr|Farred|Emir||male||0|0|2631|7.22||Cherbourg
+False|1|Mr|Charles|Fortune||male|19|3|2|19950|263|C23 C25 C27|Southampton
+True|3|Miss|Ellen|O'Dwyer||female||0|0|330959|7.88||Queenstown
+False|3|Mr|Lalio|Todoroff||male||0|0|349216|7.9||Southampton
+False|1|Don|Manuel|Uruchurtu||male|40|0|0|17601|27.72||Cherbourg
+True|1|Mrs|William|Spencer|Marie Eugenie|female||1|0|17569|146.52|B78|Cherbourg
+True|3|Miss|Mary|Glynn||female||0|0|335677|7.75||Queenstown
+False|2|Mr|Edward|Wheadon||male|66|0|0|24579|10.5||Southampton
+False|1|Mr|Edgar|Meyer||male|28|1|0|17604|82.17||Cherbourg
+False|1|Mr|Alexander|Holverson||male|42|1|0|113789|52||Southampton
+True|3|Mr|Hanna|Mamee||male||0|0|2677|7.23||Cherbourg
+False|3|Mr|Ernest|Cann||male|21|0|0|52152|8.05||Southampton
+False|3|Miss|Augusta|Vander Planke||female|18|2|0|345764|18||Southampton
+True|3|Miss|Jamila|Nicola-Yarred||female|14|1|0|2651|11.24||Cherbourg
+False|3|Mrs|Johan|Ahlin|Johanna Persdotter Larsson|female|40|1|0|7546|9.48||Southampton
+False|2|Mrs|William|Turpin|Dorothy Ann Wonnacott|female|27|1|0|11668|21||Southampton
+False|3|Mr|Theodor|Kraeff||male||0|0|349253|7.9||Cherbourg
+True|2|Miss|Simonne|Laroche||female|3|1|2|2123|41.58||Cherbourg
+True|3|Miss|Margaret|Devaney||female|19|0|0|330958|7.88||Queenstown
+False|3|Mr|William|Rogers||male||0|0|423567|8.05||Southampton
+False|3|Mr|Denis|Lennon||male||1|0|370371|15.5||Queenstown
+True|3|Miss|Bridget|O'Driscoll||female||0|0|14311|7.75||Queenstown
+False|3|Mr|Youssef|Samaan||male||2|0|2662|21.68||Cherbourg
+False|3|Mrs|Josef|Arnold-Franchi|Josefine Franchi|female|18|1|0|349237|17.8||Southampton
+False|3|Master|Juha|Panula||male|7|4|1|3101295|39.69||Southampton
+False|3|Mr|Richard|Nosworthy||male|21|0|0|439886|7.8||Southampton
+True|1|Mrs|Henry|Harper|Myna Haxtun|female|49|1|0|17572|76.73|D33|Cherbourg
+True|2|Mrs|Lizzie|Faunthorpe|Elizabeth Anne Wilkinson|female|29|1|0|2926|26||Southampton
+False|1|Mr|Engelhart|Ostby||male|65|0|1|113509|61.98|B30|Cherbourg
+True|1|Mr|Hugh|Woolner||male||0|0|19947|35.5|C52|Southampton
+True|2|Miss|Emily|Rugg||female|21|0|0|31026|10.5||Southampton
+False|3|Mr|Mansouer|Novel||male|28.5|0|0|2697|7.23||Cherbourg
+True|2|Miss|Constance|West||female|5|1|2|34651|27.75||Southampton
+False|3|Master|William|Goodwin||male|11|5|2|2144|46.9||Southampton
+False|3|Mr|Orsen|Sirayanian||male|22|0|0|2669|7.23||Cherbourg
+True|1|Miss|Amelie|Icard||female|38|0|0|113572|80|B28|
+False|1|Mr|Henry|Harris||male|45|1|0|36973|83.48|C83|Southampton
+False|3|Master|Harald|Skoog||male|4|3|2|347088|27.9||Southampton
+False|1|Mr|Albert|Stewart||male||0|0|17605|27.72||Cherbourg
+True|3|Master|Gerios|Moubarek||male||1|1|2661|15.25||Cherbourg
+True|2|Mrs|Elizabeth|Nye|Elizabeth Ramell|female|29|0|0|29395|10.5|F33|Southampton
+False|3|Mr|Ernest|Crease||male|19|0|0|3464|8.16||Southampton
+True|3|Miss|Erna|Andersson||female|17|4|2|3101281|7.92||Southampton
+False|3|Mr|Vincenz|Kink||male|26|2|0|315151|8.66||Southampton
+False|2|Mr|Stephen|Jenkin||male|32|0|0|33111|10.5||Southampton
+False|3|Miss|Lillian|Goodwin||female|16|5|2|2144|46.9||Southampton
+False|2|Mr|Ambrose|Hood||male|21|0|0|14879|73.5||Southampton
+False|3|Mr|Apostolos|Chronopoulos||male|26|1|0|2680|14.45||Cherbourg
+True|3|Mr|Lee|Bing||male|32|0|0|1601|56.5||Southampton
+False|3|Mr|Sigurd|Moen||male|25|0|0|348123|7.65|F G73|Southampton
+False|3|Mr|Ivan|Staneff||male||0|0|349208|7.9||Southampton
+False|3|Mr|Rahamin|Moutal||male||0|0|374746|8.05||Southampton
+True|2|Master|Alden|Caldwell||male|0.83|0|2|248738|29||Southampton
+True|3|Miss|Elizabeth|Dowdell||female|30|0|0|364516|12.48||Southampton
+False|3|Mr|Achille|Waelens||male|22|0|0|345767|9||Southampton
+True|3|Mr|Jan|Sheerlinck||male|29|0|0|345779|9.5||Southampton
+True|3|Miss|Brigdet|McDermott||female||0|0|330932|7.79||Queenstown
+False|1|Mr|Francisco|Carrau||male|28|0|0|113059|47.1||Southampton
+True|2|Miss|Bertha|Ilett||female|17|0|0|14885|10.5||Southampton
+True|3|Mrs|Karl|Backstrom|Maria Mathilda Gustafsson|female|33|3|0|3101278|15.85||Southampton
+False|3|Mr|William|Ford||male|16|1|3|6608|34.38||Southampton
+False|3|Mr|Selman|Slocovski||male||0|0|392086|8.05||Southampton
+True|1|Miss|Mabel|Fortune||female|23|3|2|19950|263|C23 C25 C27|Southampton
+False|3|Mr|Francesco|Celotti||male|24|0|0|343275|8.05||Southampton
+False|3|Mr|Emil|Christmann||male|29|0|0|343276|8.05||Southampton
+False|3|Mr|Paul|Andreasson||male|20|0|0|347466|7.85||Southampton
+False|1|Mr|Herbert|Chaffee||male|46|1|0|5734|61.18|E31|Southampton
+False|3|Mr|Bertram|Dean||male|26|1|2|2315|20.58||Southampton
+False|3|Mr|Daniel|Coxon||male|59|0|0|364500|7.25||Southampton
+False|3|Mr|Charles|Shorney||male||0|0|374910|8.05||Southampton
+False|1|Mr|George|Goldschmidt||male|71|0|0|17754|34.65|A5|Cherbourg
+True|1|Mr|William|Greenfield||male|23|0|1|17759|63.36|D10 D12|Cherbourg
+True|2|Mrs|John|Doling|Ada Julia Bone|female|34|0|1|231919|23||Southampton
+False|2|Mr|Sinai|Kantor||male|34|1|0|244367|26||Southampton
+False|3|Miss|Matilda|Petranec||female|28|0|0|349245|7.9||Southampton
+False|3|Mr|Pastcho|Petroff|Pentcho|male||0|0|349215|7.9||Southampton
+False|1|Mr|Richard|White||male|21|0|1|35281|77.29|D26|Southampton
+False|3|Mr|Gustaf|Johansson||male|33|0|0|7540|8.65||Southampton
+False|3|Mr|Anders|Gustafsson||male|37|2|0|3101276|7.92||Southampton
+False|3|Mr|Stoytcho|Mionoff||male|28|0|0|349207|7.9||Southampton
+True|3|Miss|Anna|Salkjelsvik||female|21|0|0|343120|7.65||Southampton
+True|3|Mr|Albert|Moss||male||0|0|312991|7.78||Southampton
+False|3|Mr|Tido|Rekic||male|38|0|0|349249|7.9||Southampton
+True|3|Miss|Bertha|Moran||female||1|0|371110|24.15||Queenstown
+False|1|Mr|Walter|Porter||male|47|0|0|110465|52|C110|Southampton
+False|3|Miss|Hileni|Zabour||female|14.5|1|0|2665|14.45||Cherbourg
+False|3|Mr|David|Barton||male|22|0|0|324669|8.05||Southampton
+False|3|Miss|Katriina|Jussila||female|20|1|0|4136|9.82||Southampton
+False|3|Miss|Malake|Attalah||female|17|0|0|2627|14.46||Cherbourg
+False|3|Mr|Edvard|Pekoniemi||male|21|0|0|23101294|7.92||Southampton
+False|3|Mr|Patrick|Connors||male|70.5|0|0|370369|7.75||Queenstown
+False|2|Mr|William|Turpin||male|29|1|0|11668|21||Southampton
+False|1|Mr|Quigg|Baxter||male|24|0|1|17558|247.52|B58 B60|Cherbourg
+False|3|Miss|Ellis|Andersson||female|2|4|2|347082|31.28||Southampton
+False|2|Mr|Stanley|Hickman||male|21|2|0|14879|73.5||Southampton
+False|3|Mr|Leonard|Moore||male||0|0|454510|8.05||Southampton
+False|2|Mr|Nicholas|Nasser||male|32.5|1|0|237736|30.07||Cherbourg
+True|2|Miss|Susan|Webber||female|32.5|0|0|27267|13|E101|Southampton
+False|1|Mr|Percival|White||male|54|0|1|35281|77.29|D26|Southampton
+True|3|Master|Elias|Nicola-Yarred||male|12|1|0|2651|11.24||Cherbourg
+False|3|Mr|Martin|McMahon||male||0|0|370372|7.75||Queenstown
+True|3|Mr|Fridtjof|Madsen||male|24|0|0|17369|7.14||Southampton
+True|3|Miss|Anna|Peter||female||1|1|2668|22.36|F E69|Cherbourg
+False|3|Mr|Johan|Ekstrom||male|45|0|0|347061|6.98||Southampton
+False|3|Mr|Jozef|Drazenoic||male|33|0|0|349241|7.9||Cherbourg
+False|3|Mr|Domingos|Coelho||male|20|0|0|3101307|7.05||Southampton
+False|3|Mrs|Alexander|Robins|Grace Charity Laury|female|47|1|0|53337|14.5||Southampton
+True|2|Mrs|Leopold|Weisz|Mathilde Francoise Pede|female|29|1|0|228414|26||Southampton
+False|2|Mr|Samuel|Sobey||male|25|0|0|29178|13||Southampton
+False|2|Mr|Emile|Richard||male|23|0|0|2133|15.05||Cherbourg
+True|1|Miss|Helen|Newsom||female|19|0|2|11752|26.28|D47|Southampton
+False|1|Mr|Jacques|Futrelle||male|37|1|0|113803|53.1|C123|Southampton
+False|3|Mr|Olaf|Osen||male|16|0|0|7534|9.22||Southampton
+False|1|Mr|Victor|Giglio||male|24|0|0|17593|79.2|B86|Cherbourg
+False|3|Mrs|Joseph|Boulos|Sultana|female||0|2|2678|15.25||Cherbourg
+True|3|Miss|Anna|Nysten||female|22|0|0|347081|7.75||Southampton
+True|3|Mrs|Pekka|Hakkarainen|Elin Matilda Dolck|female|24|1|0|23101279|15.85||Southampton
+False|3|Mr|Jeremiah|Burke||male|19|0|0|365222|6.75||Queenstown
+False|2|Mr|Edgardo|Andrew||male|18|0|0|231945|11.5||Southampton
+False|2|Mr|Joseph|Nicholls||male|19|1|1|33112|36.75||Southampton
+True|3|Mr|August|Andersson|Wennerstrom|male|27|0|0|350043|7.8||Southampton
+False|3|Miss|Robina|Ford||female|9|2|2|6608|34.38||Southampton
+False|2|Mr|Michel|Navratil|Louis M Hoffman|male|36.5|0|2|230080|26|F2|Southampton
+False|2|Rev|Thomas|Byles||male|42|0|0|244310|13||Southampton
+False|2|Rev|Robert|Bateman||male|51|0|0|1166|12.52||Southampton
+True|1|Mrs|Thomas|Pears|Edith Wearne|female|22|1|0|113776|66.6|C2|Southampton
+False|3|Mr|Alfonzo|Meo||male|55.5|0|0|511206|8.05||Southampton
+False|3|Mr|Austin|van Billiard||male|40.5|0|2|5851|14.5||Southampton
+False|3|Mr|Ole|Olsen||male||0|0|265302|7.31||Southampton
+False|1|Mr|Charles|Williams||male|51|0|1|17597|61.38||Cherbourg
+True|3|Miss|Katherine|Gilnagh||female|16|0|0|35851|7.73||Queenstown
+False|3|Mr|Harry|Corn||male|30|0|0|392090|8.05||Southampton
+False|3|Mr|Mile|Smiljanic||male||0|0|315037|8.66||Southampton
+False|3|Master|Thomas|Sage||male||8|2|2343|69.55||Southampton
+False|3|Mr|John|Cribb||male|44|0|1|371362|16.1||Southampton
+True|2|Mrs|James|Watt|Elizabeth Bessie Inglis Milne|female|40|0|0|33595|15.75||Southampton
+False|3|Mr|John|Bengtsson||male|26|0|0|347068|7.78||Southampton
+False|3|Mr|Jovo|Calic||male|17|0|0|315093|8.66||Southampton
+False|3|Master|Eino|Panula||male|1|4|1|3101295|39.69||Southampton
+True|3|Master|Frank|Goldsmith||male|9|0|2|363291|20.52||Southampton
+True|1|Mrs|Edith|Chibnall|Edith Martha Bowerman|female||0|1|113505|55|E33|Southampton
+False|3|Mrs|William|Skoog|Anna Bernhardina Karlsson|female|45|1|4|347088|27.9||Southampton
+False|1|Mr|John|Baumann||male||0|0|17318|25.92||Southampton
+False|3|Mr|Lee|Ling||male|28|0|0|1601|56.5||Southampton
+False|1|Mr|Wyckoff|Van der hoef||male|61|0|0|111240|33.5|B19|Southampton
+False|3|Master|Arthur|Rice||male|4|4|1|382652|29.12||Queenstown
+True|3|Miss|Eleanor|Johnson||female|1|1|1|347742|11.13||Southampton
+False|3|Mr|Antti|Sivola||male|21|0|0|23101280|7.92||Southampton
+False|1|Mr|James|Smith||male|56|0|0|17764|30.7|A7|Cherbourg
+False|3|Mr|Klas|Klasen||male|18|1|1|350404|7.85||Southampton
+False|3|Master|Henry|Lefebre||male||3|1|4133|25.47||Southampton
+False|1|Miss|Ann|Isham||female|50|0|0|17595|28.71|C49|Cherbourg
+False|2|Mr|Reginald|Hale||male|30|0|0|250653|13||Southampton
+False|3|Mr|Lionel|Leonard||male|36|0|0||0||Southampton
+False|3|Miss|Constance|Sage||female||8|2|2343|69.55||Southampton
+False|2|Mr|Rene|Pernot||male||0|0|2131|15.05||Cherbourg
+False|3|Master|Clarence|Asplund||male|9|4|2|347077|31.39||Southampton
+True|2|Master|Richard|Becker||male|1|2|1|230136|39|F4|Southampton
+True|3|Miss|Luise|Kink-Heilmann||female|4|0|2|315153|22.02||Southampton
+False|1|Mr|Hugh|Rood||male||0|0|113767|50|A32|Southampton
+True|3|Mrs|Thomas|O'Brien|Johanna Hannah Godfrey|female||1|0|370365|15.5||Queenstown
+True|1|Mr|Charles|Romaine|Mr C Rolmane|male|45|0|0|111428|26.55||Southampton
+False|3|Mr|John|Bourke||male|40|1|1|364849|15.5||Queenstown
+False|3|Mr|Stjepan|Turcin||male|36|0|0|349247|7.9||Southampton
+True|2|Mrs|Rosa|Pinsky|Rosa|female|32|0|0|234604|13||Southampton
+False|2|Mr|William|Carbines||male|19|0|0|28424|13||Southampton
+True|3|Miss|Carla|Andersen-Jensen||female|19|1|0|350046|7.85||Southampton
+True|2|Master|Michel|Navratil||male|3|1|1|230080|26|F2|Southampton
+True|1|Mrs|James|Brown|Margaret Tobin|female|44|0|0|17610|27.72|B4|Cherbourg
+True|1|Miss|Elise|Lurette||female|58|0|0|17569|146.52|B80|Cherbourg
+False|3|Mr|Robert|Mernagh||male||0|0|368703|7.75||Queenstown
+False|3|Mr|Karl|Olsen||male|42|0|1|4579|8.4||Southampton
+True|3|Miss|Margaret|Madigan||female||0|0|370370|7.75||Queenstown
+False|2|Miss|Henriette|Yrois|Mrs Harbeck|female|24|0|0|248747|13||Southampton
+False|3|Mr|Nestor|Vande Walle||male|28|0|0|345770|9.5||Southampton
+False|3|Mr|Frederick|Sage||male||8|2|2343|69.55||Southampton
+False|3|Mr|Jakob|Johanson||male|34|0|0|3101264|6.5||Southampton
+False|3|Mr|Gerious|Youseff||male|45.5|0|0|2628|7.22||Cherbourg
+True|3|Mr|Gurshon|Cohen||male|18|0|0|53540|8.05||Southampton
+False|3|Miss|Telma|Strom||female|2|0|1|347054|10.46|G6|Southampton
+False|3|Mr|Karl|Backstrom||male|32|1|0|3101278|15.85||Southampton
+True|3|Mr|Nassef|Albimona||male|26|0|0|2699|18.79||Cherbourg
+True|3|Miss|Helen|Carr||female|16|0|0|367231|7.75||Queenstown
+True|1|Mr|Henry|Blank||male|40|0|0|112277|31|A31|Cherbourg
+False|3|Mr|Ahmed|Ali||male|24|0|0|3101311|7.05||Southampton
+True|2|Miss|Clear|Cameron||female|35|0|0|13528|21||Southampton
+False|3|Mr|John|Perkin||male|22|0|0|521174|7.25||Southampton
+False|2|Mr|Hans|Givard||male|30|0|0|250646|13||Southampton
+False|3|Mr|Philip|Kiernan||male||1|0|367229|7.75||Queenstown
+True|1|Miss|Madeleine|Newell||female|31|1|0|35273|113.28|D36|Cherbourg
+True|3|Miss|Eliina|Honkanen||female|27|0|0|23101283|7.92||Southampton
+False|2|Mr|Sidney|Jacobsohn||male|42|1|0|243847|27||Southampton
+True|1|Miss|Albina|Bazzani||female|32|0|0|11813|76.29|D15|Cherbourg
+False|2|Mr|Walter|Harris||male|30|0|0|14208|10.5||Southampton
+True|3|Mr|Victor|Sunderland||male|16|0|0|392089|8.05||Southampton
+False|2|Mr|James|Bracken||male|27|0|0|220367|13||Southampton
+False|3|Mr|George|Green||male|51|0|0|21440|8.05||Southampton
+False|3|Mr|Christo|Nenkoff||male||0|0|349234|7.9||Southampton
+True|1|Mr|Frederick|Hoyt||male|38|1|0|19943|90|C93|Southampton
+False|3|Mr|Karl|Berglund||male|22|0|0|4348|9.35||Southampton
+True|2|Mr|William|Mellors||male|19|0|0|751|10.5||Southampton
+False|3|Mr|John|Lovell|Henry|male|20.5|0|0|521173|7.25||Southampton
+False|2|Mr|Arne|Fahlstrom||male|18|0|0|236171|13||Southampton
+False|3|Miss|Mathilde|Lefebre||female||3|1|4133|25.47||Southampton
+True|1|Mrs|Henry|Harris|Irene Wallach|female|35|1|0|36973|83.48|C83|Southampton
+False|3|Mr|Bengt|Larsson||male|29|0|0|347067|7.78||Southampton
+False|2|Mr|Ernst|Sjostedt||male|59|0|0|237442|13.5||Southampton
+True|3|Miss|Lillian|Asplund||female|5|4|2|347077|31.39||Southampton
+False|2|Mr|Robert|Leyson||male|24|0|0|29566|10.5||Southampton
+False|3|Miss|Alice|Harknett||female||0|0|6609|7.55||Southampton
+False|2|Mr|Stephen|Hold||male|44|1|0|26707|26||Southampton
+True|2|Miss|Marjorie|Collyer||female|8|0|2|31921|26.25||Southampton
+False|2|Mr|Frederick|Pengelly||male|19|0|0|28665|10.5||Southampton
+False|2|Mr|George|Hunt||male|33|0|0|1585|12.28||Southampton
+False|3|Miss|Thamine|Zabour||female||1|0|2665|14.45||Cherbourg
+True|3|Miss|Katherine|Murphy||female||1|0|367230|15.5||Queenstown
+False|2|Mr|Reginald|Coleridge||male|29|0|0|14263|10.5||Southampton
+False|3|Mr|Matti|Maenpaa||male|22|0|0|23101275|7.12||Southampton
+False|3|Mr|Sleiman|Attalah||male|30|0|0|2694|7.22||Cherbourg
+False|1|Dr|William|Minahan||male|44|2|0|19928|90|C78|Queenstown
+False|3|Miss|Agda|Lindahl||female|25|0|0|347071|7.78||Southampton
+True|2|Mrs|William|Hamalainen|Anna|female|24|0|2|250649|14.5||Southampton
+True|1|Mr|Richard|Beckwith||male|37|1|1|11751|52.55|D35|Southampton
+False|2|Rev|Ernest|Carter||male|54|1|0|244252|26||Southampton
+False|3|Mr|James|Reed||male||0|0|362316|7.25||Southampton
+False|3|Mrs|Wilhelm|Strom|Elna Matilda Persson|female|29|1|1|347054|10.46|G6|Southampton
+False|1|Mr|William|Stead||male|62|0|0|113514|26.55|C87|Southampton
+False|3|Mr|William|Lobb||male|30|1|0|53336|16.1||Southampton
+False|3|Mrs|Viktor|Rosblom|Helena Wilhelmina|female|41|0|2|370129|20.21||Southampton
+True|3|Mrs|Darwis|Touma|Hanne Youssef Razi|female|29|0|2|2650|15.25||Cherbourg
+True|1|Mrs|Gertrude|Thorne||female||0|0|17585|79.2||Cherbourg
+True|1|Miss|Gladys|Cherry||female|30|0|0|110152|86.5|B77|Southampton
+True|1|Miss|Anna|Ward||female|35|0|0|17755|512.33||Cherbourg
+True|2|Mrs|Lutie|Parrish|Lutie Davis|female|50|0|1|230433|26||Southampton
+False|3|Mr|Thomas|Smith||male||0|0|384461|7.75||Queenstown
+True|3|Master|Edvin|Asplund||male|3|4|2|347077|31.39||Southampton
+False|1|Mr|Emil|Taussig||male|52|1|1|110413|79.65|E67|Southampton
+False|1|Mr|William|Harrison||male|40|0|0|112059|0|B94|Southampton
+False|3|Miss|Delia|Henry||female||0|0|382649|7.75||Queenstown
+False|2|Mr|David|Reeves||male|36|0|0|17248|10.5||Southampton
+False|3|Mr|Ernesti|Panula||male|16|4|1|3101295|39.69||Southampton
+True|3|Mr|Ernst|Persson||male|25|1|0|347083|7.78||Southampton
+True|1|Mrs|William|Graham|Edith Junkins|female|58|0|1|17582|153.46|C125|Southampton
+True|1|Miss|Amelia|Bissette||female|35|0|0|17760|135.63|C99|Southampton
+False|1|Mr|Alexander|Cairns||male||0|0|113798|31||Southampton
+True|3|Mr|William|Tornquist||male|25|0|0||0||Southampton
+True|2|Mrs|Elizabeth|Mellinger|Elizabeth Anne Maidment|female|41|0|1|250644|19.5||Southampton
+False|1|Mr|Charles|Natsch||male|37|0|1|17596|29.7|C118|Cherbourg
+True|3|Miss|Hanora|Healy||female||0|0|370375|7.75||Queenstown
+True|1|Miss|Kornelia|Andrews||female|63|1|0|13502|77.96|D7|Southampton
+False|3|Miss|Augusta|Lindblom||female|45|0|0|347073|7.75||Southampton
+False|2|Mr|Francis|Parkes||male||0|0|239853|0||Southampton
+False|3|Master|Eric|Rice||male|7|4|1|382652|29.12||Queenstown
+True|3|Mrs|Stanton|Abbott|Rosa Hunt|female|35|1|1|2673|20.25||Southampton
+False|3|Mr|Frank|Duane||male|65|0|0|336439|7.75||Queenstown
+False|3|Mr|Nils|Olsson||male|28|0|0|347464|7.85||Southampton
+False|3|Mr|Alfons|de Pelsmaeker||male|16|0|0|345778|9.5||Southampton
+True|3|Mr|Edward|Dorking||male|19|0|0|510482|8.05||Southampton
+False|1|Mr|Richard|Smith||male||0|0|113056|26|A19|Southampton
+False|3|Mr|Ivan|Stankovic||male|33|0|0|349239|8.66||Cherbourg
+True|3|Mr|Theodore|de Mulder||male|30|0|0|345774|9.5||Southampton
+False|3|Mr|Penko|Naidenoff||male|22|0|0|349206|7.9||Southampton
+True|2|Mr|Masabumi|Hosono||male|42|0|0|237798|13||Southampton
+True|3|Miss|Kate|Connolly||female|22|0|0|370373|7.75||Queenstown
+True|1|Miss|Ellen|Barber||female|26|0|0|19877|78.85||Southampton
+True|1|Mrs|Dickinson|Bishop|Helen Walton|female|19|1|0|11967|91.08|B49|Cherbourg
+False|2|Mr|Rene|Levy||male|36|0|0|2163|12.88|D|Cherbourg
+False|3|Miss|Aloisia|Haas||female|24|0|0|349236|8.85||Southampton
+False|3|Mr|Ivan|Mineff||male|24|0|0|349233|7.9||Southampton
+False|1|Mr|Ervin|Lewy||male||0|0|17612|27.72||Cherbourg
+False|3|Mr|Mansour|Hanna||male|23.5|0|0|2693|7.23||Cherbourg
+False|1|Miss|Helen|Allison||female|2|1|2|113781|151.55|C22 C26|Southampton
+True|1|Mr|Adolphe|Saalfeld||male||0|0|19988|30.5|C106|Southampton
+True|1|Mrs|James|Baxter|Helene DeLaudeniere Chaput|female|50|0|1|17558|247.52|B58 B60|Cherbourg
+True|3|Miss|Anna|Kelly||female||0|0|9234|7.75||Queenstown
+True|3|Mr|Bernard|McCoy||male||2|0|367226|23.25||Queenstown
+False|3|Mr|William|Johnson||male|19|0|0||0||Southampton
+True|2|Miss|Nora|Keane||female||0|0|226593|12.35|E101|Queenstown
+False|3|Mr|Howard|Williams||male||0|0|52466|8.05||Southampton
+True|1|Master|Hudson|Allison||male|0.92|1|2|113781|151.55|C22 C26|Southampton
+True|1|Miss|Margaret|Fleming||female||0|0|17421|110.88||Cherbourg
+True|1|Mrs|Victor|Penasco y Castellana|Maria Josefa Perez de Soto y Vallejo|female|17|1|0|17758|108.9|C65|Cherbourg
+False|2|Mr|Samuel|Abelson||male|30|1|0|3381|24||Cherbourg
+True|1|Miss|Laura|Francatelli||female|30|0|0|17485|56.93|E36|Cherbourg
+True|1|Miss|Margaret|Hays||female|24|0|0|11767|83.16|C54|Cherbourg
+True|1|Miss|Emily|Ryerson||female|18|2|2|17608|262.38|B57 B59 B63 B66|Cherbourg
+False|2|Mrs|William|Lahtinen|Anna Sylfven|female|26|1|1|250651|26||Southampton
+False|3|Mr|Ignjac|Hendekovic||male|28|0|0|349243|7.9||Southampton
+False|2|Mr|Benjamin|Hart||male|43|1|1|13529|26.25||Southampton
+True|3|Miss|Helmina|Nilsson||female|26|0|0|347470|7.85||Southampton
+True|2|Mrs|Sinai|Kantor|Miriam Sternin|female|24|1|0|244367|26||Southampton
+False|2|Dr|Ernest|Moraweck||male|54|0|0|29011|14||Southampton
+True|1|Miss|Mary|Wick||female|31|0|2|36928|164.87|C7|Southampton
+True|1|Mrs|Frederic|Spedden|Margaretta Corning Stone|female|40|1|1|16966|134.5|E34|Cherbourg
+False|3|Mr|Samuel|Dennis||male|22|0|0|521172|7.25||Southampton
+False|3|Mr|Yoto|Danoff||male|27|0|0|349219|7.9||Southampton
+True|2|Miss|Hilda|Slayter||female|30|0|0|234818|12.35||Queenstown
+True|2|Mrs|Albert|Caldwell|Sylvia Mae Harbaugh|female|22|1|1|248738|29||Southampton
+False|3|Mr|George|Sage||male||8|2|2343|69.55||Southampton
+True|1|Miss|Marie|Young||female|36|0|0|17760|135.63|C32|Cherbourg
+False|3|Mr|Johan|Nysveen||male|61|0|0|345364|6.24||Southampton
+True|2|Mrs|Ada|Ball|Ada E Hall|female|36|0|0|28551|13|D|Southampton
+True|3|Mrs|Frank|Goldsmith|Emily Alice Brown|female|31|1|1|363291|20.52||Southampton
+True|1|Miss|Jean|Hippach||female|16|0|1|111361|57.98|B18|Cherbourg
+True|3|Miss|Agnes|McCoy||female||2|0|367226|23.25||Queenstown
+False|1|Mr|Austen|Partner||male|45.5|0|0|113043|28.5|C124|Southampton
+False|1|Mr|George|Graham||male|38|0|1|17582|153.46|C91|Southampton
+False|3|Mr|Leo|Vander Planke||male|16|2|0|345764|18||Southampton
+True|1|Mrs|Henry|Frauenthal|Clara Heinsheimer|female||1|0|17611|133.65||Southampton
+False|3|Mr|Mitto|Denkoff||male||0|0|349225|7.9||Southampton
+False|1|Mr|Thomas|Pears||male|29|1|0|113776|66.6|C2|Southampton
+True|1|Miss|Elizabeth|Burns||female|41|0|0|16966|134.5|E40|Cherbourg
+True|3|Mr|Karl|Dahl||male|45|0|0|7598|8.05||Southampton
+False|1|Mr|Stephen|Blackwell||male|45|0|0|113784|35.5|T|Southampton
+True|2|Master|Edmond|Navratil||male|2|1|1|230080|26|F2|Southampton
+True|1|Miss|Alice|Fortune||female|24|3|2|19950|263|C23 C25 C27|Southampton
+False|2|Mr|Erik|Collander||male|28|0|0|248740|13||Southampton
+False|2|Mr|Charles|Sedgwick||male|25|0|0|244361|13||Southampton
+False|2|Mr|Stanley|Fox||male|36|0|0|229236|13||Southampton
+True|2|Miss|Amelia|Brown||female|24|0|0|248733|13|F33|Southampton
+True|2|Miss|Marion|Smith||female|40|0|0|31418|13||Southampton
+True|3|Mrs|Thomas|Davison|Mary E Finck|female||1|0|386525|16.1||Southampton
+True|3|Master|William|Coutts||male|3|1|1|37671|15.9||Southampton
+False|3|Mr|Jovan|Dimic||male|42|0|0|315088|8.66||Southampton
+False|3|Mr|Nils|Odahl||male|23|0|0|7267|9.22||Southampton
+False|1|Mr|Fletcher|Williams-Lambert||male||0|0|113510|35|C128|Southampton
+False|3|Mr|Tannous|Elias||male|15|1|1|2695|7.23||Cherbourg
+False|3|Mr|Josef|Arnold-Franchi||male|25|1|0|349237|17.8||Southampton
+False|3|Mr|Wazli|Yousif||male||0|0|2647|7.22||Cherbourg
+False|3|Mr|Leo|Vanden Steen||male|28|0|0|345783|9.5||Southampton
+True|1|Miss|Elsie|Bowerman||female|22|0|1|113505|55|E33|Southampton
+False|2|Miss|Annie|Funk||female|38|0|0|237671|13||Southampton
+True|3|Miss|Mary|McGovern||female||0|0|330931|7.88||Queenstown
+True|3|Miss|Helen|Mockler||female||0|0|330980|7.88||Queenstown
+False|3|Mr|Wilhelm|Skoog||male|40|1|4|347088|27.9||Southampton
+False|2|Mr|Sebastiano|del Carlo||male|29|1|0|2167|27.72||Cherbourg
+False|3|Mrs|Catherine|Barbara|Catherine David|female|45|0|1|2691|14.45||Cherbourg
+False|3|Mr|Adola|Asim||male|35|0|0|3101310|7.05||Southampton
+False|3|Mr|Thomas|O'Brien||male||1|0|370365|15.5||Queenstown
+False|3|Mr|Mauritz|Adahl||male|30|0|0|7076|7.25||Southampton
+True|1|Mrs|Frank|Warren|Anna Sophia Atkinson|female|60|1|0|110813|75.25|D37|Cherbourg
+True|3|Mrs|Mantoura|Moussa|Mantoura Boulos|female||0|0|2626|7.23||Cherbourg
+True|3|Miss|Annie|Jermyn||female||0|0|14313|7.75||Queenstown
+True|1|Mme|Leontine|Aubart||female|24|0|0|17477|69.3|B35|Cherbourg
+True|1|Mr|George|Harder||male|25|1|0|11765|55.44|E50|Cherbourg
+False|3|Mr|Jakob|Wiklund||male|18|1|0|3101267|6.5||Southampton
+False|3|Mr|William|Beavan||male|19|0|0|323951|8.05||Southampton
+False|1|Mr|Sante|Ringhini||male|22|0|0|17760|135.63||Cherbourg
+False|3|Miss|Stina|Palsson||female|3|3|1|349909|21.08||Southampton
+True|1|Mrs|Edgar|Meyer|Leila Saks|female||1|0|17604|82.17||Cherbourg
+True|3|Miss|Aurora|Landergren||female|22|0|0|7077|7.25||Southampton
+False|1|Mr|Harry|Widener||male|27|0|2|113503|211.5|C82|Cherbourg
+False|3|Mr|Tannous|Betros||male|20|0|0|2648|4.01||Cherbourg
+False|3|Mr|Karl|Gustafsson||male|19|0|0|347069|7.78||Southampton
+True|1|Miss|Rosalie|Bidois||female|42|0|0|17757|227.52||Cherbourg
+True|3|Miss|Maria|Nakid|Mary|female|1|0|2|2653|15.74||Cherbourg
+False|3|Mr|Juho|Tikkanen||male|32|0|0|23101293|7.92||Southampton
+True|1|Mrs|Alexander|Holverson|Mary Aline Towner|female|35|1|0|113789|52||Southampton
+False|3|Mr|Vasil|Plotcharsky||male||0|0|349227|7.9||Southampton
+False|2|Mr|Charles|Davies||male|18|0|0|14879|73.5||Southampton
+False|3|Master|Sidney|Goodwin||male|1|5|2|2144|46.9||Southampton
+True|2|Miss|Kate|Buss||female|36|0|0|27849|13||Southampton
+False|3|Mr|Matthew|Sadlier||male||0|0|367655|7.73||Queenstown
+True|2|Miss|Bertha|Lehmann||female|17|0|0|1748|12||Cherbourg
+True|1|Mr|William|Carter||male|36|1|2|113760|120|B96 B98|Southampton
+True|3|Mr|Carl|Jansson||male|21|0|0|350034|7.8||Southampton
+False|3|Mr|Johan|Gustafsson||male|28|2|0|3101277|7.92||Southampton
+True|1|Miss|Marjorie|Newell||female|23|1|0|35273|113.28|D36|Cherbourg
+True|3|Mrs|Hjalmar|Sandstrom|Agnes Charlotta Bengtsson|female|24|0|2|9549|16.7|G6|Southampton
+False|3|Mr|Erik|Johansson||male|22|0|0|350052|7.8||Southampton
+False|3|Miss|Elina|Olsson||female|31|0|0|350407|7.85||Southampton
+False|2|Mr|Peter|McKane||male|46|0|0|28403|26||Southampton
+False|2|Dr|Alfred|Pain||male|23|0|0|244278|10.5||Southampton
+True|2|Mrs|William|Trout|Jessie L|female|28|0|0|240929|12.65||Southampton
+True|3|Mr|Juha|Niskanen||male|39|0|0|23101289|7.92||Southampton
+False|3|Mr|John|Adams||male|26|0|0|341826|8.05||Southampton
+False|3|Miss|Mari|Jussila||female|21|1|0|4137|9.82||Southampton
+False|3|Mr|Pekka|Hakkarainen||male|28|1|0|23101279|15.85||Southampton
+False|3|Miss|Marija|Oreskovic||female|20|0|0|315096|8.66||Southampton
+False|2|Mr|Shadrach|Gale||male|34|1|0|28664|21||Southampton
+False|3|Mr|Carl/Charles|Widegren||male|51|0|0|347064|7.75||Southampton
+True|2|Master|William|Richards||male|3|1|1|29106|18.75||Southampton
+False|3|Mr|Hans|Birkeland||male|21|0|0|312992|7.78||Southampton
+False|3|Miss|Ida|Lefebre||female||3|1|4133|25.47||Southampton
+False|3|Mr|Todor|Sdycoff||male||0|0|349222|7.9||Southampton
+False|3|Mr|Henry|Hart||male||0|0|394140|6.86||Queenstown
+True|1|Miss|Daisy|Minahan||female|33|1|0|19928|90|C78|Queenstown
+False|2|Mr|Alfred|Cunningham||male||0|0|239853|0||Southampton
+True|3|Mr|Johan|Sundman||male|44|0|0|23101269|7.92||Southampton
+False|3|Mrs|Thomas|Meek|Annie Louise Rowley|female||0|0|343095|8.05||Southampton
+True|2|Mrs|James|Drew|Lulu Thorne Christian|female|34|1|1|28220|32.5||Southampton
+True|2|Miss|Lyyli|Silven||female|18|0|2|250652|13||Southampton
+False|2|Mr|William|Matthews||male|30|0|0|28228|13||Southampton
+False|3|Miss|Catharina|Van Impe||female|10|0|2|345773|24.15||Southampton
+False|3|Mr|Stanio|Gheorgheff||male||0|0|349254|7.9||Cherbourg
+False|3|Mr|David|Charters||male|21|0|0|513032|7.73||Queenstown
+False|3|Mr|Leo|Zimmerman||male|29|0|0|315082|7.88||Southampton
+False|3|Mrs|Ernst|Danbom|Anna Sigrid Maria Brogren|female|28|1|1|347080|14.4||Southampton
+False|3|Mr|Viktor|Rosblom||male|18|1|1|370129|20.21||Southampton
+False|3|Mr|Phillippe|Wiseman||male||0|0|434244|7.25||Southampton
+True|2|Mrs|Charles|Clarke|Ada Maria Winfield|female|28|1|0|2003|26||Southampton
+True|2|Miss|Kate|Phillips|Mrs Kate Louise Phillips Marshall|female|19|0|0|250655|26||Southampton
+False|3|Mr|James|Flynn||male||0|0|364851|7.75||Queenstown
+True|3|Mr|Berk|Pickard|Berk Trembisky|male|32|0|0|392078|8.05|E10|Southampton
+True|1|Mr|Mauritz|Bjornstrom-Steffansson||male|28|0|0|110564|26.55|C52|Southampton
+True|3|Mrs|Percival|Thorneycroft|Florence Kate White|female||1|0|376564|16.1||Southampton
+True|2|Mrs|Charles|Louch|Alice Adelaide Slow|female|42|1|0|3085|26||Southampton
+False|3|Mr|Nikolai|Kallio||male|17|0|0|23101274|7.12||Southampton
+False|1|Mr|William|Silvey||male|50|1|0|13507|55.9|E44|Southampton
+True|1|Miss|Lucile|Carter||female|14|1|2|113760|120|B96 B98|Southampton
+False|3|Miss|Doolina|Ford||female|21|2|2|6608|34.38||Southampton
+True|2|Mrs|Sidney|Richards|Emily Hocking|female|24|2|3|29106|18.75||Southampton
+False|1|Mr|Mark|Fortune||male|64|1|4|19950|263|C23 C25 C27|Southampton
+False|2|Mr|Johan|Kvillner||male|31|0|0|18723|10.5||Southampton
+True|2|Mrs|Benjamin|Hart|Esther Ada Bloomfield|female|45|1|1|13529|26.25||Southampton
+False|3|Mr|Leon|Hampe||male|20|0|0|345769|9.5||Southampton
+False|3|Mr|Johan|Petterson||male|25|1|0|347076|7.78||Southampton
+True|2|Ms|Encarnacion|Reynaldo||female|28|0|0|230434|13||Southampton
+True|3|Mr|Bernt|Johannesen-Bratthammer||male||0|0|65306|8.11||Southampton
+True|1|Master|Washington|Dodge||male|4|0|2|33638|81.86|A34|Southampton
+True|2|Miss|Madeleine|Mellinger||female|13|0|1|250644|19.5||Southampton
+True|1|Mr|Frederic|Seward||male|34|0|0|113794|26.55||Southampton
+True|3|Miss|Marie|Baclini||female|5|2|1|2666|19.26||Cherbourg
+True|1|Major|Arthur|Peuchen||male|52|0|0|113786|30.5|C104|Southampton
+False|2|Mr|Edwy|West||male|36|1|2|34651|27.75||Southampton
+False|3|Mr|Ingvald|Hagland||male||1|0|65303|19.97||Southampton
+False|1|Mr|Benjamin|Foreman||male|30|0|0|113051|27.75|C111|Cherbourg
+True|1|Mr|Samuel|Goldenberg||male|49|1|0|17453|89.1|C92|Cherbourg
+False|3|Mr|Joseph|Peduzzi||male||0|0|52817|8.05||Southampton
+True|3|Mr|Ivan|Jalsevac||male|29|0|0|349240|7.9||Cherbourg
+False|1|Mr|Francis|Millet||male|65|0|0|13509|26.55|E38|Southampton
+True|1|Mrs|Frederick|Kenyon|Marion|female||1|0|17464|51.86|D21|Southampton
+True|2|Miss|Ellen|Toomey||female|50|0|0|13531|10.5||Southampton
+False|3|Mr|Maurice|O'Connor||male||0|0|371060|7.75||Queenstown
+True|1|Mr|Harry|Anderson||male|48|0|0|19952|26.55|E12|Southampton
+False|3|Mr|William|Morley||male|34|0|0|364506|8.05||Southampton
+False|1|Mr|Arthur|Gee||male|47|0|0|111320|38.5|E63|Southampton
+False|2|Mr|Jacob|Milling||male|48|0|0|234360|13||Southampton
+False|3|Mr|Simon|Maisner||male||0|0|2816|8.05||Southampton
+False|3|Mr|Manuel|Goncalves||male|38|0|0|3101306|7.05||Southampton
+False|2|Mr|William|Campbell||male||0|0|239853|0||Southampton
+False|1|Mr|John|Smart||male|56|0|0|113792|26.55||Southampton
+False|3|Mr|James|Scanlan||male||0|0|36209|7.72||Queenstown
+True|3|Miss|Helene|Baclini||female|0.75|2|1|2666|19.26||Cherbourg
+False|3|Mr|Arthur|Keefe||male||0|0|323592|7.25||Southampton
+False|3|Mr|Luka|Cacic||male|38|0|0|315089|8.66||Southampton
+True|2|Mrs|Edwy|West|Ada Mary Worth|female|33|1|2|34651|27.75||Southampton
+True|2|Mrs|Amin|Jerwan|Marie Marthe Thuillard|female|23|0|0|541|13.79|D|Cherbourg
+False|3|Miss|Ida|Strandberg||female|22|0|0|7553|9.84||Southampton
+False|1|Mr|George|Clifford||male||0|0|110465|52|A14|Southampton
+False|2|Mr|Peter|Renouf||male|34|1|0|31027|21||Southampton
+False|3|Mr|Lewis|Braund||male|29|1|0|3460|7.05||Southampton
+False|3|Mr|Nils|Karlsson||male|22|0|0|350060|7.52||Southampton
+True|3|Miss|Hildur|Hirvonen||female|2|0|1|3101298|12.29||Southampton
+False|3|Master|Harold|Goodwin||male|9|5|2|2144|46.9||Southampton
+False|2|Mr|Anthony|Frost||male||0|0|239854|0||Southampton
+False|3|Mr|Richard|Rouse||male|50|0|0|53594|8.05||Southampton
+True|3|Mrs|Hedwig|Turkula|Hedwig|female|63|0|0|4134|9.59||Southampton
+True|1|Mr|Dickinson|Bishop||male|25|1|0|11967|91.08|B49|Cherbourg
+False|3|Miss|Jeannie|Lefebre||female||3|1|4133|25.47||Southampton
+True|1|Mrs|Frederick|Hoyt|Jane Anne Forby|female|35|1|0|19943|90|C93|Southampton
+False|1|Mr|Edward|Kent||male|58|0|0|11771|29.7|B37|Cherbourg
+False|3|Mr|Francis|Somerton||male|30|0|0|518509|8.05||Southampton
+True|3|Master|Eden|Coutts||male|9|1|1|37671|15.9||Southampton
+False|3|Mr|Konrad|Hagland||male||1|0|65304|19.97||Southampton
+False|3|Mr|Einar|Windelov||male|21|0|0|3101317|7.25||Southampton
+False|1|Mr|Harry|Molson||male|55|0|0|113787|30.5|C30|Southampton
+False|1|Mr|Ramon|Artagaveytia||male|71|0|0|17609|49.5||Cherbourg
+False|3|Mr|Edward|Stanley||male|21|0|0|445380|8.05||Southampton
+False|3|Mr|Gerious|Yousseff||male||0|0|2627|14.46||Cherbourg
+True|1|Miss|Elizabeth|Eustis||female|54|1|0|36947|78.27|D20|Cherbourg
+False|3|Mr|Frederick|Shellard||male||0|0|6212|15.1||Southampton
+False|1|Mrs|Hudson|Allison|Bessie Waldo Daniels|female|25|1|2|113781|151.55|C22 C26|Southampton
+False|3|Mr|Olof|Svensson||male|24|0|0|350035|7.8||Southampton
+False|3|Mr|Petar|Calic||male|17|0|0|315086|8.66||Southampton
+False|3|Miss|Mary|Canavan||female|21|0|0|364846|7.75||Queenstown
+False|3|Miss|Bridget|O'Sullivan||female||0|0|330909|7.63||Queenstown
+False|3|Miss|Kristina|Laitinen||female|37|0|0|4135|9.59||Southampton
+True|1|Miss|Roberta|Maioni||female|16|0|0|110152|86.5|B79|Southampton
+False|1|Mr|Victor|Penasco y Castellana||male|18|1|0|17758|108.9|C65|Cherbourg
+True|2|Mrs|Frederick|Quick|Jane Richards|female|33|0|2|26360|26||Southampton
+True|1|Mr|George|Bradley|George Arthur Brayton|male||0|0|111427|26.55||Southampton
+False|3|Mr|Henry|Olsen||male|28|0|0|4001|22.52||Southampton
+True|3|Mr|Fang|Lang||male|26|0|0|1601|56.5||Southampton
+True|3|Mr|Eugene|Daly||male|29|0|0|382651|7.75||Queenstown
+False|3|Mr|James|Webber||male||0|0|3101316|8.05||Southampton
+True|1|Mr|James|McGough||male|36|0|0|17473|26.29|E25|Southampton
+True|1|Mrs|Martin|Rothschild|Elizabeth L. Barrett|female|54|1|0|17603|59.4||Cherbourg
+False|3|Mr|Satio|Coleff||male|24|0|0|349209|7.5||Southampton
+False|1|Mr|William|Walker||male|47|0|0|36967|34.02|D46|Southampton
+True|2|Mrs|Amelia|Lemore|Amelia Milley|female|34|0|0|34260|10.5|F33|Southampton
+False|3|Mr|Patrick|Ryan||male||0|0|371110|24.15||Queenstown
+True|2|Mrs|William|Angle|Florence Mary Agnes Hughes|female|36|1|0|226875|26||Southampton
+False|3|Mr|Stefo|Pavlovic||male|32|0|0|349242|7.9||Southampton
+True|1|Miss|Anne|Perreault||female|30|0|0|12749|93.5|B73|Southampton
+False|3|Mr|Janko|Vovk||male|22|0|0|349252|7.9||Southampton
+False|3|Mr|Sarkis|Lahoud||male||0|0|2624|7.22||Cherbourg
+True|1|Mrs|Louis|Hippach|Ida Sophia Fischer|female|44|0|1|111361|57.98|B18|Cherbourg
+False|3|Mr|Fared|Kassem||male||0|0|2700|7.23||Cherbourg
+False|3|Mr|James|Farrell||male|40.5|0|0|367232|7.75||Queenstown
+True|2|Miss|Lucy|Ridsdale||female|50|0|0|14258|10.5||Southampton
+False|1|Mr|John|Farthing||male||0|0|17483|221.78|C95|Southampton
+False|3|Mr|Johan|Salonen||male|39|0|0|3101296|7.92||Southampton
+False|2|Mr|Richard|Hocking||male|23|2|1|29104|11.5||Southampton
+True|2|Miss|Phyllis|Quick||female|2|1|1|26360|26||Southampton
+False|3|Mr|Nakli|Toufik||male||0|0|2641|7.23||Cherbourg
+False|3|Mr|Joseph|Elias||male|17|1|1|2690|7.23||Cherbourg
+True|3|Mrs|Catherine|Peter|Catherine Rizk|female||0|2|2668|22.36||Cherbourg
+False|3|Miss|Marija|Cacic||female|30|0|0|315084|8.66||Southampton
+True|2|Miss|Eva|Hart||female|7|0|2|13529|26.25||Southampton
+False|1|Major|Archibald|Butt||male|45|0|0|113050|26.55|B38|Southampton
+True|1|Miss|Bertha|LeRoy||female|30|0|0|17761|106.42||Cherbourg
+False|3|Mr|Samuel|Risien||male||0|0|364498|14.5||Southampton
+True|1|Miss|Hedwig|Frolicher||female|22|0|2|13568|49.5|B39|Cherbourg
+True|1|Miss|Harriet|Crosby||female|36|0|2|5735|71|B22|Southampton
+False|3|Miss|Ingeborg|Andersson||female|9|4|2|347082|31.28||Southampton
+False|3|Miss|Sigrid|Andersson||female|11|4|2|347082|31.28||Southampton
+True|2|Mr|Edward|Beane||male|32|1|0|2908|26||Southampton
+False|1|Mr|Walter|Douglas||male|50|1|0|17761|106.42|C86|Cherbourg
+False|1|Mr|Arthur|Nicholson||male|64|0|0|693|26||Southampton
+True|2|Mrs|Edward|Beane|Ethel Clarke|female|19|1|0|2908|26||Southampton
+True|2|Mr|Julian|Padro y Manent||male||0|0|2146|13.86||Cherbourg
+False|3|Mr|Frank|Goldsmith||male|33|1|1|363291|20.52||Southampton
+True|2|Master|John|Davies||male|8|1|1|33112|36.75||Southampton
+True|1|Mr|John|Thayer||male|17|0|2|17421|110.88|C70|Cherbourg
+False|2|Mr|Percival|Sharp||male|27|0|0|244358|26||Southampton
+False|3|Mr|Timothy|O'Brien||male||0|0|330979|7.83||Queenstown
+True|3|Mr|Fahim|Leeni|Philip Zenni|male|22|0|0|2620|7.22||Cherbourg
+True|3|Miss|Velin|Ohman||female|22|0|0|347085|7.78||Southampton
+False|1|Mr|George|Wright||male|62|0|0|113807|26.55||Southampton
+True|1|Lady|Lucille|Duff Gordon|Lucille Christiana Sutherland |female|48|1|0|11755|39.6|A16|Cherbourg
+False|1|Mr|Victor|Robbins||male||0|0|17757|227.52||Cherbourg
+True|1|Mrs|Emil|Taussig|Tillie Mandelbaum|female|39|1|1|110413|79.65|E67|Southampton
+True|3|Mrs|Guillaume|de Messemaeker|Emma|female|36|1|0|345572|17.4||Southampton
+False|3|Mr|Thomas|Morrow||male||0|0|372622|7.75||Queenstown
+False|3|Mr|Husein|Sivic||male|40|0|0|349251|7.9||Southampton
+False|2|Mr|Robert|Norman||male|28|0|0|218629|13.5||Southampton
+False|3|Mr|John|Simmons||male||0|0|392082|8.05||Southampton
+False|3|Miss|Marion|Meanwell|Marion Ogden|female||0|0|392087|8.05||Southampton
+False|3|Mr|Alfred|Davies||male|24|2|0|448871|24.15||Southampton
+False|3|Mr|Ilia|Stoytcheff||male|19|0|0|349205|7.9||Southampton
+False|3|Mrs|Nils|Palsson|Alma Cornelia Berglund|female|29|0|4|349909|21.08||Southampton
+False|3|Mr|Tannous|Doharr||male||0|0|2686|7.23||Cherbourg
+True|3|Mr|Carl|Jonsson||male|32|0|0|350417|7.85||Southampton
+True|2|Mr|George|Harris||male|62|0|0|752|10.5||Southampton
+True|1|Mrs|Edward|Appleton|Charlotte Lamson|female|53|2|0|11769|51.48|C101|Southampton
+True|1|Mr|John|Flynn|Irving|male|36|0|0|17474|26.39|E25|Southampton
+True|3|Miss|Mary|Kelly||female||0|0|14312|7.75||Queenstown
+False|3|Mr|Alfred|Rush||male|16|0|0|420589|8.05||Southampton
+False|3|Mr|George|Patchett||male|19|0|0|358585|14.5||Southampton
+True|2|Miss|Ethel|Garside||female|34|0|0|243880|13||Southampton
+True|1|Mrs|William|Silvey|Alice Munger|female|39|1|0|13507|55.9|E44|Southampton
+False|3|Mrs|Joseph|Caram|Maria Elias|female||1|0|2689|14.46||Cherbourg
+True|3|Mr|Eiriik|Jussila||male|32|0|0|23101286|7.92||Southampton
+True|2|Miss|Julie|Christy||female|25|1|1|237789|30||Southampton
+True|1|Mrs|John|Thayer|Marian Longstreth Morris|female|39|1|1|17421|110.88|C68|Cherbourg
+False|2|Mr|William|Downton||male|54|0|0|28403|26||Southampton
+False|1|Mr|John|Ross||male|36|0|0|13049|40.12|A10|Cherbourg
+False|3|Mr|Uscher|Paulner||male||0|0|3411|8.71||Cherbourg
+True|1|Miss|Ruth|Taussig||female|18|0|2|110413|79.65|E68|Southampton
+False|2|Mr|John|Jarvis||male|47|0|0|237565|15||Southampton
+True|1|Mr|Maxmillian|Frolicher-Stehli||male|60|1|1|13567|79.2|B41|Cherbourg
+False|3|Mr|Eliezer|Gilinski||male|22|0|0|14973|8.05||Southampton
+False|3|Mr|Joseph|Murdlin||male||0|0|53235|8.05||Southampton
+False|3|Mr|Matti|Rintamaki||male|35|0|0|23101273|7.12||Southampton
+True|1|Mrs|Walter|Stephenson|Martha Eustis|female|52|1|0|36947|78.27|D20|Cherbourg
+False|3|Mr|William|Elsbury||male|47|0|0|53902|7.25||Southampton
+False|3|Miss|Mary|Bourke||female||0|2|364848|7.75||Queenstown
+False|2|Mr|John|Chapman||male|37|1|0|29037|26||Southampton
+False|3|Mr|Jean|Van Impe||male|36|1|1|345773|24.15||Southampton
+True|2|Miss|Jessie|Leitch||female||0|0|248727|33||Southampton
+False|3|Mr|Alfred|Johnson||male|49|0|0||0||Southampton
+False|3|Mr|Hanna|Boulos||male||0|0|2664|7.22||Cherbourg
+True|1|Sir|Cosmo|Duff Gordon|Mr Morgan|male|49|1|0|17485|56.93|A20|Cherbourg
+True|2|Mrs|Sidney|Jacobsohn|Amy Frances Christy|female|24|2|1|243847|27||Southampton
+False|3|Mr|Petco|Slabenoff||male||0|0|349214|7.9||Southampton
+False|1|Mr|Charles|Harrington||male||0|0|113796|42.4||Southampton
+False|3|Mr|Ernst|Torber||male|44|0|0|364511|8.05||Southampton
+True|1|Mr|Harry|Homer|Mr E Haven|male|35|0|0|111426|26.55||Cherbourg
+False|3|Mr|Edvard|Lindell||male|36|1|0|349910|15.55||Southampton
+False|3|Mr|Milan|Karaic||male|30|0|0|349246|7.9||Southampton
+True|1|Mr|Robert|Daniel||male|27|0|0|113804|30.5||Southampton
+True|2|Mrs|Joseph|Laroche|Juliette Marie Louise Lafargue|female|22|1|2|2123|41.58||Cherbourg
+True|1|Miss|Elizabeth|Shutes||female|40|0|0|17582|153.46|C125|Southampton
+False|3|Mrs|Anders|Andersson|Alfrida Konstantia Brogren|female|39|1|5|347082|31.28||Southampton
+False|3|Mr|Jose|Jardin||male||0|0|3101305|7.05||Southampton
+True|3|Miss|Margaret|Murphy||female||1|0|367230|15.5||Queenstown
+False|3|Mr|John|Horgan||male||0|0|370377|7.75||Queenstown
+False|3|Mr|William|Brocklebank||male|35|0|0|364512|8.05||Southampton
+True|2|Miss|Alice|Herman||female|24|1|2|220845|65||Southampton
+False|3|Mr|Ernst|Danbom||male|34|1|1|347080|14.4||Southampton
+False|3|Mrs|William|Lobb|Cordelia K Stanlick|female|26|1|0|53336|16.1||Southampton
+True|2|Miss|Marion|Becker||female|4|2|1|230136|39|F4|Southampton
+False|2|Mr|Lawrence|Gavey||male|26|0|0|31028|10.5||Southampton
+False|3|Mr|Antoni|Yasbeck||male|27|1|0|2659|14.45||Cherbourg
+True|1|Mr|Edwin|Kimball||male|42|1|0|11753|52.55|D19|Southampton
+True|3|Mr|Sahid|Nakid||male|20|1|1|2653|15.74||Cherbourg
+False|3|Mr|Henry|Hansen||male|21|0|0|350029|7.85||Southampton
+False|3|Mr|David|Bowen||male|21|0|0|54636|16.1||Southampton
+False|1|Mr|Frederick|Sutton||male|61|0|0|36963|32.32|D50|Southampton
+False|2|Rev|Charles|Kirkland||male|57|0|0|219533|12.35||Queenstown
+True|1|Miss|Gretchen|Longley||female|21|0|0|13502|77.96|D9|Southampton
+False|3|Mr|Guentcho|Bostandyeff||male|26|0|0|349224|7.9||Southampton
+False|3|Mr|Patrick|O'Connell||male||0|0|334912|7.73||Queenstown
+True|1|Mr|Algernon|Barkworth||male|80|0|0|27042|30|A23|Southampton
+False|3|Mr|Johan|Lundahl||male|51|0|0|347743|7.05||Southampton
+True|1|Dr|Max|Stahelin-Maeglin||male|32|0|0|13214|30.5|B50|Cherbourg
+False|1|Mr|William|Parr||male||0|0|112052|0||Southampton
+False|3|Miss|Mabel|Skoog||female|9|3|2|347088|27.9||Southampton
+True|2|Miss|Mary|Davis||female|28|0|0|237668|13||Southampton
+False|3|Mr|Antti|Leinonen||male|32|0|0|23101292|7.92||Southampton
+False|2|Mr|Harvey|Collyer||male|31|1|1|31921|26.25||Southampton
+False|3|Mrs|Juha|Panula|Maria Emilia Ojala|female|41|0|5|3101295|39.69||Southampton
+False|3|Mr|Percival|Thorneycroft||male||1|0|376564|16.1||Southampton
+False|3|Mr|Hans|Jensen||male|20|0|0|350050|7.85||Southampton
+True|1|Mlle|Emma|Sagesser||female|24|0|0|17477|69.3|B35|Cherbourg
+False|3|Miss|Margit|Skoog||female|2|3|2|347088|27.9||Southampton
+True|3|Mr|Choong|Foo||male||0|0|1601|56.5||Southampton
+True|3|Miss|Eugenie|Baclini||female|0.75|2|1|2666|19.26||Cherbourg
+True|1|Mr|Henry|Harper||male|48|1|0|17572|76.73|D33|Cherbourg
+False|3|Mr|Liudevit|Cor||male|19|0|0|349231|7.9||Southampton
+True|1|Col|Oberst|Simonius-Blumer||male|56|0|0|13213|35.5|A26|Cherbourg
+False|3|Mr|Edward|Willey||male||0|0|751|7.55||Southampton
+True|3|Miss|Amy|Stanley||female|23|0|0|2314|7.55||Southampton
+False|3|Mr|Mito|Mitkoff||male||0|0|349221|7.9||Southampton
+True|2|Miss|Elsie|Doling||female|18|0|1|231919|23||Southampton
+False|3|Mr|Johannes|Kalvik||male|21|0|0|8475|8.43||Southampton
+True|3|Miss|Hanora|O'Leary||female||0|0|330919|7.83||Queenstown
+False|3|Miss|Hanora|Hegarty||female|18|0|0|365226|6.75||Queenstown
+False|2|Mr|Leonard|Hickman||male|24|2|0|14879|73.5||Southampton
+False|3|Mr|Alexander|Radeff||male||0|0|349223|7.9||Southampton
+False|3|Mrs|John|Bourke|Catherine|female|32|1|1|364849|15.5||Queenstown
+False|2|Mr|George|Eitemiller||male|23|0|0|29751|13||Southampton
+False|1|Mr|Arthur|Newell||male|58|0|2|35273|113.28|D48|Cherbourg
+True|1|Dr|Henry|Frauenthal||male|50|2|0|17611|133.65||Southampton
+False|3|Mr|Mohamed|Badt||male|40|0|0|2623|7.22||Cherbourg
+False|1|Mr|Edward|Colley||male|47|0|0|5727|25.59|E58|Southampton
+False|3|Mr|Peju|Coleff||male|36|0|0|349210|7.5||Southampton
+True|3|Mr|Eino|Lindqvist||male|20|1|0|23101285|7.92||Southampton
+False|2|Mr|Lewis|Hickman||male|32|2|0|14879|73.5||Southampton
+False|2|Mr|Reginald|Butler||male|25|0|0|234686|13||Southampton
+False|3|Mr|Knud|Rommetvedt||male||0|0|312993|7.78||Southampton
+False|3|Mr|Jacob|Cook||male|43|0|0|53536|8.05||Southampton
+True|1|Mrs|Elmer|Taylor|Juliet Cummins Wright|female||1|0|19996|52|C126|Southampton
+True|2|Mrs|Thomas|Brown|Elizabeth Catherine Ford|female|40|1|1|29750|39||Southampton
+False|1|Mr|Thornton|Davidson||male|31|1|0|12750|52|B71|Southampton
+False|2|Mr|Henry|Mitchell||male|70|0|0|24580|10.5||Southampton
+True|2|Mr|Charles|Wilhelms||male|31|0|0|244270|13||Southampton
+False|2|Mr|Ennis|Watson||male||0|0|239856|0||Southampton
+False|3|Mr|Gustaf|Edvardsson||male|18|0|0|349912|7.78||Southampton
+False|3|Mr|Frederick|Sawyer||male|24.5|0|0|342826|8.05||Southampton
+True|3|Miss|Anna|Turja||female|18|0|0|4138|9.84||Southampton
+False|3|Mrs|Frederick|Goodwin|Augusta Tyler|female|43|1|6|2144|46.9||Southampton
+True|1|Mr|Thomas|Cardeza||male|36|0|1|17755|512.33|B51 B53 B55|Cherbourg
+False|3|Miss|Katie|Peters||female||0|0|330935|8.14||Queenstown
+True|1|Mr|Hammad|Hassab||male|27|0|0|17572|76.73|D49|Cherbourg
+False|3|Mr|Thor|Olsvigen||male|20|0|0|6563|9.22||Southampton
+False|3|Mr|Charles|Goodwin||male|14|5|2|2144|46.9||Southampton
+False|2|Mr|Thomas|Brown||male|60|1|1|29750|39||Southampton
+False|2|Mr|Joseph|Laroche||male|25|1|2|2123|41.58||Cherbourg
+False|3|Mr|Jaako|Panula||male|14|4|1|3101295|39.69||Southampton
+False|3|Mr|Branko|Dakic||male|19|0|0|349228|10.17||Southampton
+False|3|Mr|Eberhard|Fischer||male|18|0|0|350036|7.8||Southampton
+True|1|Miss|Georgette|Madill||female|15|0|1|24160|211.34|B5|Southampton
+True|1|Mr|Albert|Dick||male|31|1|0|17474|57|B20|Southampton
+True|3|Miss|Manca|Karun||female|4|0|1|349256|13.42||Cherbourg
+True|3|Mr|Ali|Lam||male||0|0|1601|56.5||Southampton
+False|3|Mr|Khalil|Saad||male|25|0|0|2672|7.22||Cherbourg
+False|1|Col|John|Weir||male|60|0|0|113800|26.55||Southampton
+False|2|Mr|Charles|Chapman||male|52|0|0|248731|13.5||Southampton
+False|3|Mr|James|Kelly||male|44|0|0|363592|8.05||Southampton
+True|3|Miss|Katherine|Mullens||female||0|0|35852|7.73||Queenstown
+False|1|Mr|John|Thayer||male|49|1|1|17421|110.88|C68|Cherbourg
+False|3|Mr|Adolf|Humblen||male|42|0|0|348121|7.65|F G63|Southampton
+True|1|Mrs|John|Astor|Madeleine Talmadge Force|female|18|1|0|17757|227.52|C62 C64|Cherbourg
+True|1|Mr|Spencer|Silverthorne||male|35|0|0|17475|26.29|E24|Southampton
+False|3|Miss|Saiide|Barbara||female|18|0|1|2691|14.45||Cherbourg
+False|3|Mr|Martin|Gallagher||male|25|0|0|36864|7.74||Queenstown
+False|3|Mr|Henrik|Hansen||male|26|1|0|350025|7.85||Southampton
+False|2|Mr|Henry|Morley|Mr Henry Marshall|male|39|0|0|250655|26||Southampton
+True|2|Mrs|Florence|Kelly||female|45|0|0|223596|13.5||Southampton
+True|1|Mr|Edward|Calderhead||male|42|0|0|17476|26.29|E24|Southampton
+True|1|Miss|Alice|Cleaver||female|22|0|0|113781|151.55||Southampton
+True|3|Master|Halim|Moubarek|William George|male||1|1|2661|15.25||Cherbourg
+True|1|Mlle|Berthe|Mayne|Mrs de Villiers|female|24|0|0|17482|49.5|C90|Cherbourg
+False|1|Mr|Herman|Klaber||male||0|0|113028|26.55|C124|Southampton
+True|1|Mr|Elmer|Taylor||male|48|1|0|19996|52|C126|Southampton
+False|3|Mr|August|Larsson||male|29|0|0|7545|9.48||Southampton
+False|2|Mr|Samuel|Greenberg||male|52|0|0|250647|13||Southampton
+False|3|Mr|Peter|Soholt||male|19|0|0|348124|7.65|F G73|Southampton
+True|1|Miss|Caroline|Endres||female|38|0|0|17757|227.52|C45|Cherbourg
+True|2|Miss|Edwina|Troutt||female|27|0|0|34218|10.5|E101|Southampton
+False|3|Mr|Michael|McEvoy||male||0|0|36568|15.5||Queenstown
+False|3|Mr|Malkolm|Johnson||male|33|0|0|347062|7.78||Southampton
+True|2|Miss|Annie|Harper||female|6|0|1|248727|33||Southampton
+False|3|Mr|Svend|Jensen||male|17|1|0|350048|7.05||Southampton
+False|2|Mr|William|Gillespie||male|34|0|0|12233|13||Southampton
+False|2|Mr|Henry|Hodges||male|50|0|0|250643|13||Southampton
+True|1|Mr|Norman|Chambers||male|27|1|0|113806|53.1|E8|Southampton
+False|3|Mr|Luka|Oreskovic||male|20|0|0|315094|8.66||Southampton
+True|2|Mrs|Peter|Renouf|Lillian Jefferys|female|30|3|0|31027|21||Southampton
+True|3|Miss|Margareth|Mannion||female||0|0|36866|7.74||Queenstown
+False|2|Mr|Kurt|Bryhl||male|25|1|0|236853|26||Southampton
+False|3|Miss|Pieta|Ilmakangas||female|25|1|0|23101271|7.92||Southampton
+True|1|Miss|Elisabeth|Allen||female|29|0|0|24160|211.34|B5|Southampton
+False|3|Mr|Houssein|Hassan||male|11|0|0|2699|18.79||Cherbourg
+False|2|Mr|Robert|Knight||male||0|0|239855|0||Southampton
+False|2|Mr|William|Berriman||male|23|0|0|28425|13||Southampton
+False|2|Mr|Moses|Troupiansky||male|23|0|0|233639|13||Southampton
+False|3|Mr|Leslie|Williams||male|28.5|0|0|54636|16.1||Southampton
+False|3|Mrs|Edward|Ford|Margaret Ann Watson|female|48|1|3|6608|34.38||Southampton
+True|1|Mr|Gustave|Lesurer||male|35|0|0|17755|512.33|B101|Cherbourg
+False|3|Mr|Kanio|Ivanoff||male||0|0|349201|7.9||Southampton
+False|3|Mr|Minko|Nankoff||male||0|0|349218|7.9||Southampton
+True|1|Mr|Walter|Hawksford||male||0|0|16988|30|D45|Southampton
+False|1|Mr|Tyrell|Cavendish||male|36|1|0|19877|78.85|C46|Southampton
+True|1|Miss|Susan|Ryerson||female|21|2|2|17608|262.38|B57 B59 B63 B66|Cherbourg
+False|3|Mr|Neal|McNamee||male|24|1|0|376566|16.1||Southampton
+True|3|Mr|Juho|Stranden||male|31|0|0|23101288|7.92||Southampton
+False|1|Capt|Edward|Crosby||male|70|1|1|5735|71|B22|Southampton
+False|3|Mr|Rossmore|Abbott||male|16|1|1|2673|20.25||Southampton
+True|2|Miss|Anna|Sinkkonen||female|30|0|0|250648|13||Southampton
+False|1|Mr|Daniel|Marvin||male|19|1|0|113773|53.1|D30|Southampton
+False|3|Mr|Michael|Connaghton||male|31|0|0|335097|7.75||Queenstown
+True|2|Miss|Joan|Wells||female|4|1|1|29103|23||Southampton
+True|3|Master|Meier|Moor||male|6|0|1|392096|12.48|E121|Southampton
+False|3|Mr|Johannes|Vande Velde||male|33|0|0|345780|9.5||Southampton
+False|3|Mr|Lalio|Jonkoff||male|23|0|0|349204|7.9||Southampton
+True|2|Mrs|Samuel|Herman|Jane Laver|female|48|1|2|220845|65||Southampton
+True|2|Master|Viljo|Hamalainen||male|0.67|1|1|250649|14.5||Southampton
+False|3|Mr|August|Carlsson||male|28|0|0|350042|7.8||Southampton
+False|2|Mr|Percy|Bailey||male|18|0|0|29108|11.5||Southampton
+False|3|Mr|Thomas|Theobald||male|34|0|0|363294|8.05||Southampton
+True|1|Countess||Rothes|Lucy Noel Martha Dyer-Edwards|female|33|0|0|110152|86.5|B77|Southampton
+False|3|Mr|John|Garfirth||male||0|0|358585|14.5||Southampton
+False|3|Mr|Iisakki|Nirva||male|41|0|0|23101272|7.12||Southampton
+True|3|Mr|Hanna|Barah||male|20|0|0|2663|7.23||Cherbourg
+True|1|Mrs|William|Carter|Lucile Polk|female|36|1|2|113760|120|B96 B98|Southampton
+False|3|Mr|Hans|Eklund||male|16|0|0|347074|7.78||Southampton
+True|1|Mrs|John|Hogeboom|Anna Andrews|female|51|1|0|13502|77.96|D11|Southampton
+False|1|Dr|Arthur|Brewe||male||0|0|112379|39.6||Cherbourg
+False|3|Miss|Mary|Mangan||female|30.5|0|0|364850|7.75||Queenstown
+False|3|Mr|Daniel|Moran||male||1|0|371110|24.15||Queenstown
+False|3|Mr|Daniel|Gronnestad||male|32|0|0|8471|8.36||Southampton
+False|3|Mr|Rene|Lievens||male|24|0|0|345781|9.5||Southampton
+False|3|Mr|Niels|Jensen||male|48|0|0|350047|7.85||Southampton
+False|2|Mrs|Mary|Mack|Mary|female|57|0|0|3|10.5|E77|Southampton
+False|3|Mr|Dibo|Elias||male||0|0|2674|7.22||Cherbourg
+True|2|Mrs|Elizabeth|Hocking|Eliza Needs|female|54|1|3|29105|23||Southampton
+False|3|Mr|Pehr|Myhrman||male|18|0|0|347078|7.75||Southampton
+False|3|Mr|Roger|Tobin||male||0|0|383121|7.75|F38|Queenstown
+True|3|Miss|Virginia|Emanuel||female|5|0|0|364516|12.48||Southampton
+False|3|Mr|Thomas|Kilgannon||male||0|0|36865|7.74||Queenstown
+True|1|Mrs|Edward|Robert|Elisabeth Walton McMillan|female|43|0|1|24160|211.34|B3|Southampton
+True|3|Miss|Banoura|Ayoub||female|13|0|0|2687|7.23||Cherbourg
+True|1|Mrs|Albert|Dick|Vera Gillespie|female|17|1|0|17474|57|B20|Southampton
+False|1|Mr|Milton|Long||male|29|0|0|113501|30|D6|Southampton
+False|3|Mr|Andrew|Johnston||male||1|2|6607|23.45||Southampton
+False|3|Mr|William|Ali||male|25|0|0|3101312|7.05||Southampton
+False|3|Mr|Abraham|Harmer|David Lishin|male|25|0|0|374887|7.25||Southampton
+True|3|Miss|Anna|Sjoblom||female|18|0|0|3101265|7.5||Southampton
+False|3|Master|George|Rice||male|8|4|1|382652|29.12||Queenstown
+True|3|Master|Bertram|Dean||male|1|1|2|2315|20.58||Southampton
+False|1|Mr|Benjamin|Guggenheim||male|46|0|0|17593|79.2|B82 B84|Cherbourg
+False|3|Mr|Andrew|Keane||male||0|0|12460|7.75||Queenstown
+False|2|Mr|Alfred|Gaskell||male|16|0|0|239865|26||Southampton
+False|3|Miss|Stella|Sage||female||8|2|2343|69.55||Southampton
+False|1|Mr|William|Hoyt||male||0|0|17600|30.7||Cherbourg
+False|3|Mr|Ristiu|Dantcheff||male|25|0|0|349203|7.9||Southampton
+False|2|Mr|Richard|Otter||male|39|0|0|28213|13||Southampton
+True|1|Dr|Alice|Leader|Farnham|female|49|0|0|17465|25.93|D17|Southampton
+True|3|Mrs|Mara|Osman||female|31|0|0|349244|8.68||Southampton
+False|3|Mr|Yousseff|Ibrahim Shawah||male|30|0|0|2685|7.23||Cherbourg
+False|3|Mrs|Jean|Van Impe|Rosalie Paula Govaert|female|30|1|1|345773|24.15||Southampton
+False|2|Mr|Martin|Ponesell||male|34|0|0|250647|13||Southampton
+True|2|Mrs|Harvey|Collyer|Charlotte Annie Tate|female|31|1|1|31921|26.25||Southampton
+True|1|Master|William|Carter||male|11|1|2|113760|120|B96 B98|Southampton
+True|3|Master|Assad|Thomas||male|0.42|0|1|2625|8.52||Cherbourg
+True|3|Mr|Oskar|Hedman||male|27|0|0|347089|6.98||Southampton
+False|3|Mr|Karl|Johansson||male|31|0|0|347063|7.78||Southampton
+False|1|Mr|Thomas|Andrews||male|39|0|0|112050|0|A36|Southampton
+False|3|Miss|Ellen|Pettersson||female|18|0|0|347087|7.78||Southampton
+False|2|Mr|August|Meyer||male|39|0|0|248723|13||Southampton
+True|1|Mrs|Norman|Chambers|Bertha Griggs|female|33|1|0|113806|53.1|E8|Southampton
+False|3|Mr|William|Alexander||male|26|0|0|3474|7.89||Southampton
+False|3|Mr|James|Lester||male|39|0|0|448871|24.15||Southampton
+False|2|Mr|Richard|Slemen||male|35|0|0|28206|10.5||Southampton
+False|3|Miss|Ebba|Andersson||female|6|4|2|347082|31.28||Southampton
+False|3|Mr|Ernest|Tomlin||male|30.5|0|0|364499|8.05||Southampton
+False|1|Mr|Richard|Fry||male||0|0|112058|0|B102|Southampton
+False|3|Miss|Wendla|Heininen||female|23|0|0|23101290|7.92||Southampton
+False|2|Mr|Albert|Mallet||male|31|1|1|2079|37||Cherbourg
+False|3|Mr|John|Holm||male|43|0|0|7075|6.45||Southampton
+False|3|Master|Karl|Skoog||male|10|3|2|347088|27.9||Southampton
+True|1|Mrs|Charles|Hays|Clara Jennings Gregg|female|52|1|1|12749|93.5|B69|Southampton
+True|3|Mr|Nikola|Lulic||male|27|0|0|315098|8.66||Southampton
+False|1|Jonkheer|John|Reuchlin||male|38|0|0|19972|0||Southampton
+True|3|Mrs|Beila|Moor|Beila|female|27|0|1|392096|12.48|E121|Southampton
+False|3|Master|Urho|Panula||male|2|4|1|3101295|39.69||Southampton
+False|3|Mr|John|Flynn||male||0|0|368323|6.95||Queenstown
+False|3|Mr|Len|Lam||male||0|0|1601|56.5||Southampton
+True|2|Master|Andre|Mallet||male|1|0|2|2079|37||Cherbourg
+True|3|Mr|Thomas|McCormack||male||0|0|367228|7.75||Queenstown
+True|1|Mrs|George|Stone|Martha Evelyn|female|62|0|0|113572|80|B28|
+True|3|Mrs|Antoni|Yasbeck|Selini Alexander|female|15|1|0|2659|14.45||Cherbourg
+True|2|Master|George|Richards||male|0.83|1|1|29106|18.75||Southampton
+False|3|Mr|Amin|Saad||male||0|0|2671|7.23||Cherbourg
+False|3|Mr|Albert|Augustsson||male|23|0|0|347468|7.85||Southampton
+False|3|Mr|Owen|Allum||male|18|0|0|2223|8.3||Southampton
+True|1|Miss|Sara|Compton||female|39|1|1|17756|83.16|E49|Cherbourg
+False|3|Mr|Jakob|Pasic||male|21|0|0|315097|8.66||Southampton
+False|3|Mr|Maurice|Sirota||male||0|0|392092|8.05||Southampton
+True|3|Mr|Chang|Chip||male|32|0|0|1601|56.5||Southampton
+True|1|Mr|Pierre|Marechal||male||0|0|11774|29.7|C47|Cherbourg
+False|3|Mr|Ilmari|Alhomaki||male|20|0|0|23101287|7.92||Southampton
+False|2|Mr|Thomas|Mudd||male|16|0|0|3|10.5||Southampton
+True|1|Miss|Augusta|Serepeca||female|30|0|0|113798|31||Cherbourg
+False|3|Mr|Peter|Lemberopolous||male|34.5|0|0|2683|6.44||Cherbourg
+False|3|Mr|Jeso|Culumovic||male|17|0|0|315090|8.66||Southampton
+False|3|Mr|Anthony|Abbing||male|42|0|0|5547|7.55||Southampton
+False|3|Mr|Douglas|Sage||male||8|2|2343|69.55||Southampton
+False|3|Mr|Marin|Markoff||male|35|0|0|349213|7.9||Cherbourg
+False|2|Rev|John|Harper||male|28|0|1|248727|33||Southampton
+True|1|Mrs|Samuel|Goldenberg|Edwiga Grabowska|female||1|0|17453|89.1|C92|Cherbourg
+False|3|Master|Sigvard|Andersson||male|4|4|2|347082|31.28||Southampton
+False|3|Mr|Johan|Svensson||male|74|0|0|347060|7.78||Southampton
+False|3|Miss|Nourelain|Boulos||female|9|1|1|2678|15.25||Cherbourg
+True|1|Miss|Mary|Lines||female|16|0|1|17592|39.4|D28|Southampton
+False|2|Mrs|Ernest|Carter|Lilian Hughes|female|44|1|0|244252|26||Southampton
+True|3|Mrs|Sam|Aks|Leah Rosen|female|18|0|1|392091|9.35||Southampton
+True|1|Mrs|George|Wick|Mary Hitchcock|female|45|1|1|36928|164.87||Southampton
+True|1|Mr|Peter|Daly||male|51|0|0|113055|26.55|E17|Southampton
+True|3|Mrs|Solomon|Baclini|Latifa Qurban|female|24|0|3|2666|19.26||Cherbourg
+False|3|Mr|Raihed|Razi||male||0|0|2629|7.23||Cherbourg
+False|3|Mr|Claus|Hansen||male|41|2|0|350026|14.11||Southampton
+False|2|Mr|Frederick|Giles||male|21|1|0|28134|11.5||Southampton
+True|1|Mrs|Frederick|Swift|Margaret Welles Barron|female|48|0|0|17466|25.93|D17|Southampton
+False|3|Miss|Dorothy|Sage||female||8|2|2343|69.55||Southampton
+False|2|Mr|John|Gill||male|24|0|0|233866|13||Southampton
+True|2|Mrs|Karolina|Bystrom|Karolina|female|42|0|0|236852|13||Southampton
+True|2|Miss|Asuncion|Duran y More||female|27|1|0|2149|13.86||Cherbourg
+False|1|Mr|Washington|Roebling||male|31|0|0|17590|50.5|A24|Southampton
+False|3|Mr|Philemon|van Melkebeke||male||0|0|345777|9.5||Southampton
+True|3|Master|Harold|Johnson||male|4|1|1|347742|11.13||Southampton
+False|3|Mr|Cerin|Balkic||male|26|0|0|349248|7.9||Southampton
+True|1|Mrs|Richard|Beckwith|Sallie Monypeny|female|47|1|1|11751|52.55|D35|Southampton
+False|1|Mr|Frans|Carlsson||male|33|0|0|695|5|B51 B53 B55|Southampton
+False|3|Mr|Victor|Vander Cruyssen||male|47|0|0|345765|9||Southampton
+True|2|Mrs|Samuel|Abelson|Hannah Wizosky|female|28|1|0|3381|24||Cherbourg
+True|3|Miss|Adele|Najib||female|15|0|0|2667|7.22||Cherbourg
+False|3|Mr|Alfred|Gustafsson||male|20|0|0|7534|9.85||Southampton
+False|3|Mr|Nedelio|Petroff||male|19|0|0|349212|7.9||Southampton
+False|3|Mr|Kristo|Laleff||male||0|0|349217|7.9||Southampton
+True|1|Mrs|Thomas|Potter|Lily Alexenia Wilson|female|56|0|1|11767|83.16|C50|Cherbourg
+True|2|Mrs|William|Shelley|Imanita Parrish Hall|female|25|0|1|230433|26||Southampton
+False|3|Mr|Johann|Markun||male|33|0|0|349257|7.9||Southampton
+False|3|Miss|Gerda|Dahlberg||female|22|0|0|7552|10.52||Southampton
+False|2|Mr|Frederick|Banfield||male|28|0|0|34068|10.5||Southampton
+False|3|Mr|Henry|Sutehall||male|25|0|0|392076|7.05||Southampton
+False|3|Mrs|William|Rice|Margaret Norton|female|39|0|5|382652|29.12||Queenstown
+False|2|Rev|Juozas|Montvila||male|27|0|0|211536|13||Southampton
+True|1|Miss|Margaret|Graham||female|19|0|0|112053|30|B42|Southampton
+False|3|Miss|Catherine|Johnston||female||1|2|6607|23.45||Southampton
+True|1|Mr|Karl|Behr||male|26|0|0|111369|30|C148|Cherbourg
+False|3|Mr|Patrick|Dooley||male|32|0|0|370376|7.75||Queenstown

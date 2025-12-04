@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Password Protected Area"
+AuthUserFile /NFSHome/cgartner/public_html/Final/admin/.htpasswd
+Require valid-user
